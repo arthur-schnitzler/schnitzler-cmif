@@ -14,7 +14,7 @@
                 </availability>
                 <date when="2020-07-23T22:57:06.996-02:00"/>
                 <idno type="url"
-                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/master/1970_Schnitzler_Waissnix.xml</idno>
+                    >https://github.com/arthur-schnitzler/schnitzler-cmif/main/1970_Schnitzler_Waissnix.xml/?raw=true</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="d2b0f559-bde7-4114-82b9-741a8810c463">Arthur Schnitzler
