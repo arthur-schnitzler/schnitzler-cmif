@@ -6,6 +6,9 @@ This repository consists of CMIF-files of published correspondences of Arthur Sc
 In case you wonder what a CMIF-file is, CMIF stands for Correspondence Metadata Interchange format and the documentation can be found here:
 https://correspsearch.net/en/documentation.html
 
+And if you desire a search interface, please use:
+https://correspsearch.net/de/suche.html?s=http://d-nb.info/gnd/118609807
+
 In case you ask yourself who Arthur Schnitzler was, this might get you started:
 https://en.wikipedia.org/wiki/Arthur_Schnitzler
 
@@ -20,7 +23,7 @@ https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=drucke.xml&di
 
 Files are ordered based on the year of publication. 
 
-Only correspondences of Schnitzler are in focus. So if a monograph contains letters without Schnitzler’s involvement those are skipped. But feel free to add those letters or use the current file and create a new and complete one.
+Only correspondences of Schnitzler are in focus. So if a monograph contains letters without Schnitzler’s involvement those of third parties are usually skipped. Please feel free to add those letters or use the current file and create a revised and complete one.
 
 One major flaw with the current setup is that multiple editions of the same letters are not collated. Neither is there a way to tell whether a letter was subsequently re-dated. One day this should be fixed.
 
