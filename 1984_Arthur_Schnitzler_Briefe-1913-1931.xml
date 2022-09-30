@@ -167,7 +167,7 @@
                     <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"sameAs="1972_Schnitzler_Auernheimer">
+            <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="1972_Schnitzler_Auernheimer">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1928-05-14">14. 5. 1928</date>
@@ -177,7 +177,7 @@
                     <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"sameAs="1972_Schnitzler_Auernheimer">
+            <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="1972_Schnitzler_Auernheimer">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1928-05-17">17. 5. 1928</date>
