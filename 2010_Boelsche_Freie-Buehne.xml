@@ -3640,7 +3640,7 @@
                         >Berlin</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="280">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="280" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date notAfter="1890-09-15" notBefore="1890-08-30" evidence="conjecture">1.
@@ -3657,7 +3657,7 @@
                         >Berlin</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="281">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="281" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1890-10-14">14. Oktober 1890</date>
@@ -3671,7 +3671,7 @@
                         >Berlin</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="282">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="282" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1890-10-25">25. Oktober 1890</date>
@@ -3684,7 +3684,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="283">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="283" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1891-05-05">5. Mai 1891</date>
@@ -3698,7 +3698,7 @@
                         >Berlin</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="284">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="284" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1891-08-03">3. August 1891</date>
@@ -3712,7 +3712,7 @@
                         >Berlin</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="285">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="285" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1891-10-06">6. Oktober 1891</date>
@@ -3724,7 +3724,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="286">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="286" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1891-12-15">15. Dezember 1891</date>
@@ -3736,7 +3736,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="287">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="287" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1891-12-19">19. Dezember 1891</date>
@@ -3749,7 +3749,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="288">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="288" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1892-02-24">24. Februar 1892</date>
@@ -3762,7 +3762,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="289">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="289" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1892-03-24">24. März 1892</date>
@@ -3774,7 +3774,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="290">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="290" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1892-03-27">27. März 1892</date>
@@ -3787,7 +3787,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="291">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="291" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date notAfter="1892-04-19" notBefore="1892-04-01" evidence="conjecture">1.
@@ -3801,7 +3801,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="292">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="292" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1892-04-20">20. April 1892</date>
@@ -3814,7 +3814,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="293">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="293" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1892-05-27">27. Mai 1892</date>
@@ -3827,7 +3827,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="294">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="294" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1892-07-24">24. Juli 1892</date>
@@ -3839,7 +3839,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="295">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="295" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-04-10">10. April 1893</date>
@@ -3852,7 +3852,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="296">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="296" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-06-01">1. Juni 1893</date>
@@ -3865,7 +3865,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="297">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="297" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-06-11">11. Juni 1893</date>
@@ -3878,7 +3878,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="298">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="298" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1893-06-12">12. Juni 1893</date>
@@ -3890,7 +3890,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="299">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="299" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-06-14">14. Juni 1893</date>
@@ -3903,7 +3903,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="300">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="300" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1893-07-01">1. Juli 1893</date>
@@ -3915,7 +3915,7 @@
                     <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="301">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="301" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-07-08">8. Juli 1893</date>
@@ -3928,7 +3928,7 @@
                         >Friedrichshagen</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="302">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="302" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-07-25">25. Juli 1893</date>
@@ -3941,7 +3941,7 @@
                         >Berlin</placeName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="303">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="303" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date notAfter="1893-11-13" notBefore="1893-11-10">13. November 1893</date>
@@ -3952,7 +3952,7 @@
                     <date notAfter="1893-11-13" notBefore="1893-11-10">13. November 1893</date>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="304">
+            <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="304" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118512706">Bölsche, Wilhelm</persName>
                     <date when="1893-11-16">16. November 1893</date>

@@ -118,7 +118,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S3">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S3" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1896-02-25"/>
@@ -239,7 +239,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S5">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S5" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1896-09-14"/>
@@ -269,7 +269,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S7">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S7" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1896-09-30"/>
@@ -308,7 +308,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S8">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S8" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1897-01-07"/>
@@ -338,7 +338,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S10">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S10" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1897-05-23"/>
@@ -1272,7 +1272,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S26">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S26" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1902-01-09"/>
@@ -1858,7 +1858,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S34">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S34" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1903-11-02"/>
@@ -1878,7 +1878,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S35">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S35" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1903-11-10"/>
@@ -2070,7 +2070,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S39">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S39" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1904-08-13"/>
@@ -2445,7 +2445,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S55">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S55" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1905-10-01"/>
@@ -2623,7 +2623,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S61">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S61" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1906-01-23"/>
@@ -2643,7 +2643,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S62">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S62" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1906-01-27"/>
@@ -2743,7 +2743,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S64">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S64" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1906-04-28"/>
@@ -2763,7 +2763,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S65">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S65" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1906-05-05"/>
@@ -2813,7 +2813,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S67">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S67" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1906-07-12"/>
@@ -2834,7 +2834,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S68">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S68" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1906-07-28"/>
@@ -2855,7 +2855,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S69">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S69" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1906-08-06"/>
@@ -3129,7 +3129,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S75">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S75" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1908-03-16"/>
@@ -3477,7 +3477,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S82">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S82" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1909-08-04"/>
@@ -3498,7 +3498,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S83">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S83" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1909-08-14"/>
@@ -3561,7 +3561,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S84">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S84" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1909-12-09"/>
@@ -3581,7 +3581,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S85">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S85" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1909-12-18"/>
@@ -3611,7 +3611,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S87">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S87" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1909-12-27"/>
@@ -3874,7 +3874,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S93">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S93" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1910-12-23"/>
@@ -4037,7 +4037,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S95">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S95" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1911-09-23"/>
@@ -4057,7 +4057,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S96">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S96" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1911-10-04"/>
@@ -4127,7 +4127,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S97">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S97" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1911-12-30"/>
@@ -4328,7 +4328,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S102">
+            <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S102" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1912-09-23"/>

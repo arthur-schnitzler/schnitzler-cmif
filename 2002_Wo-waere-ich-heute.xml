@@ -24,7 +24,7 @@
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <correspDesc source="#a83cb8bd-8952-4ade-a8c0-0f6f4ec2733b" key="1">
+            <correspDesc source="#a83cb8bd-8952-4ade-a8c0-0f6f4ec2733b" key="1" sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1896-03-14"/>

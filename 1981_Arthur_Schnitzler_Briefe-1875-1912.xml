@@ -57,7 +57,7 @@
                     <persName ref="https://d-nb.info/gnd/107146134">Andro, L.</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1972_Schnitzler_Auernheimer">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1910-12-06">6. 12. 1910</date>
@@ -2556,7 +2556,7 @@
                     <persName>Kaufmann, Eugenie</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="2017_Kerr_Schnitzler">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1905-01-05">5. 1. 1905</date>
@@ -4817,7 +4817,7 @@
                     <persName ref="https://d-nb.info/gnd/118805681">Vollmoeller, Karl</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1886-10-22">22. 10. 1886</date>
@@ -4827,7 +4827,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1886-10-31">31. 10. 1886</date>
@@ -4837,7 +4837,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1886-11-12">12. 11.1886</date>
@@ -4847,7 +4847,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1887-06-21">21. 6. 1887</date>
@@ -4857,7 +4857,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1887-09-16">16. 9. 1887</date>
@@ -4867,7 +4867,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1887-12-31">31. 12. 1887</date>
@@ -4877,7 +4877,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1888-04-30">30.04 1888</date>
@@ -4887,7 +4887,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1888-05-24">24. 5. 1888</date>
@@ -4897,7 +4897,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1888-06-01">01.06 1888</date>
@@ -4907,7 +4907,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1889-02-25">25. 2. 1889</date>
@@ -4917,7 +4917,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1889-08-27">27. 8. 1889</date>
@@ -4927,7 +4927,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1890-09-01">01.09. 1890</date>
@@ -4937,7 +4937,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1890-11-14">14. 11. 1890</date>
@@ -4947,7 +4947,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1891-01-16">16. 1. 1891</date>
@@ -4957,7 +4957,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date evidence="conjecture" when="1891-02-01">01. 02. 1891</date>
@@ -4967,7 +4967,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-04-07">7. 4. 1893</date>
@@ -4977,7 +4977,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-10-26">26. 10. 1893</date>
@@ -4987,7 +4987,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-11-27">27. 11. 1893</date>
@@ -4997,7 +4997,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-11-28">28. 11. 1893</date>
@@ -5007,7 +5007,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1893-12-11">11. 12. 1893</date>
@@ -5017,7 +5017,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1895-09-30">30. 9. 1895</date>
@@ -5027,7 +5027,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1895-10-16">16. 10. 1895</date>
@@ -5037,7 +5037,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1896-06-27">27. 6. 1896</date>
@@ -5047,7 +5047,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1896-08-14">14. 8. 1896</date>
@@ -5057,7 +5057,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1897-02-26">26. 2. 1897</date>
@@ -5067,7 +5067,7 @@
                     <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="1970_Schnitzler_Waissnix">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1897-03-29">29. 3. 1897</date>
