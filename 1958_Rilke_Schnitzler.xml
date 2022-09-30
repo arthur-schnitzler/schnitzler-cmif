@@ -32,7 +32,7 @@
                     <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="10">
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="10" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1901-12-07"/>
@@ -64,7 +64,7 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="8">
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="8" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1901-07-04"/>
@@ -118,7 +118,7 @@
                     <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="3">
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="3" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1899-04-13"/>

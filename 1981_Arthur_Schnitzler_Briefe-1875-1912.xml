@@ -1873,7 +1873,7 @@
                     <persName ref="http://d-nb.info/gnd/116830735">Grein, Jack Thomas</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
+            <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"  sameAs="schnitzler-briefe">
                 <correspAction type="sent">
                     <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1912-02-12">12. 2. 1912</date>
