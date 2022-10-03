@@ -1723,6 +1723,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
