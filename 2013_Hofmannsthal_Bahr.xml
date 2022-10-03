@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -15,8 +14,7 @@
                <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
             </availability>
             <date when="2021-02-26T12:19:54.17-01:00"/>
-            <idno type="url"
-               >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/2013_Hofmannsthal_Bahr.xml</idno>
+            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/2013_Hofmannsthal_Bahr.xml</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="print" xml:id="l25eefe1-afeb-4a14-b13f-25d15ae20e34">Hugo und Gerty von
@@ -159,7 +157,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
-               <date cert="low" when="1892-02">Februar 1892(?)</date>
+               <date cert="low" notBefore="1892-02-01" notAfter="1892-02-29">Februar 1892(?)</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -288,8 +286,7 @@
          <correspDesc n="45" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/3178386/colle-isarco.html"
-                  >Gossensaß</placeName>
+               <placeName ref="http://www.geonames.org/3178386/colle-isarco.html">Gossensaß</placeName>
                <date when="1893-07-01">1. Juli 1893</date>
             </correspAction>
             <correspAction type="received">
@@ -339,8 +336,7 @@
          <correspDesc n="54" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/3071223/mala-skala.html"
-                  >Kleinskal</placeName>
+               <placeName ref="http://www.geonames.org/3071223/mala-skala.html">Kleinskal</placeName>
                <date when="1893-09-30">30. September 1893</date>
             </correspAction>
             <correspAction type="received">
@@ -703,7 +699,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
-               <date cert="low" when="1897-04">April 1897(?)</date>
+               <date cert="low" notBefore="1897-04-01" notAfter="1897-04-30">April 1897(?)</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -803,7 +799,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
-               <date cert="low" when="1897-12">Dezember 1897(?)</date>
+               <date cert="low" notBefore="1897-12-01" notAfter="1897-12-31">Dezember 1897(?)</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -823,7 +819,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
-               <date cert="low" when="1897">1897(?)</date>
+               <date cert="low" notBefore="1897-01-01" notAfter="1897-12-31">1897(?)</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -1167,7 +1163,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
-               <date cert="low" when="1899-06">Juni 1899(?)</date>
+               <date cert="low" notBefore="1899-06-01" notAfter="1899-06-30">Juni 1899(?)</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -1186,8 +1182,7 @@
          <correspDesc n="244" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/3071024/marianske-lazne.html"
-                  >Marienbad</placeName>
+               <placeName ref="http://www.geonames.org/3071024/marianske-lazne.html">Marienbad</placeName>
                <date when="1899-07-17">17. Juli 1899</date>
             </correspAction>
             <correspAction type="received">
@@ -1296,8 +1291,7 @@
          <correspDesc n="280" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/2762284/vorderbruehl.html"
-                  >Vorderbrühl</placeName>
+               <placeName ref="http://www.geonames.org/2762284/vorderbruehl.html">Vorderbrühl</placeName>
                <date when="1900-06-24">um den 24. Juni 1900</date>
             </correspAction>
             <correspAction type="received">
@@ -1307,8 +1301,7 @@
          <correspDesc n="282" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/2762284/vorderbruehl.html"
-                  >Vorderbrühl</placeName>
+               <placeName ref="http://www.geonames.org/2762284/vorderbruehl.html">Vorderbrühl</placeName>
                <date notAfter="1900-06-28">vor dem 28. Juni 1900</date>
             </correspAction>
             <correspAction type="received">
@@ -1318,8 +1311,7 @@
          <correspDesc n="283" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/2762284/vorderbruehl.html"
-                  >Vorderbrühl</placeName>
+               <placeName ref="http://www.geonames.org/2762284/vorderbruehl.html">Vorderbrühl</placeName>
                <date notAfter="1900-06-28">vor dem 28. Juni 1900</date>
             </correspAction>
             <correspAction type="received">
@@ -1370,8 +1362,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/3165541/torbole-sul-garda.html"
-                  >Torbole</placeName>
+               <placeName ref="http://www.geonames.org/3165541/torbole-sul-garda.html">Torbole</placeName>
                <date when="1900-09-23">23. September 1900</date>
             </correspAction>
             <correspAction type="received">
@@ -1685,8 +1676,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2771830/matrei-am-brenner.html"
-                  >Matrei</placeName>
+               <placeName ref="http://www.geonames.org/2771830/matrei-am-brenner.html">Matrei</placeName>
                <date when="1902-07-03">3. Juli 1902</date>
             </correspAction>
             <correspAction type="received">
@@ -2144,8 +2134,7 @@
          <correspDesc n="479" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/7534771/jagniatkow.html"
-                  >Agnetendorf</placeName>
+               <placeName ref="http://www.geonames.org/7534771/jagniatkow.html">Agnetendorf</placeName>
                <date when="1905-01-29">29. Januar 1905</date>
             </correspAction>
             <correspAction type="received">
@@ -2978,8 +2967,7 @@
          <correspDesc n="628" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/2904096/hinterhoer.html"
-                  >Hinterhör</placeName>
+               <placeName ref="http://www.geonames.org/2904096/hinterhoer.html">Hinterhör</placeName>
                <date when="1923-02-22">22. Februar 1923</date>
             </correspAction>
             <correspAction type="received">
@@ -2989,8 +2977,7 @@
          <correspDesc n="629" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/2904096/hinterhoer.html"
-                  >Hinterhör</placeName>
+               <placeName ref="http://www.geonames.org/2904096/hinterhoer.html">Hinterhör</placeName>
                <date when="1923-02-26">26. Februar 1923</date>
             </correspAction>
             <correspAction type="received">
@@ -3604,8 +3591,7 @@
          <correspDesc n="114" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <placeName ref="http://www.geonames.org/2838502/schliersee.html"
-                  >Schliersee</placeName>
+               <placeName ref="http://www.geonames.org/2838502/schliersee.html">Schliersee</placeName>
                <date when="1897-08-08">8. August 1897</date>
             </correspAction>
             <correspAction type="received">
@@ -4796,8 +4782,7 @@
                <persName ref="http://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
                <persName ref="http://d-nb.info/gnd/117190640">Löwy, Siegfried</persName>
                <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
-               <placeName ref="http://www.geonames.org/2770993/muerzzuschlag.html"
-                  >Mürzzuschlag</placeName>
+               <placeName ref="http://www.geonames.org/2770993/muerzzuschlag.html">Mürzzuschlag</placeName>
                <date when="1898-12-25">25. Dezember 1898</date>
             </correspAction>
             <correspAction type="received">
@@ -4907,8 +4892,7 @@
          <correspDesc n="248" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <placeName ref="http://www.geonames.org/2774502/kesselfall-alpenhaus.html"
-                  >Kesselfall-Alpenhaus</placeName>
+               <placeName ref="http://www.geonames.org/2774502/kesselfall-alpenhaus.html">Kesselfall-Alpenhaus</placeName>
                <date when="1899-08-11">11. August 1899</date>
             </correspAction>
             <correspAction type="received">
@@ -4918,8 +4902,7 @@
          <correspDesc n="249" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <placeName ref="http://www.geonames.org/2774502/kesselfall-alpenhaus.html"
-                  >Kesselfall-Alpenhaus</placeName>
+               <placeName ref="http://www.geonames.org/2774502/kesselfall-alpenhaus.html">Kesselfall-Alpenhaus</placeName>
                <date when="1899-08-15">15. August 1899</date>
             </correspAction>
             <correspAction type="received">
@@ -5010,8 +4993,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <persName ref="http://d-nb.info/gnd/118589768">Olbrich, Joseph Maria</persName>
-               <placeName ref="http://www.geonames.org/2843395/ruedesheim-am-rhein.html"
-                  >Rüdesheim</placeName>
+               <placeName ref="http://www.geonames.org/2843395/ruedesheim-am-rhein.html">Rüdesheim</placeName>
                <date when="1900-06-25">25. Juni 1900</date>
             </correspAction>
             <correspAction type="received">
@@ -5061,8 +5043,7 @@
          <correspDesc n="351" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <placeName ref="http://www.geonames.org/2659778/passo-del-maloja.html"
-                  >Maloja</placeName>
+               <placeName ref="http://www.geonames.org/2659778/passo-del-maloja.html">Maloja</placeName>
                <date when="1902-07-30">30. Juli 1902</date>
             </correspAction>
             <correspAction type="received">
@@ -5072,8 +5053,7 @@
          <correspDesc n="352" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <placeName ref="http://www.geonames.org/2659578/morteratsch.html"
-                  >Morteratsch</placeName>
+               <placeName ref="http://www.geonames.org/2659578/morteratsch.html">Morteratsch</placeName>
                <date when="1902-08-04">4. August 1902</date>
             </correspAction>
             <correspAction type="received">
@@ -5083,8 +5063,7 @@
          <correspDesc n="353" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <placeName ref="http://www.geonames.org/2659172/pontresina.html"
-                  >Pontresina</placeName>
+               <placeName ref="http://www.geonames.org/2659172/pontresina.html">Pontresina</placeName>
                <date when="1902-08-07">7. August 1902</date>
             </correspAction>
             <correspAction type="received">
@@ -5613,8 +5592,7 @@
          <correspDesc n="125" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html"
-                  >Hinterbrühl</placeName>
+               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html">Hinterbrühl</placeName>
                <date cert="low" when="1897-10-24">24. Oktober 1897(?)</date>
             </correspAction>
             <correspAction type="received">
@@ -5664,8 +5642,7 @@
          <correspDesc n="150" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html"
-                  >Hinterbrühl</placeName>
+               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html">Hinterbrühl</placeName>
                <date when="1898-06-19">19. Juni 1898</date>
             </correspAction>
             <correspAction type="received">
@@ -5675,8 +5652,7 @@
          <correspDesc n="164" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html"
-                  >Hinterbrühl</placeName>
+               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html">Hinterbrühl</placeName>
                <date when="1898-08-06">6. August 1898</date>
             </correspAction>
             <correspAction type="received">
@@ -5686,8 +5662,7 @@
          <correspDesc n="170" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/2761415/weyregg-am-attersee.html"
-                  >Weyregg</placeName>
+               <placeName ref="http://www.geonames.org/2761415/weyregg-am-attersee.html">Weyregg</placeName>
                <date when="1898-08-15">15. August 1898</date>
             </correspAction>
             <correspAction type="received">
@@ -5717,8 +5692,7 @@
          <correspDesc n="190" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html"
-                  >Hinterbrühl</placeName>
+               <placeName ref="http://www.geonames.org/2776358/hinterbruehl.html">Hinterbrühl</placeName>
                <date when="1898-09-24">24. September 1898</date>
             </correspAction>
             <correspAction type="received">
@@ -5732,8 +5706,7 @@
                <persName ref="http://d-nb.info/gnd/117326038">Schlesinger, Fanny</persName>
                <persName>Friedmann, Rose</persName>
                <persName>Löwenbach, Emil</persName>
-               <placeName ref="http://www.geonames.org/2761615/weissenbach-an-der-triesting.html"
-                  >Weissenbach</placeName>
+               <placeName ref="http://www.geonames.org/2761615/weissenbach-an-der-triesting.html">Weissenbach</placeName>
                <date when="1898-10-28">28. Oktober 1898</date>
             </correspAction>
             <correspAction type="received">
@@ -5876,8 +5849,7 @@
          <correspDesc n="292" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/3165541/torbole-sul-garda.html"
-                  >Torbole</placeName>
+               <placeName ref="http://www.geonames.org/3165541/torbole-sul-garda.html">Torbole</placeName>
                <date notAfter="1900-09-21">vor dem 21. September 1900</date>
             </correspAction>
             <correspAction type="received">
@@ -6114,8 +6086,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <placeName ref="http://www.geonames.org/2907911/heidelberg.html"
-                  >Heidelberg</placeName>
+               <placeName ref="http://www.geonames.org/2907911/heidelberg.html">Heidelberg</placeName>
                <date when="1904-05-20">20. Mai 1904</date>
             </correspAction>
             <correspAction type="received">
@@ -6295,8 +6266,7 @@
          <correspDesc n="470" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <placeName ref="http://www.geonames.org/2907911/heidelberg.html"
-                  >Heidelberg</placeName>
+               <placeName ref="http://www.geonames.org/2907911/heidelberg.html">Heidelberg</placeName>
                <date when="1904-12-09">9. Dezember 1904</date>
             </correspAction>
             <correspAction type="received">
@@ -6319,8 +6289,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="http://d-nb.info/gnd/118546937">Hauptmann, Gerhart</persName>
                <persName ref="http://d-nb.info/gnd/116534788">Hauptmann, Grete</persName>
-               <placeName ref="http://www.geonames.org/7534771/jagniatkow.html"
-                  >Agnetendorf</placeName>
+               <placeName ref="http://www.geonames.org/7534771/jagniatkow.html">Agnetendorf</placeName>
                <date when="1905-01-30">30. Januar 1905</date>
             </correspAction>
             <correspAction type="received">
@@ -6364,8 +6333,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="http://d-nb.info/gnd/11861911X">Strauss, Richard</persName>
                <persName ref="http://d-nb.info/gnd/117312355">Strauss-de Ahna, Pauline</persName>
-               <placeName ref="http://www.geonames.org/2922530/garmisch-partenkirchen.html"
-                  >Garmisch-Partenkirchen</placeName>
+               <placeName ref="http://www.geonames.org/2922530/garmisch-partenkirchen.html">Garmisch-Partenkirchen</placeName>
                <date when="1909-06-08">8. Juni 1909</date>
             </correspAction>
             <correspAction type="received">
@@ -6868,8 +6836,7 @@
          <correspDesc n="652" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118975803">Zimmer, Christiane von</persName>
-               <placeName ref="http://www.geonames.org/2907911/heidelberg.html"
-                  >Heidelberg</placeName>
+               <placeName ref="http://www.geonames.org/2907911/heidelberg.html">Heidelberg</placeName>
                <date when="1930-02-26">26. Februar 1930</date>
             </correspAction>
             <correspAction type="received">

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -13,8 +12,7 @@
                     <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
                 </availability>
                 <date when="2020-07-04T18:01:34.10-02:00"/>
-                <idno type="url"
-                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1958_Rilke_Schnitzler.xml</idno>
+                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1958_Rilke_Schnitzler.xml</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="zd58d226-ca44-4dfa-b10c-81551ef4de77">Heinrich Schnitzler
@@ -32,7 +30,9 @@
                     <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="10" sameAs="briefe-i">
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77"
+                key="10"
+                sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1901-12-07"/>
@@ -64,7 +64,9 @@
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="8" sameAs="briefe-i">
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77"
+                key="8"
+                sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1901-07-04"/>
@@ -89,7 +91,7 @@
             <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="6">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
-                    <date when="1911-05"/>
+                    <date notBefore="1911-05-01" notAfter="1911-05-31"/>
                     <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -111,14 +113,17 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1900-01-02"/>
-                    <placeName cert="low" ref="http://www.geonames.org/2761369"
+                    <placeName cert="low"
+                        ref="http://www.geonames.org/2761369"
                         evidence="conjecture">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="3" sameAs="briefe-i">
+            <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77"
+                key="3"
+                sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                     <date when="1899-04-13"/>
@@ -150,7 +155,7 @@
             <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="1">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
-                    <date when="1896-04"/>
+                    <date notBefore="1896-04-01" notAfter="1896-04-30"/>
                     <placeName ref="http://www.geonames.org/3067696">Prag</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -161,7 +166,8 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
                     <date notAfter="1902-01-14" notBefore="1902-01-01">Anfang 1902</date>
-                    <placeName cert="low" ref="http://www.geonames.org/2810164"
+                    <placeName cert="low"
+                        ref="http://www.geonames.org/2810164"
                         evidence="conjecture">Westerwede</placeName>
                 </correspAction>
                 <correspAction type="received">

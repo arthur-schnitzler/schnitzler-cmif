@@ -14,8 +14,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
                 <date when="2022-03-08T10:23:43.165-01:00"/>
-                <idno type="url"
-                    >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1955_Freud_an_Schnitzler.xml</idno>
+                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1955_Freud_an_Schnitzler.xml</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="print" xml:id="v149ca80-1848-4eff-991d-4c2560c2e17b">Freud, Sigmund: Briefe an Arthur Schnitzler. Hg. v. Heinrich Schnitzler. In: Neue deutsche Rundschau, Jg. 66/1(1955), S. 95–106. https://shared.acdh.oeaw.ac.at/schnitzler-briefe/1955_Freud-an-Schnitzler.pdf</bibl>
@@ -52,7 +51,9 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Arthur Schnitzler</persName>
-                    <placeName cert="low" ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                    <placeName cert="low"
+                        ref="http://www.geonames.org/2761369"
+                        evidence="conjecture">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="4">
@@ -69,7 +70,7 @@
             <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="5">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
-                    <date evidence="conjecture" when="1924-10"/>
+                    <date evidence="conjecture" notBefore="1924-10-01" notAfter="1924-10-31"/>
                     <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -124,7 +125,7 @@
             <correspDesc source="#v149ca80-1848-4eff-991d-4c2560c2e17b" key="10">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118535315" evidence="conjecture">Sigmund Freud</persName>
-                    <date evidence="conjecture" when="1931-05"/>
+                    <date evidence="conjecture" notBefore="1931-05-01" notAfter="1931-05-31"/>
                     <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
