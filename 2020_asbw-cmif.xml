@@ -251,9 +251,11 @@
          <correspDesc key="L00017"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00017.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date notBefore="1891-06-01" notAfter="1900-12-31">[Juni 1891 – 1900?]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0"
+                     notBefore="1891-06-01"
+                     notAfter="1900-12-31">[Juni 1891 – 1900?]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -612,9 +614,9 @@
          <correspDesc key="L00044"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00044.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date notBefore="1891-10-15">[nach Mitte Oktober 1891?]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" notBefore="1891-10-15">[nach Mitte Oktober 1891?]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
@@ -803,8 +805,8 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date notBefore="1892-01-01" notAfter="1893-12-31">[1892–1893?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00059"
@@ -868,8 +870,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1892-01-18">18. 1. 1892</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00064"
@@ -1142,8 +1145,9 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <date when="1892-03-18">18. 3. 1892</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00085"
@@ -1599,9 +1603,11 @@
          <correspDesc key="L00119"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00119.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date notBefore="1892-09-01" notAfter="1901-12-20">[zwischen September 1892 und Ende
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0"
+                     notBefore="1892-09-01"
+                     notAfter="1901-12-20">[zwischen September 1892 und Ende
                   1901?]</date>
             </correspAction>
             <correspAction type="received">
@@ -1618,8 +1624,12 @@
                <placeName ref="place_pmb#45896">Lélex (Ain)</placeName>
                <date when="1892-09-07">7. 9. [1892]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb213"
+                          check="">Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00122"
@@ -1968,9 +1978,12 @@
          <correspDesc key="L00147"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00147.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1892-12-27">[27. 12. 1892?]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1892-12-27">[27. 12. 1892?]</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1984,8 +1997,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1892-12-28">[28. 12. 1892?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00149"
@@ -2743,8 +2757,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1893-05-02">2. 5. 1895</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00207"
@@ -2800,9 +2815,11 @@
          <correspDesc key="L00211"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00211.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date notBefore="1893-05-04" notAfter="1894-05-02">[zwischen 5. 5. 1893 und
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0"
+                     notBefore="1893-05-04"
+                     notAfter="1894-05-02">[zwischen 5. 5. 1893 und
                   2. 5. 1894]</date>
             </correspAction>
             <correspAction type="received">
@@ -2817,8 +2834,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1893-05-05">5. 5. 1893</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00213"
@@ -2986,8 +3004,8 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <date when="1893-06-21">[21.? 6. 1893]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00226"
@@ -3228,8 +3246,9 @@
                <placeName ref="http://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1893-07-25">[25. 7. 1893]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00244"
@@ -3253,8 +3272,9 @@
                <placeName ref="http://sws.geonames.org/2782052/">Bad Ischl</placeName>
                <date when="1893-07-28">28. 7. 1893</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00246"
@@ -3537,8 +3557,8 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <date when="1893-09-20">20. 9. 1893</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00267"
@@ -3737,8 +3757,9 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <date when="1893-11-07">[7. 11. 1893?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00282"
@@ -4387,8 +4408,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-05-26">[26. 5. 1894]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00331"
@@ -4597,8 +4619,9 @@
                <persName ref="https://d-nb.info/gnd/118502255">Altenberg, Peter</persName>
                <date when="1894-07-05">[5.? 7. 1894]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00347"
@@ -4609,8 +4632,9 @@
                <placeName ref="http://sws.geonames.org/2782052/">Bad Ischl</placeName>
                <date when="1894-07-05">5. 7. 1894</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00348"
@@ -4661,8 +4685,8 @@
                <persName ref="https://d-nb.info/gnd/118502255">Altenberg, Peter</persName>
                <date when="1894-07-12">[12. 7. 1894]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00352"
@@ -5309,8 +5333,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-11-08">[8. 11. 1894]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00400"
@@ -5373,8 +5398,9 @@
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
                <date when="1894-11-22">[22. 11. 1894]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00405"
@@ -5497,9 +5523,12 @@
          <correspDesc key="L00414"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00414.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-01-01">[1895?]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1895-01-01">[1895?]</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -5596,8 +5625,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1895-02-17">[17. 2. 1895?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00422"
@@ -6009,8 +6039,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1895-06-13">[13. 6. 1895]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00453"
@@ -6284,8 +6315,8 @@
                <placeName ref="https://www.geonames.org/2937217/">Diessen am Ammersee</placeName>
                <date when="1895-08-16">[vor dem 17. 8. 1895]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00474"
@@ -7303,8 +7334,9 @@
                <persName ref="https://d-nb.info/gnd/118595474">Polgar, Alfred</persName>
                <date when="1896-06-06">6. 6. [1896?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00551"
@@ -7586,8 +7618,8 @@
                <placeName ref="https://www.geonames.org/2618425/copenhagen.html">Kopenhagen</placeName>
                <date when="1896-07-28">28. 7. 1896</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00571"
@@ -8192,8 +8224,12 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1896-11-04">[4. 11. 1896]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb168"
+                          check="">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00616"
@@ -8439,9 +8475,11 @@
          <correspDesc key="L00526"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00526.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date notBefore="1896-01-01" notAfter="1896-12-31">[1896?]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0"
+                     notBefore="1896-01-01"
+                     notAfter="1896-12-31">[1896?]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -8476,9 +8514,12 @@
          <correspDesc key="L00636"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00636.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1897-01-11">11. 1. 1897</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1897-01-11">11. 1. 1897</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
@@ -8491,8 +8532,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1897-01-14">14. 1. 1897</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00638"
@@ -8514,8 +8556,9 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1897-01-16">16. 1. 1897</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00640"
@@ -8986,8 +9029,12 @@
                <placeName ref="http://sws.geonames.org/2782052/">Bad Ischl</placeName>
                <date when="1897-05-12">12. 5. 1897</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb64183"
+                          check="">Paris</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00676"
@@ -9153,9 +9200,12 @@
          <correspDesc key="L00688"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00688.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1897-06-15">15. 6. 1897</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1897-06-15">15. 6. 1897</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/117473995">Seligmann, Adalbert</persName>
@@ -9197,8 +9247,8 @@
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
                <date when="1897-06-23">[23. 6. 1897]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00692"
@@ -9324,8 +9374,12 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1897-07-13">[13. 7. 1897]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb213"
+                          check="">Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00702"
@@ -9674,8 +9728,9 @@
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
                <date when="1897-10-02">[2. 10. 1897?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00728"
@@ -9738,8 +9793,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1897-10-20">[20. 10. 1897]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00733"
@@ -9989,8 +10045,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1897-12-25">[25. 12. 1897]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00752"
@@ -10263,8 +10320,12 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1898-02-04">4. 2. 1898</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb91649"
+                          check="">Salzburg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00773"
@@ -10354,8 +10415,8 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date notBefore="1898-02-01" notAfter="1898-02-28">Februar 1898</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00780"
@@ -10421,8 +10482,9 @@
                <placeName ref="http://sws.geonames.org/2522975/">Taormina</placeName>
                <date when="1898-03-16">16. 3. 1898</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00785"
@@ -11579,9 +11641,12 @@
          <correspDesc key="L00870"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00870.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1898-12-23">23. 12. 1898</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1898-12-23">23. 12. 1898</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -11630,9 +11695,12 @@
          <correspDesc key="L00874"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00874.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-01-04">4. 1. 1899</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1899-01-04">4. 1. 1899</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
@@ -11659,8 +11727,9 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1899-01-07">7. 1. 1899</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00877"
@@ -11958,9 +12027,12 @@
          <correspDesc key="L00899"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00899.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-03-07">7. 3. 1899</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1899-03-07">7. 3. 1899</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -12039,8 +12111,9 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1899-03-10">10. 3. 1899</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00906"
@@ -12164,9 +12237,12 @@
          <correspDesc key="L00915"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00915.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-05-08">8. 5. 1899</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1899-05-08">8. 5. 1899</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
@@ -12179,8 +12255,9 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1899-05-11">11. 5. 1899</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00917"
@@ -12265,9 +12342,12 @@
          <correspDesc key="L00923"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00923.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-06-08">8. 6. 1899</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1899-06-08">8. 6. 1899</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
@@ -12290,9 +12370,12 @@
          <correspDesc key="L00925"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L00925.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-06-15">15. 6. 1899</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1899-06-15">15. 6. 1899</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
@@ -12456,8 +12539,9 @@
                <placeName ref="http://sws.geonames.org/7872791/">Seeboden</placeName>
                <date when="1899-07-11">11. 7. 1899</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00937"
@@ -12523,8 +12607,8 @@
                <placeName ref="http://sws.geonames.org/7872791/">Seeboden</placeName>
                <date when="1899-07-14">14. 7. 1899</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00943"
@@ -12742,8 +12826,8 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <date when="1899-08-13">[13. 8. 1899]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00959"
@@ -12953,8 +13037,12 @@
                <placeName ref="http://sws.geonames.org/3164691/">Vahrn</placeName>
                <date when="1899-09-12">12. 9. 1899</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb45258"
+                          check="">München</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00974"
@@ -13159,8 +13247,8 @@
                <placeName ref="https://www.geonames.org/3182966/">St. Michael in Eppan</placeName>
                <date when="1899-10-03">3. 10. 1899</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L00989"
@@ -13717,8 +13805,8 @@
                <placeName ref="http://sws.geonames.org/3054638/">Budapest</placeName>
                <date when="1900-04-03">3. 4. [1900]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01030"
@@ -13768,8 +13856,9 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1900-04-30">30. 4. 1900</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01034"
@@ -14164,8 +14253,12 @@
                <placeName ref="http://sws.geonames.org/7872434/">Altaussee</placeName>
                <date when="1900-08-02">2. 8. 1900</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb213"
+                          check="">Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01063"
@@ -14453,8 +14546,8 @@
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
                <date when="1900-12-01">[1. 12. 1900?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01084"
@@ -14912,8 +15005,9 @@
                <placeName ref="https://www.geonames.org/3068799">Ostrava</placeName>
                <date when="1901-05-13">13. 5. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01119"
@@ -14949,8 +15043,9 @@
                <placeName ref="http://sws.geonames.org/3194099/">Opatija</placeName>
                <date when="1901-05-17">17. 5. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01122"
@@ -14974,9 +15069,12 @@
                <placeName ref="http://sws.geonames.org/3194099/">Opatija</placeName>
                <date when="1901-05-22">22. 5. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1901-05-23">23. 5. 1901</date>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1901-05-23">23. 5. 1901</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01124"
@@ -15052,8 +15150,12 @@
                <placeName ref="https://www.geonames.org/2618425/copenhagen.html">Kopenhagen</placeName>
                <date when="1901-06-16">16. 6. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb91649"
+                          check="">Salzburg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01130"
@@ -15130,8 +15232,8 @@
                <placeName ref="https://www.geonames.org/2618425/copenhagen.html">Kopenhagen</placeName>
                <date when="1901-06-26">26. 6. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01136"
@@ -15156,8 +15258,8 @@
                <placeName ref="http://sws.geonames.org/2768497/">Pörtschach</placeName>
                <date when="1901-06-28">28. 6. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01138"
@@ -15247,8 +15349,8 @@
                <placeName ref="http://sws.geonames.org/2768497/">Pörtschach</placeName>
                <date when="1901-07-10">10. 7. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01145"
@@ -15291,8 +15393,12 @@
                <placeName ref="http://sws.geonames.org/2613685/">Skodsborg</placeName>
                <date when="1901-07-15">15. 7. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb946"
+                          check="">Vahrn</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01148"
@@ -15396,8 +15502,12 @@
                <persName ref="https://d-nb.info/gnd/116402164">Brandes, Edith</persName>
                <date when="1901-07-31">31. 7. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb946"
+                          check="">Vahrn</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01156"
@@ -15517,8 +15627,12 @@
                <placeName ref="http://sws.geonames.org/2768497/">Pörtschach</placeName>
                <date when="1901-08-20">20. 8. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb428"
+                          check="">Welsberg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01165"
@@ -15544,8 +15658,12 @@
                <placeName ref="http://sws.geonames.org/2768497/">Pörtschach</placeName>
                <date when="1901-08-21">21. 8. 1901</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb428"
+                          check="">Welsberg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01167"
@@ -15690,8 +15808,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1901-09-30">[30. 9. 1901]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01178"
@@ -15969,9 +16088,12 @@
          <correspDesc key="L01199"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01199.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1902-01-25">25. 1. 1902</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1902-01-25">25. 1. 1902</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -16091,8 +16213,9 @@
                <placeName ref="https://www.geonames.org/2767332/">Rodaun</placeName>
                <date when="1902-03-08">8. 3. 1902</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01209"
@@ -16365,9 +16488,12 @@
          <correspDesc key="L01229"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01229.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1902-07-09">9. 7. 1902</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1902-07-09">9. 7. 1902</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -16604,8 +16730,9 @@
                <placeName ref="https://www.geonames.org/2767332/">Rodaun</placeName>
                <date when="1902-11-04">4. 11. 1902</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01248"
@@ -16747,8 +16874,9 @@
                <placeName ref="https://www.geonames.org/2767332/">Rodaun</placeName>
                <date when="1902-12-24">[24. 12. 1902]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01260"
@@ -16855,8 +16983,8 @@
                <placeName ref="https://www.geonames.org/2767332/">Rodaun</placeName>
                <date when="1903-01-18">18. 1. 1903</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01268"
@@ -16981,8 +17109,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1903-03-15">15. 3. 1903</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01277"
@@ -16993,8 +17122,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1903-03-15">[15. 3. 1903]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01278"
@@ -17331,9 +17461,12 @@
          <correspDesc key="L01302"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01302.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1903-07-13">1[3]. 7. 1903</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1903-07-13">1[3]. 7. 1903</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -18253,8 +18386,12 @@
                <placeName ref="http://sws.geonames.org/6555867/">Marbach am Bodensee</placeName>
                <date when="1904-02-05">5. 2. 1904</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb168"
+                          check="">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01371"
@@ -18357,8 +18494,9 @@
                <persName ref="https://d-nb.info/gnd/118679236">Dehmel, Richard</persName>
                <date when="1904-03-06">[6. 3. 1904?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01379"
@@ -18488,8 +18626,8 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date notBefore="1904-03-01" notAfter="1904-03-31">[März 1904]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01389"
@@ -18785,9 +18923,12 @@
          <correspDesc key="L01410"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01410.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1904-06-27">27. 6. 1904</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1904-06-27">27. 6. 1904</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
@@ -19864,8 +20005,8 @@
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
                <date notBefore="1905-01-01" notAfter="1905-12-31">[1905?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01490"
@@ -20354,9 +20495,12 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <date when="1905-06-14">14. 6. 1905</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1905-06-15">15. VI. 05</date>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1905-06-15">15. VI. 05</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01526"
@@ -20541,8 +20685,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1905-08-07">[7. 8. 1905]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01540"
@@ -20922,8 +21067,9 @@
                <placeName ref="http://sws.geonames.org/2766683/">St. Gilgen</placeName>
                <date when="1905-11-30">30. 11. 1905</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01569"
@@ -20934,8 +21080,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1905-12-03">3. 12. 1905</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01570"
@@ -20945,8 +21092,9 @@
                <persName ref="https://d-nb.info/gnd/118688227">Ehrenstein, Albert</persName>
                <date when="1905-12-21">21. 12. 1905</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01571"
@@ -21110,8 +21258,8 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1906-02-04">4. 2. 1906</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01584"
@@ -21188,16 +21336,20 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1906-03-11">11. 3. 1906</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01590"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01590.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1906-03-13">13. 3. 1906</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1906-03-13">13. 3. 1906</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
@@ -21288,8 +21440,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1906-05-15">[zum 15.?] 5. 1906</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01598"
@@ -21443,8 +21596,12 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1906-07-11">11. 7. 1906</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb91213"
+                          check="">Marienlyst</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01610"
@@ -21865,8 +22022,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1906-11-30">30. 11. 1906</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01641"
@@ -21967,8 +22125,9 @@
                <placeName ref="http://sws.geonames.org/2766683/">St. Gilgen</placeName>
                <date when="1907-01-03">3. 1. 1907</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01649"
@@ -22398,8 +22557,8 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date notBefore="1907-06-01" notAfter="1907-06-28">[Juni 1907?]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01682"
@@ -23071,16 +23230,20 @@
                <placeName ref="http://sws.geonames.org/2766683/">St. Gilgen</placeName>
                <date when="1907-11-14">14. 11. 1907</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01731"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01731.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1907-11-15">15. 11. [1907]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1907-11-15">15. 11. [1907]</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
@@ -23361,8 +23524,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1908-01-17">[17. 1. 1908]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01753"
@@ -23632,8 +23796,8 @@
                <placeName ref="http://sws.geonames.org/2918632/">Göttingen</placeName>
                <date notBefore="1908-06-01" notAfter="1908-06-30">Juni 1908</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01773"
@@ -23657,8 +23821,9 @@
                <placeName ref="http://sws.geonames.org/2766683/">St. Gilgen</placeName>
                <date when="1908-06-07">7. 6. 1908</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01775"
@@ -23695,8 +23860,12 @@
                <placeName ref="http://sws.geonames.org/3171593/">Pallanza</placeName>
                <date when="1908-06-25">[25. 6. 1908]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb988"
+                          check="">Seis</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01778"
@@ -23774,8 +23943,12 @@
                <placeName ref="http://sws.geonames.org/2766683/">St. Gilgen</placeName>
                <date when="1908-07-14">14. 7. 1908</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb988"
+                          check="">Seis</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01784"
@@ -23897,8 +24070,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1908-10-10">10. 10. 1908</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01793"
@@ -24110,8 +24284,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1908-11-20">20. 11. 1908</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01808"
@@ -24292,9 +24467,12 @@
          <correspDesc key="L01821"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01821.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1909-01-15">[15. 1. 1909?]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1909-01-15">[15. 1. 1909?]</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
@@ -24472,9 +24650,12 @@
          <correspDesc key="L01834"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01834.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1909-03-25">25. 3. 1909</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1909-03-25">25. 3. 1909</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
@@ -24728,8 +24909,12 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1909-07-01">1. 7. 1909</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb470"
+                          check="">Edlach</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01853"
@@ -24801,8 +24986,12 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1909-07-13">13. 7. 1909</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb470"
+                          check="">Edlach</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01858"
@@ -24939,8 +25128,12 @@
                <placeName ref="http://sws.geonames.org/2771354/">Mixnitz</placeName>
                <date when="1909-08-24">24. 8. 1909</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb45258"
+                          check="">München</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01868"
@@ -25088,8 +25281,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1909-09-21">21. 9. 1909</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01879"
@@ -25113,8 +25307,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1909-10-17">17. 10. 1909</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01881"
@@ -25205,8 +25400,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1909-11-22">22. 11. 1909</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01888"
@@ -25229,8 +25425,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1909-11-25">25. 11. 1909</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01890"
@@ -25576,8 +25773,9 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1910-02-10">10. 2. 1910</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01913"
@@ -26489,9 +26687,12 @@
          <correspDesc key="L01975"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01975.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1910-11-02">2. 11. 1910</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1910-11-02">2. 11. 1910</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
@@ -26662,8 +26863,9 @@
                <persName ref="https://d-nb.info/gnd/118620126">Suttner, Bertha von</persName>
                <date when="1910-12-01">Dezember 1910</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01989"
@@ -26700,8 +26902,9 @@
                <placeName ref="https://www.geonames.org/2618425/copenhagen.html">Kopenhagen</placeName>
                <date when="1910-12-18">18. 12. 1910</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01992"
@@ -27079,8 +27282,9 @@
                <persName ref="https://d-nb.info/gnd/118688227">Ehrenstein, Albert</persName>
                <date when="1911-05-17">17. 5. 1911</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02021"
@@ -27250,8 +27454,8 @@
                <placeName ref="https://www.geonames.org/2623032">Kopenhagen</placeName>
                <date when="1911-10-06">6. 10. 1911</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02034"
@@ -27340,8 +27544,9 @@
                <placeName ref="https://www.geonames.org/2623032">Kopenhagen</placeName>
                <date when="1911-10-19">19. 10. 1911</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02041"
@@ -27578,8 +27783,9 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1912-02-14">14. 2. 1912</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02056"
@@ -28191,9 +28397,12 @@
          <correspDesc key="L02099"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L02099.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1912-11-16">16. 11. 1912</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1912-11-16">16. 11. 1912</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -29277,10 +29486,10 @@
          <correspDesc key="L02562"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L02562.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1914-05-19">[19. 5. 1914]</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1914-05-19">[19. 5. 1914]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -29534,8 +29743,12 @@
                <placeName ref="https://www.geonames.org/2618425/copenhagen.html">Kopenhagen</placeName>
                <date when="1914-08-23">23. 8. 1914</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="#pmb213"
+                          check="">Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02196"
@@ -30347,8 +30560,9 @@
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
                <date when="1917-02-23">23. 2. 1917</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02258"
@@ -30880,8 +31094,9 @@
                <placeName ref="http://sws.geonames.org/2782070/">Markt Aussee</placeName>
                <date when="1918-08-17">17. 8. [1918]</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02298"
@@ -30957,8 +31172,9 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1918-09-18">18. 9. 1918</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02304"
@@ -31550,8 +31766,9 @@
                <placeName ref="http://sws.geonames.org/2782070/">Bad Aussee</placeName>
                <date when="1920-07-12">12. 7. 1920</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02349"
@@ -31705,9 +31922,12 @@
          <correspDesc key="L02360"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L02360.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1921-02-07">7. 2. 1921</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1921-02-07">7. 2. 1921</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -31879,8 +32099,9 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1922-01-05">5. 1. 1922</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02374"
@@ -32548,9 +32769,12 @@
          <correspDesc key="L02423"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L02423.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1924-12-14">14. 12. 1924</date>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1924-12-14">14. 12. 1924</date>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
@@ -33291,8 +33515,9 @@
                <placeName ref="http://sws.geonames.org/2911298/">Hamburg</placeName>
                <date when="1926-10-12">12. 10. 1926</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0" evidence="conjecture" ref="#pmb50">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02480"
@@ -33856,8 +34081,8 @@
                <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
                <date when="1929-08-28">28. 8. 1929</date>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02522"

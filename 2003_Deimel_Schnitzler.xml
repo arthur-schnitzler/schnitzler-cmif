@@ -30,9 +30,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -43,9 +41,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -57,9 +53,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -68,8 +62,8 @@
                <date notAfter="1884-03-17" notBefore="1884-03-12"/>
                <placeName ref="http://www.geonames.org/5128581">New York</placeName>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -90,15 +84,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <date when="1889-01-09"/>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1889-01-09"/>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Eugen Deimel</persName>
@@ -110,8 +105,8 @@
                <date from="1889-01-29" to="1889-01-30"/>
                <placeName ref="http://www.geonames.org/5128581">New York</placeName>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -122,9 +117,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -135,15 +128,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <date notAfter="1889-05-30" notBefore="1889-03-21">[undatiert, jedenfalls
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0"
+                     notAfter="1889-05-30"
+                     notBefore="1889-03-21">[undatiert, jedenfalls
                         Frühling 1889]</date>
             </correspAction>
             <correspAction type="received">
@@ -158,9 +151,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -204,9 +195,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -270,14 +259,15 @@
                <placeName ref="http://www.geonames.org/5128581" evidence="conjecture">New
                         York</placeName>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <date cert="low"
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0"
+                     cert="low"
                      evidence="conjecture"
                      notBefore="1896-01-01"
                      notAfter="1896-12-31"/>
@@ -332,9 +322,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -566,15 +554,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <date when="1897-11-21"/>
+            <correspAction xmlns="" type="sent">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+               <date xmlns="http://www.tei-c.org/ns/1.0" when="1897-11-21"/>
+               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Eugen Deimel</persName>
@@ -724,8 +713,8 @@
                <placeName ref="http://www.geonames.org/4500546">Chester Inn, Atlantic
                         City</placeName>
             </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction xmlns="" type="received">
+               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
