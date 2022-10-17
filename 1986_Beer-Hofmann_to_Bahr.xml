@@ -31,7 +31,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1900-03-29"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -51,7 +51,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1904-07-12"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -61,7 +61,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1904-08-01"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -71,7 +71,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1904-08-09"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -81,7 +81,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1905-02-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -91,7 +91,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1905-09-06"/>
-               <placeName ref="http://www.geonames.org/3174748">Lido</placeName>
+               <placeName ref="https://www.geonames.org/3174748">Lido</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -101,7 +101,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1907-08-10"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -111,7 +111,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1914-07-08"/>
-               <placeName ref="http://www.geonames.org/2761618">Weißenbach</placeName>
+               <placeName ref="https://www.geonames.org/2761618">Weißenbach</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -121,7 +121,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1919-06-12"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
@@ -131,7 +131,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1920-02-04"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>

@@ -29,143 +29,143 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1896-02-07"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-02-07"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1896-02-09"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-03-19"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1897-01-22"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-01-25"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1898-04-01"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-04-03"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1898-06-01"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1899-05-01"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1899-05-01"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date cert="low" when="1899-05-03"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-05-18"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
@@ -175,14 +175,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1899-08-01"/>
-               <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -196,7 +196,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-12-15"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -209,14 +209,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g14221ae-8633-4ad0-944c-44805d2c1459">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-02-04"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -226,7 +226,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-06-21"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -236,7 +236,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1900-07-14"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -250,7 +250,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1900-11-08"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -261,7 +261,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-11-20"/>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture" ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -271,7 +271,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date notAfter="1902-07-31" notBefore="1902-07-10"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -281,7 +281,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-08-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -291,7 +291,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1902-08-19"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -302,7 +302,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1902-09-15"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -313,7 +313,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1903-04-27"/>
-               <placeName ref="http://www.geonames.org/360630">Kairo</placeName>
+               <placeName ref="https://www.geonames.org/360630">Kairo</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -324,7 +324,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-02-27"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -334,7 +334,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-04-07"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -353,7 +353,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-12-15"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -363,7 +363,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-01-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -373,7 +373,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1910-08-26"/>
-               <placeName ref="http://www.geonames.org/3030300">Finistère</placeName>
+               <placeName ref="https://www.geonames.org/3030300">Finistère</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -383,7 +383,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1918-07-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
@@ -405,7 +405,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>
                <date when="1925-01-12"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -415,7 +415,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1925-01-26"/>
-               <placeName ref="http://www.geonames.org/2658813">St. Moritz</placeName>
+               <placeName ref="https://www.geonames.org/2658813">St. Moritz</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11856157X">Kerr, Alfred</persName>

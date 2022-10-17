@@ -30,29 +30,29 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1906-04-01"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="2">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1906-11-22"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="3">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1906-12-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -63,7 +63,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1907-04-15"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -74,18 +74,18 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1907-04-18"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="6">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1907-05-06"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -96,7 +96,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1907-06-22"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -107,7 +107,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1907-06-25"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -117,22 +117,22 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1907-07-30"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/3173140">Welsberg-Taisten</placeName>
+               <placeName ref="https://www.geonames.org/3173140">Welsberg-Taisten</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="10">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-06-06"/>
-               <placeName ref="http://www.geonames.org/2776358">Hinterbrühl</placeName>
+               <placeName ref="https://www.geonames.org/2776358">Hinterbrühl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="11">
@@ -140,30 +140,30 @@
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <persName ref="http://d-nb.info/gnd/116377577">Auernheimer, Irene</persName>
                <date when="1909-04-20"/>
-               <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+               <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="12">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1909-08-10"/>
-               <placeName ref="http://www.geonames.org/3174326">Madonna di
+               <placeName ref="https://www.geonames.org/3174326">Madonna di
                         Campiglio</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2780428">Edlach</placeName>
+               <placeName ref="https://www.geonames.org/2780428">Edlach</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="13">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-05-07"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -174,7 +174,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1910-05-08"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -185,7 +185,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1910-07-06"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -196,7 +196,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1910-10-03"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -207,7 +207,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1910-10-18"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -218,7 +218,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-10-21"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -229,7 +229,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-10-21"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -240,7 +240,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-12-06"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -251,7 +251,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1911-10-17"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -262,29 +262,29 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-10-18"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="23">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1912-08-17"/>
-               <placeName ref="http://www.geonames.org/2782724">Altaussee</placeName>
+               <placeName ref="https://www.geonames.org/2782724">Altaussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/3203301">Brioni</placeName>
+               <placeName ref="https://www.geonames.org/3203301">Brioni</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="24">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1912-10-02"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -295,29 +295,29 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date notAfter="1912-12-31" notBefore="1912-10-25" evidence="conjecture"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="26">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-12-20"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="27">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1913-05-26"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -328,7 +328,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-05-25"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -338,7 +338,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-06-29"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -357,7 +357,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1915-10-13"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -368,40 +368,40 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-10-15"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="33">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1916-06-08"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1916-06-09"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="35">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1916-08-02"/>
-               <placeName ref="http://www.geonames.org/2782724">Altaussee</placeName>
+               <placeName ref="https://www.geonames.org/2782724">Altaussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -411,18 +411,18 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1917-06-17"/>
-               <placeName ref="http://www.geonames.org/2765170">Semmering</placeName>
+               <placeName ref="https://www.geonames.org/2765170">Semmering</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2782058">Bad Gastein</placeName>
+               <placeName ref="https://www.geonames.org/2782058">Bad Gastein</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="37">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1918-11-30"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -433,7 +433,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1919-06-24"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -443,62 +443,62 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1920-01-04"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="40">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1922-05-15"/>
-               <placeName ref="http://www.geonames.org/2861650">Nürnberg</placeName>
+               <placeName ref="https://www.geonames.org/2861650">Nürnberg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="41">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1922-09-07"/>
-               <placeName ref="http://www.geonames.org/2749503">Oosterbeeck</placeName>
+               <placeName ref="https://www.geonames.org/2749503">Oosterbeeck</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="42">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1922-12-11"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="43">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1923-07-05"/>
-               <placeName ref="http://www.geonames.org/2953504">Baden-Baden</placeName>
+               <placeName ref="https://www.geonames.org/2953504">Baden-Baden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="44">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1923-12-10"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -509,22 +509,22 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1924-04-22"/>
-               <placeName ref="http://www.geonames.org/2771792">Matzleinsdorf </placeName>
+               <placeName ref="https://www.geonames.org/2771792">Matzleinsdorf </placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="46">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1924-08-25"/>
-               <placeName ref="http://www.geonames.org/2659811">Luzern</placeName>
+               <placeName ref="https://www.geonames.org/2659811">Luzern</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="47">
@@ -532,23 +532,23 @@
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1924-10-09"/>
                <placeName cert="low"
-                          ref="http://www.geonames.org/2761369"
+                          ref="https://www.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName cert="low" ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="48">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1924-11-02"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="49">
@@ -556,33 +556,33 @@
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" evidence="conjecture" when="1925-03-11">falsch:
                         11.9.1920</date>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
+               <placeName ref="https://www.geonames.org/2911298" evidence="conjecture">Hamburg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="50">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1925-03-13"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="51">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1925-04-23"/>
-               <placeName ref="http://www.geonames.org/745044">Istanbul</placeName>
+               <placeName ref="https://www.geonames.org/745044">Istanbul</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="52">
@@ -593,14 +593,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="53">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1925-07-31"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -614,36 +614,36 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/3180522">Karersee</placeName>
+               <placeName ref="https://www.geonames.org/3180522">Karersee</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="55">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1925-09-18"/>
-               <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="56">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1925-11-13"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="57">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1925-12-31"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -654,7 +654,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1926-02-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -665,12 +665,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1926-03-13"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName cert="low"
-                          ref="http://www.geonames.org/2761369"
+                          ref="https://www.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -678,18 +678,18 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1926-04-22"/>
-               <placeName ref="http://www.geonames.org/2267057">Lissabon</placeName>
+               <placeName ref="https://www.geonames.org/2267057">Lissabon</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="61">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1926-10-10"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -700,12 +700,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1927-02-14"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName cert="low"
-                          ref="http://www.geonames.org/2761369"
+                          ref="https://www.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -713,12 +713,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1927-02-15"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <placeName cert="low"
-                          ref="http://www.geonames.org/2761369"
+                          ref="https://www.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -726,7 +726,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1927-04-29"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -736,12 +736,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1927-05-18"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName cert="low"
-                          ref="http://www.geonames.org/2761369"
+                          ref="https://www.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -749,29 +749,29 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1928-05-14"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="67">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1928-05-16"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="68">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1928-05-17"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -782,29 +782,29 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1928-07-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="70">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1930-01-02"/>
-               <placeName ref="http://www.geonames.org/2761369">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="71">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1931-02-18"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -814,18 +814,18 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
                <date when="1931-07-23"/>
-               <placeName ref="http://www.geonames.org/2782724">Altaussee</placeName>
+               <placeName ref="https://www.geonames.org/2782724">Altaussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="73">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1931-08-01"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
@@ -835,7 +835,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date notAfter="1931-10-21" notBefore="1910-07-17" evidence="conjecture"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>

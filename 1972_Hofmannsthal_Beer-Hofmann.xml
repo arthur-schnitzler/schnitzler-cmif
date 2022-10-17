@@ -40,7 +40,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1891-07-08"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -110,7 +110,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1892-07-17"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -122,7 +122,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1892-07-13"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -133,7 +133,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1892-07-22"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -144,7 +144,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1892-09-16"/>
-               <placeName ref="http://www.geonames.org/3035681">Avignon</placeName>
+               <placeName ref="https://www.geonames.org/3035681">Avignon</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -235,7 +235,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-06-30"/>
-               <placeName ref="http://www.geonames.org/3178386">Gossensaß</placeName>
+               <placeName ref="https://www.geonames.org/3178386">Gossensaß</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -246,7 +246,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-07-04"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -256,7 +256,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1893-07-05"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -268,7 +268,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-07-07"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -279,7 +279,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-07-08"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction xmlns="" type="received">
                <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -295,7 +295,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-07-10"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -306,7 +306,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-07-15"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -316,7 +316,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1893-07-16"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -328,7 +328,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-07-24"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -339,7 +339,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-07-30"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -350,7 +350,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1893-09-06"/>
-               <placeName ref="http://www.geonames.org/2764121">Strobl</placeName>
+               <placeName ref="https://www.geonames.org/2764121">Strobl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -451,7 +451,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-05-29"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -471,7 +471,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-06-03"/>
-               <placeName ref="http://www.geonames.org/2867714">München</placeName>
+               <placeName ref="https://www.geonames.org/2867714">München</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -483,7 +483,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1894-06-05"/>
-               <placeName ref="http://www.geonames.org/2867714">München</placeName>
+               <placeName ref="https://www.geonames.org/2867714">München</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -494,7 +494,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-06-10"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -506,7 +506,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-07-03"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -516,7 +516,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-07-11"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -528,7 +528,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-07-16"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -539,7 +539,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-07-20"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -550,7 +550,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-07-26"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -561,7 +561,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-08-15"/>
-               <placeName ref="http://www.geonames.org/2764121">Strobl</placeName>
+               <placeName ref="https://www.geonames.org/2764121">Strobl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -572,7 +572,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-08-25"/>
-               <placeName ref="http://www.geonames.org/2764121">Strobl</placeName>
+               <placeName ref="https://www.geonames.org/2764121">Strobl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -583,7 +583,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-08-29"/>
-               <placeName ref="http://www.geonames.org/2764121">Strobl</placeName>
+               <placeName ref="https://www.geonames.org/2764121">Strobl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -593,7 +593,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-09-19"/>
-               <placeName ref="http://www.geonames.org/3174483">Luino</placeName>
+               <placeName ref="https://www.geonames.org/3174483">Luino</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -605,7 +605,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-09-22"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -635,7 +635,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-09-30"/>
-               <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+               <placeName ref="https://www.geonames.org/3176959">Florenz</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -647,7 +647,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1894-10-04"/>
-               <placeName ref="http://www.geonames.org/3078610">Brünn</placeName>
+               <placeName ref="https://www.geonames.org/3078610">Brünn</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -657,7 +657,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1894-10-14"/>
-               <placeName ref="http://www.geonames.org/3172394">Neapel</placeName>
+               <placeName ref="https://www.geonames.org/3172394">Neapel</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -719,7 +719,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date from="1895-05-13" to="1895-05-15"/>
-               <placeName ref="http://www.geonames.org/3075654">Göding</placeName>
+               <placeName ref="https://www.geonames.org/3075654">Göding</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -729,7 +729,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1895-05-22"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -741,7 +741,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1895-06-05"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -751,7 +751,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1895-06-06"/>
-               <placeName ref="http://www.geonames.org/3078234">Czaslau</placeName>
+               <placeName ref="https://www.geonames.org/3078234">Czaslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -763,7 +763,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1895-06-10"/>
-               <placeName ref="http://www.geonames.org/3075654">Göding</placeName>
+               <placeName ref="https://www.geonames.org/3075654">Göding</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -774,7 +774,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1895-06-16"/>
-               <placeName ref="http://www.geonames.org/3075654">Göding</placeName>
+               <placeName ref="https://www.geonames.org/3075654">Göding</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -784,7 +784,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1895-06-26"/>
-               <placeName ref="http://www.geonames.org/3078234">Czaslau</placeName>
+               <placeName ref="https://www.geonames.org/3078234">Czaslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -796,7 +796,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1895-06-28"/>
-               <placeName ref="http://www.geonames.org/3075654">Göding</placeName>
+               <placeName ref="https://www.geonames.org/3075654">Göding</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -806,7 +806,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1895-07-16"/>
-               <placeName ref="http://www.geonames.org/2764121">Strobl</placeName>
+               <placeName ref="https://www.geonames.org/2764121">Strobl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -818,7 +818,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1895-07-23"/>
-               <placeName ref="http://www.geonames.org/3075654">Göding</placeName>
+               <placeName ref="https://www.geonames.org/3075654">Göding</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -829,7 +829,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1895-11-25"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -850,7 +850,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1896-05-10"/>
-               <placeName ref="http://www.geonames.org/691497">Tlumacz</placeName>
+               <placeName ref="https://www.geonames.org/691497">Tlumacz</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -861,7 +861,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1896-07-11"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -872,7 +872,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1896-07-09"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -882,7 +882,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1896-07-09"/>
-               <placeName ref="http://www.geonames.org/2779131">Fürberg</placeName>
+               <placeName ref="https://www.geonames.org/2779131">Fürberg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -894,7 +894,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1896-07-10"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -905,7 +905,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1896-07-13"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -966,7 +966,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1897-07-30"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -976,7 +976,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1897-08-01"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -988,7 +988,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1897-08-03"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -999,7 +999,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1897-08-26"/>
-               <placeName ref="http://www.geonames.org/3164699">Varese</placeName>
+               <placeName ref="https://www.geonames.org/3164699">Varese</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1010,7 +1010,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1897-09-05"/>
-               <placeName ref="http://www.geonames.org/3164699">Varese</placeName>
+               <placeName ref="https://www.geonames.org/3164699">Varese</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1020,7 +1020,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1897-09-25"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1032,7 +1032,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date notAfter="1897-11-30" notBefore="1897-10-01"/>
-               <placeName ref="http://www.geonames.org/2776358">Hinterbrühl</placeName>
+               <placeName ref="https://www.geonames.org/2776358">Hinterbrühl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1053,7 +1053,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-06-12"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1064,7 +1064,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-06-25"/>
-               <placeName ref="http://www.geonames.org/2776358">Hinterbrühl</placeName>
+               <placeName ref="https://www.geonames.org/2776358">Hinterbrühl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1075,7 +1075,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-07-02"/>
-               <placeName ref="http://www.geonames.org/710400">Czortkow</placeName>
+               <placeName ref="https://www.geonames.org/710400">Czortkow</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1085,7 +1085,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1898-07-05"/>
-               <placeName ref="http://www.geonames.org/2764480">Steindorf</placeName>
+               <placeName ref="https://www.geonames.org/2764480">Steindorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1097,7 +1097,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-07-11"/>
-               <placeName ref="http://www.geonames.org/710400">Czortkow</placeName>
+               <placeName ref="https://www.geonames.org/710400">Czortkow</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1107,7 +1107,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1898-07-17"/>
-               <placeName ref="http://www.geonames.org/2764480">Steindorf</placeName>
+               <placeName ref="https://www.geonames.org/2764480">Steindorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1119,7 +1119,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-07-19"/>
-               <placeName ref="http://www.geonames.org/710400">Czortkow</placeName>
+               <placeName ref="https://www.geonames.org/710400">Czortkow</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1129,7 +1129,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1898-07-22"/>
-               <placeName ref="http://www.geonames.org/2764480">Steindorf</placeName>
+               <placeName ref="https://www.geonames.org/2764480">Steindorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1141,7 +1141,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-08-02"/>
-               <placeName ref="http://www.geonames.org/2776358">Hinterbrühl</placeName>
+               <placeName ref="https://www.geonames.org/2776358">Hinterbrühl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1151,7 +1151,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1898-08-05"/>
-               <placeName ref="http://www.geonames.org/2764480">Steindorf</placeName>
+               <placeName ref="https://www.geonames.org/2764480">Steindorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1163,7 +1163,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-08-07"/>
-               <placeName ref="http://www.geonames.org/2776358">Hinterbrühl</placeName>
+               <placeName ref="https://www.geonames.org/2776358">Hinterbrühl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1174,7 +1174,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-08-18"/>
-               <placeName ref="http://www.geonames.org/2658112">Visp</placeName>
+               <placeName ref="https://www.geonames.org/2658112">Visp</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1185,7 +1185,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-08-22"/>
-               <placeName ref="http://www.geonames.org/2659836">Lugano</placeName>
+               <placeName ref="https://www.geonames.org/2659836">Lugano</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1195,7 +1195,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1898-08-22"/>
-               <placeName ref="http://www.geonames.org/2764480">Steindorf</placeName>
+               <placeName ref="https://www.geonames.org/2764480">Steindorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1206,7 +1206,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1898-08-23"/>
-               <placeName ref="http://www.geonames.org/2764480">Steindorf</placeName>
+               <placeName ref="https://www.geonames.org/2764480">Steindorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1218,7 +1218,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-08-24"/>
-               <placeName ref="http://www.geonames.org/2659836">Lugano</placeName>
+               <placeName ref="https://www.geonames.org/2659836">Lugano</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1229,7 +1229,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-08-26"/>
-               <placeName ref="http://www.geonames.org/2659836">Lugano</placeName>
+               <placeName ref="https://www.geonames.org/2659836">Lugano</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1239,7 +1239,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1898-08-27"/>
-               <placeName ref="http://www.geonames.org/2764480">Steindorf</placeName>
+               <placeName ref="https://www.geonames.org/2764480">Steindorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1251,7 +1251,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-09-11"/>
-               <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+               <placeName ref="https://www.geonames.org/3176959">Florenz</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1262,7 +1262,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1898-09-13"/>
-               <placeName ref="http://www.geonames.org/3176959">Florenz</placeName>
+               <placeName ref="https://www.geonames.org/3176959">Florenz</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1323,7 +1323,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1899-07-06"/>
-               <placeName ref="http://www.geonames.org/3071024">Marienbad</placeName>
+               <placeName ref="https://www.geonames.org/3071024">Marienbad</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1333,7 +1333,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1899-07-11"/>
-               <placeName ref="http://www.geonames.org/2765286">Seeboden</placeName>
+               <placeName ref="https://www.geonames.org/2765286">Seeboden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1345,7 +1345,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1899-09-01"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1355,7 +1355,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1899-09-03"/>
-               <placeName ref="http://www.geonames.org/2765286">Seeboden</placeName>
+               <placeName ref="https://www.geonames.org/2765286">Seeboden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1367,7 +1367,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1899-09-05"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1378,7 +1378,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1899-09-07"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1388,7 +1388,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1899-09-08"/>
-               <placeName ref="http://www.geonames.org/3164691">Vahrn</placeName>
+               <placeName ref="https://www.geonames.org/3164691">Vahrn</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1400,7 +1400,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1899-09-12"/>
-               <placeName ref="http://www.geonames.org/2782724">Altaussee</placeName>
+               <placeName ref="https://www.geonames.org/2782724">Altaussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1411,7 +1411,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1899-10-03"/>
-               <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1442,7 +1442,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-02-21"/>
-               <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1453,7 +1453,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-02-28"/>
-               <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1463,7 +1463,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1900-03-18"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1475,7 +1475,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-04-02"/>
-               <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1485,7 +1485,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1900-05-01"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1497,7 +1497,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-07-06"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1508,7 +1508,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-07-14"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119044994">Beer-Hofmann, Paula</persName>
@@ -1518,7 +1518,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1900-07-15"/>
-               <placeName ref="http://www.geonames.org/2782724">Altaussee</placeName>
+               <placeName ref="https://www.geonames.org/2782724">Altaussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1530,7 +1530,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-07-23"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1541,7 +1541,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-09-04"/>
-               <placeName ref="http://www.geonames.org/694864">Sambor</placeName>
+               <placeName ref="https://www.geonames.org/694864">Sambor</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1552,7 +1552,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1900-09-10"/>
-               <placeName ref="http://www.geonames.org/759591">Sanok</placeName>
+               <placeName ref="https://www.geonames.org/759591">Sanok</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1605,7 +1605,7 @@
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty
                         von</persName>
                <date when="1901-06-18"/>
-               <placeName ref="http://www.geonames.org/3174748">Lido</placeName>
+               <placeName ref="https://www.geonames.org/3174748">Lido</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1616,7 +1616,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-07-12"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1627,7 +1627,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-07-29"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1638,7 +1638,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-08-02"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1649,7 +1649,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-08-13"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1660,7 +1660,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-08-28"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1671,7 +1671,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-09-19"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1682,7 +1682,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-10-08"/>
-               <placeName ref="http://www.geonames.org/3164699">Varese</placeName>
+               <placeName ref="https://www.geonames.org/3164699">Varese</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1693,7 +1693,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-10-08"/>
-               <placeName ref="http://www.geonames.org/3164699">Varese</placeName>
+               <placeName ref="https://www.geonames.org/3164699">Varese</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1704,7 +1704,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-10-09"/>
-               <placeName ref="http://www.geonames.org/3164699">Varese</placeName>
+               <placeName ref="https://www.geonames.org/3164699">Varese</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1715,7 +1715,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-10-10"/>
-               <placeName ref="http://www.geonames.org/3164699">Varese</placeName>
+               <placeName ref="https://www.geonames.org/3164699">Varese</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1726,7 +1726,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-11-11"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1737,7 +1737,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1901-09-19"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1748,7 +1748,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1902-10-08"/>
-               <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+               <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1759,7 +1759,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1902-10-20"/>
-               <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+               <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1770,7 +1770,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1902-10-23"/>
-               <placeName ref="http://www.geonames.org/3169070">Rom</placeName>
+               <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1781,7 +1781,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1902-11-01"/>
-               <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1792,7 +1792,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-03-04"/>
-               <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+               <placeName ref="https://www.geonames.org/2935022">Dresden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1803,7 +1803,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-03-08"/>
-               <placeName ref="http://www.geonames.org/2892518">Kassel</placeName>
+               <placeName ref="https://www.geonames.org/2892518">Kassel</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1814,7 +1814,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-06-17"/>
-               <placeName ref="http://www.geonames.org/3177952">Cortina d‘Ampezzo</placeName>
+               <placeName ref="https://www.geonames.org/3177952">Cortina d‘Ampezzo</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1825,7 +1825,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-06-20"/>
-               <placeName ref="http://www.geonames.org/3177952">Cortina d‘Ampezzo</placeName>
+               <placeName ref="https://www.geonames.org/3177952">Cortina d‘Ampezzo</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1836,7 +1836,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-06-27"/>
-               <placeName ref="http://www.geonames.org/3182210">Belluno</placeName>
+               <placeName ref="https://www.geonames.org/3182210">Belluno</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1847,7 +1847,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-06-29"/>
-               <placeName ref="http://www.geonames.org/3164419">Vicenza</placeName>
+               <placeName ref="https://www.geonames.org/3164419">Vicenza</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1858,7 +1858,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-10-30"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1869,7 +1869,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-10-31"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1880,7 +1880,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1903-10-31"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1891,7 +1891,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1904-08-28"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1902,7 +1902,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1904-07-28"/>
-               <placeName ref="http://www.geonames.org/2782059">Bad Fusch</placeName>
+               <placeName ref="https://www.geonames.org/2782059">Bad Fusch</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119044994">Beer-Hofmann, Paula</persName>
@@ -1912,7 +1912,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1904-09-21"/>
-               <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -1924,7 +1924,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1904-10-11"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1935,7 +1935,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date notAfter="1905-01-31" notBefore="1905-01-01"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1946,7 +1946,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1905-01-16"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1957,7 +1957,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1905-02-06"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1968,7 +1968,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1905-02-07"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1979,7 +1979,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1905-05-12"/>
-               <placeName ref="http://www.geonames.org/2969679">Versailles</placeName>
+               <placeName ref="https://www.geonames.org/2969679">Versailles</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -1990,7 +1990,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1905-05-29"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2001,7 +2001,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date cert="low" notAfter="1905-05-31" notBefore="1905-05-01"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2012,7 +2012,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1905-10-08"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2023,7 +2023,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1905-12-01"/>
-               <placeName ref="http://www.geonames.org/2812482">Weimar</placeName>
+               <placeName ref="https://www.geonames.org/2812482">Weimar</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2034,7 +2034,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1907-01-16"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2045,7 +2045,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1907-07-15"/>
-               <placeName ref="http://www.geonames.org/3173140">Welsberg</placeName>
+               <placeName ref="https://www.geonames.org/3173140">Welsberg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2067,7 +2067,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1907-10-05"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2078,7 +2078,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1909-07-31"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2088,7 +2088,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1909-07-15"/>
-               <placeName ref="http://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -2100,7 +2100,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1909-08-27"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2111,7 +2111,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1910-05-10"/>
-               <placeName ref="http://www.geonames.org/3054643">Budapest</placeName>
+               <placeName ref="https://www.geonames.org/3054643">Budapest</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2122,7 +2122,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1911-05-31"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2133,7 +2133,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1912-05-10"/>
-               <placeName ref="http://www.geonames.org/3174530">Lucca</placeName>
+               <placeName ref="https://www.geonames.org/3174530">Lucca</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2144,7 +2144,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1913-10-26"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2155,7 +2155,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date notAfter="1914-07-31" notBefore="1914-07-25"/>
-               <placeName ref="http://www.geonames.org/3193561">Pisino</placeName>
+               <placeName ref="https://www.geonames.org/3193561">Pisino</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2166,7 +2166,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1914-09-11"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2176,7 +2176,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1914-09-12"/>
-               <placeName ref="http://www.geonames.org/2761618">Weißenbach am
+               <placeName ref="https://www.geonames.org/2761618">Weißenbach am
                         Attersee</placeName>
             </correspAction>
             <correspAction type="received">
@@ -2189,7 +2189,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1915-03-07"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2200,7 +2200,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1915-09-21"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2211,7 +2211,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1916-05-17"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2222,7 +2222,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1917-07-25"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2232,7 +2232,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1917-07-31"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -2244,7 +2244,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1917-08-10"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2255,7 +2255,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1917-08-22"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2268,7 +2268,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1918-07-19"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119044994">Beer-Hofmann, Paula</persName>
@@ -2279,7 +2279,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1918-07-21"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2290,7 +2290,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1918-08-13"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2301,7 +2301,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1918-08-17"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2312,7 +2312,7 @@
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty
                         von</persName>
                <date when="1919-04-04"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119044994">Beer-Hofmann, Paula</persName>
@@ -2323,7 +2323,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1919-04-20"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2334,7 +2334,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1919-05-07"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2344,7 +2344,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date from="1919-05-07" to="1919-05-09"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -2356,7 +2356,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1919-05-23"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2367,7 +2367,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1920-09-10"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2378,7 +2378,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1920-11-15"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2389,7 +2389,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1921-07-04"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2400,7 +2400,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1922-06-01"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2410,7 +2410,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1922-08-17"/>
-               <placeName ref="http://www.geonames.org/2771725">Mayrhofen</placeName>
+               <placeName ref="https://www.geonames.org/2771725">Mayrhofen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -2422,7 +2422,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1922-08-23"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2433,7 +2433,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1922-10-21"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2444,7 +2444,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1924-02-01"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2455,7 +2455,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1924-10-13"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2466,7 +2466,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1925-03-15"/>
-               <placeName ref="http://www.geonames.org/2542997">Marrakesh</placeName>
+               <placeName ref="https://www.geonames.org/2542997">Marrakesh</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2477,7 +2477,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1926-05-20"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2488,7 +2488,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1927-07-05"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2501,7 +2501,7 @@
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty
                         von</persName>
                <date when="1927-09-16"/>
-               <placeName ref="http://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2512,7 +2512,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1927-11-07"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2522,7 +2522,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1927-11-11"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
@@ -2534,7 +2534,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1927-11-17"/>
-               <placeName ref="http://www.geonames.org/2782070">Bad Aussee</placeName>
+               <placeName ref="https://www.geonames.org/2782070">Bad Aussee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -2545,7 +2545,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
                         von</persName>
                <date when="1929-07-15"/>
-               <placeName ref="http://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
+               <placeName ref="https://www.geonames.org/2767332/rodaun.html">Rodaun</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
