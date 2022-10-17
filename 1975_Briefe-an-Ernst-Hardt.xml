@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vier Briefe Arthur Schnitzlers an Ernst Hardt</title>
+                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton Müller</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-10-18T12:22:30.622-02:00"/>
+                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1975_Briefe-an-Ernst-Hardt.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="u76a6932-a288-44db-a5d5-8eba12ba4b14">Briefe an Ernst Hardt. Eine Auswahl aus den Jahren 1898–1947. In Verbindung mit Tilla Goetz-Hardt hrsg. von Jochen Meyer. Marbach am Neckar: Deutsches Literaturarchiv 1975 (Marbacher Schriften, 10)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#u76a6932-a288-44db-a5d5-8eba12ba4b14" key="52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1908-11-09"/>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11870155X">Hardt, Ernst</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u76a6932-a288-44db-a5d5-8eba12ba4b14" key="69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1913-11-04"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11870155X">Hardt, Ernst</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u76a6932-a288-44db-a5d5-8eba12ba4b14" key="72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1915-01-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11870155X">Hardt, Ernst</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u76a6932-a288-44db-a5d5-8eba12ba4b14" key="112">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1926-02-27"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11870155X">Hardt, Ernst</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
