@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief an Otto Brahm</title>
+                <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-11-11T12:11:05.189-01:00"/>
+                <idno type="url">https://schnitzler-briefe.acdh.oeaw.ac.at/</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="yfe5138a-3957-47d1-8058-012dc74ac231">Reinhard Urbach: Ein bisher unbekannter Brief Arthur Schnitzlers an Otto Brahm. In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4,  S. 19-22</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#yfe5138a-3957-47d1-8058-012dc74ac231" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+                    <date evidence="conjecture" when="1907-10-20"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
