@@ -1,0 +1,1401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zweig_Bahr</title>
+                <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-11-15T11:07:15.260-01:00"/>
+                <idno type="url">https://schnitzler-briefe.acdh.oeaw.ac.at/</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="d43bae78-6be4-4898-b4e5-86e3d9bc9f34">Stefan Zweig: Briefwechsel. Hg. v. Jeffrey B. Berlin et al. S. Fischer: Frankfurt a. M. 1987.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1904-06-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1904-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1908-10-08"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1909-05-18"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1909-09-21"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1909-09-28"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1909-11"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1910-04-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1910-07-27"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1910-08-25"/>
+                    <placeName ref="http://www.geonames.org/2760632">Zell am Ziller</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1910-09-29"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1910-11-16"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1911-01"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1911-05-20"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1911-05-23"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date cert="low" when="1911-05-21"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1912-09-14"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1913-04-14"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1913-05-13"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1913-05-05"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1913-05-07"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1913-05"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1913-05-21"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1913-05-25"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1913-05-28"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1913-07-19"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1913-07-20"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1913-12-23"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1914-09-06"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1914-09-01"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117677957" evidence="conjecture">Stürgkh</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1914-09-09"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1914-12-25"/>
+                    <placeName ref="http://www.geonames.org/2782067" evidence="conjecture">Baden bei Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1914-12-31"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1916-10-18"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1916-11-15"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1917-08-19"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1917-08-21"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1917-09-09"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1918-12-09"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <placeName ref="http://www.geonames.org/2658919" evidence="conjecture">Rüschlikon</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-04-02"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-05"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-05-14"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-05-17"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-05-17"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-06-11"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-06-18"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-07-03"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-06-17"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-07-10"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-07-13"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-08-05"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1919-08-18"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-08-20"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-09-02"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-09-12"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-11-20"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-12-05"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1919-12-08"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-04-07"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-06-07"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-06-17"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-06-24"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-07-01"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-07-15"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1920-07-16"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-07-19"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-07-22"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-08-11"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1920-08-22"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-08-26"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-10-06"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-11-04"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-12-02"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-12-05"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1920-12-11"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1921-01-01"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-01-03"/>
+                    <placeName ref="http://www.geonames.org/2950881" evidence="conjecture">Berchtesgaden</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-02-03"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-02-10"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-04-15"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-05-02"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1921-05-03"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1921-05-23"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-06-09"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-06-27"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-09-21"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date cert="low" when="1921-10-24"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-11-06"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1921-12-15"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1922-01-29"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1922-03-06"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1922-05-31"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1922-10-28"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1923-06-15"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1923-07-19"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1923-08-02"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1923-09-13"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1923-09-15"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1923-09-17"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1923-09-18"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1923-09-19"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1923-10-07"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1924-02-06"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1924-11-14"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-10-01"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-02-27"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-03-20"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-04-15"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-04-16"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-04-16"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-05-11"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-05-12"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-05-15"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-05-18"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-05-18"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-05-19"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-05-22"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-06-01"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-06-19"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1925-06-21"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1925-07-13"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1926-09-20"/>
+                    <placeName ref="http://www.geonames.org/2922530" evidence="conjecture">Garmisch</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1927-01-17"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1927-05-09"/>
+                    <placeName ref="http://www.geonames.org/2953324" evidence="conjecture">Bad Tölz</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1927-11-26"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1927-12-03"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1928-05-01"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1928-07-25"/>
+                    <placeName ref="http://www.geonames.org/2782058" evidence="conjecture">Bad Gastein</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1929-09-30"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1929-10-04"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1929-12-21"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1929-12-23"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1930-03-31"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1930-06-05"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1931-03-28"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                    <date evidence="conjecture" when="1931-11-20"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118637479" evidence="conjecture">Zweig, Stefan</persName>
+                    <date evidence="conjecture" when="1933-07-18"/>
+                    <placeName ref="http://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118505955" evidence="conjecture">Bahr, Hermann</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
