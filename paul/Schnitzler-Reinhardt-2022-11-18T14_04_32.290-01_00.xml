@@ -1,0 +1,1074 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schnitzler-Reinhardt</title>
+                <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-11-18T14:04:32.290-01:00"/>
+                <idno type="url">https://schnitzler-briefe.acdh.oeaw.ac.at/</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="u23454be-b4dd-4bf6-8dc1-c5e2e528c38d">Renate Wagner (Hg.): Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen Mitarbeitern. Otto Müller Verlag, Salzburg: 1971.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1902-08-31"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-08-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-08-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-08-19"/>
+                    <placeName ref="http://www.geonames.org/2919474">Göhren</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-10-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-10-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-10-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-11-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-11-02"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-11-04"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date cert="low" when="1904-11-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-11-28"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-11-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1904-12-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1905-06-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1905-08-11"/>
+                    <placeName ref="http://www.geonames.org/2942126">Buckow</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1905-08-22"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1905-08-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1905-09-06"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R20">
+                <correspAction type="sent">
+                    <persName>Neues Theater</persName>
+                    <date when="1905-09-12"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1906-05-31"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116819820">Frisch, Efraim</persName>
+                    <date when="1906-09-05"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116819820">Frisch, Efraim</persName>
+                    <date when="1906-06-13"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date evidence="conjecture" when="1907"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R25">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date cert="low" evidence="conjecture" when="1907-08-30"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R26">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1907-09-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R27">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1918-05-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1908-05-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1908-05-28"/>
+                    <placeName ref="http://www.geonames.org/3054643">Budapest</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1908-05-29"/>
+                    <placeName ref="http://www.geonames.org/3054643">Budapest</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1908-06-22"/>
+                    <placeName evidence="conjecture">Sant Elisabetta Lydo</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1908-06-26"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116420278">Reinhardt, Edmund</persName>
+                    <date when="1908-08-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116420278">Reinhardt, Edmund</persName>
+                    <date when="1908-08-17"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R35">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1908-08-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116420278">Reinhardt, Edmund</persName>
+                    <date when="1908-08-23"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date evidence="conjecture" when="1908"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1908-08-29"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116420278">Reinhardt, Edmund</persName>
+                    <date when="1908-09-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1908-09-21"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R40">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1908-09-21"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1908-09-22"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1909-07-30"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1909-08-13"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-09-12"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-09-13"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-09-15"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-09-21"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1909-09-24"/>
+                    <placeName ref="http://www.geonames.org/2867714" evidence="conjecture">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-09-25"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R50">
+                <correspAction type="sent">
+                    <persName>Graf von Schwerin</persName>
+                    <date when="1909-09-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-09-29"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <persName>Graf von Schwerin</persName>
+                    <date when="1909-09-30"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-10-09"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-10-12"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-10-16"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-10-18"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-10-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-10-21"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-10-22"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-10-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-10-30"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-11-10"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-11-10"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-11-30"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R57">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-12-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-12-17"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R58">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1909-12-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1909-12-24"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R59">
+                <correspAction type="sent">
+                    <persName>Metzl, Richard</persName>
+                    <date when="1910-11-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R60">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1917-11-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R61">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1917-12-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R62">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/119239175">Reiss, Erich</persName>
+                    <date when="1917-12-20"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R63">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1918-10-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R64">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1918-10-23"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R65">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1918-11-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R66">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1918-12-05"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R67">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116017538">Kahane, Arthur</persName>
+                    <date when="1918-12-31"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R68">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1919-04-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R69">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380" evidence="conjecture">Reinhardt, Max</persName>
+                    <date when="1919-04-19"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R70">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1919-05-15"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R71">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1919-06-06"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R72">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1919-06-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R73">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1920-02-13"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R74">
+                <correspAction type="sent">
+                    <persName>Deutsches Theater</persName>
+                    <date when="1920-03-23"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R75">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1920-03-31"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R76">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1920-04-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R77">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+                    <date when="1920-04-24"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R78">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/140122109">Stark, Günther</persName>
+                    <date when="1920-05-28"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R79">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1920-11-07"/>
+                    <placeName ref="http://www.geonames.org/2940187">Charlottenburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R80">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1920-12-02"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R81">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1920-12-16"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R82">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1920-12-23"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R83">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1921-02-07"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R84">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116961805">Hollaender, Felix</persName>
+                    <date when="1921-02-22"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R85">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116621338">Rosen, Karl</persName>
+                    <date when="1921-05-30"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R86">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11692229X">Hock, Stefan</persName>
+                    <date when="1921-08-26"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R87">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11692229X">Hock, Stefan</persName>
+                    <date when="1921-09-14"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R88">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11692229X">Hock, Stefan</persName>
+                    <date when="1921-09-30"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R89">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11692229X">Hock, Stefan</persName>
+                    <date when="1921-10-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R90">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116621338">Rosen, Karl</persName>
+                    <date when="1921-10-25"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R91">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116621338">Rosen, Karl</persName>
+                    <date when="1921-11-03"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R92">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/116621338">Rosen, Karl</persName>
+                    <date when="1921-12-01"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R93">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/11692229X">Hock, Stefan</persName>
+                    <date when="1921-12-08"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,624 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schnitzler-Unruh</title>
+                <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-11-18T12:11:18.357-01:00"/>
+                <idno type="url">https://schnitzler-briefe.acdh.oeaw.ac.at/</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="dc95034c-3e70-47e1-9072-3fc75d84b47a">Ulrich K. Goldsmith: Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In. Modern Austrian Literature, Jg. 10, 1977, H. 3/4, S.69-128</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1912-01-31"/>
+                    <placeName ref="http://www.geonames.org/2867714">München</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1912-02-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1912-02-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1913-09-18"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1913-11-06"/>
+                    <placeName ref="http://www.geonames.org/3176959">Firenze</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1913-12-03"/>
+                    <placeName ref="http://www.geonames.org/3176959">Firenze</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U6">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1913-12-29"/>
+                    <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U7">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-01-08"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U8">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-01-15"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U9">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-01-30"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1914-02-10"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-02-19"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-02-19"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-02-27"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U13">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-03-07"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U14">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-03-27"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-06-20"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-06-26"/>
+                    <placeName ref="http://www.geonames.org/2937936">Detmold</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-08-13"/>
+                    <placeName ref="http://www.geonames.org/2960316">Luxemburg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U18">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-09-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-09-19"/>
+                    <placeName ref="http://www.geonames.org/2989462">Orainville</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-10-05"/>
+                    <placeName ref="http://www.geonames.org/3027132">Champien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U21">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-10-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-09-17"/>
+                    <placeName ref="http://www.geonames.org/2982330">Roye</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1914-12-24"/>
+                    <placeName ref="http://www.geonames.org/2982330">Roye</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U24">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-01-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-01-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-11-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U28">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-06-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U29">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-08-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U30">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-08-31"/>
+                    <placeName ref="http://www.geonames.org/2907911">Heidelberg</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-10-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U32">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1915-12-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1915-12-26"/>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U33">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1916-10-26"/>
+                    <placeName ref="http://www.geonames.org/2886924">Kochel</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U34">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1916-12-21"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U35">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1916-12-30"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U36">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1917-02-06"/>
+                    <placeName ref="http://www.geonames.org/2938913">Darmstadt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U37">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1917-08-10"/>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1917-10-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U38">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1918-02-01"/>
+                    <placeName ref="http://www.geonames.org/2657896">Zürich</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U39">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1918-09-27"/>
+                    <placeName ref="http://www.geonames.org/2658588">Silvaplana</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U40">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date evidence="conjecture" when="1919-02"/>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U41">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1919-05-12"/>
+                    <placeName ref="http://www.geonames.org/2658588">Silvaplana</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U42">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1919-05-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U43">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1920-07-12"/>
+                    <placeName ref="http://www.geonames.org/10226947">Settignano</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U44">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1920-12-30"/>
+                    <placeName ref="http://www.geonames.org/2937018">Diez</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U45">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1921-06-21"/>
+                    <placeName ref="http://www.geonames.org/3176959">Firenze</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U46">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1922-02-12"/>
+                    <placeName ref="http://www.geonames.org/2937018">Diez</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U47">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date evidence="conjecture" when="1923-03-29"/>
+                    <placeName ref="http://www.geonames.org/3176959" evidence="conjecture">Firenze</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U48">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1923-06-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U49">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1924-05-23"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U50">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1924-06-13"/>
+                    <placeName ref="http://www.geonames.org/2925533">Frankfurt</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U51">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1924-07-30"/>
+                    <placeName ref="http://www.geonames.org/3166595">Sestri Levante</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U52">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1924-08-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U53">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1925-02-25"/>
+                    <placeName ref="http://www.geonames.org/3170092">Portofino</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U54">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date cert="low" when="1930"/>
+                    <placeName cert="low" ref="http://www.geonames.org/3163859">Zoagli</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S5">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1930-09-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U55">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1931-01-01"/>
+                    <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U56">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
+                    <date when="1931-04-01"/>
+                    <placeName ref="http://www.geonames.org/3176219">Genua</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

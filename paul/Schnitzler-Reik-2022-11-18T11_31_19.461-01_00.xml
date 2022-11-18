@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schnitzler-Reik</title>
+                <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                </availability>
+                <date when="2022-11-18T11:31:19.461-01:00"/>
+                <idno type="url">https://schnitzler-briefe.acdh.oeaw.ac.at/</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="print" xml:id="n324ade7-bd7c-436e-a8ee-959a545bbe23">Bernd Urban: Vier unveröffentlichte Briefe Arthur Schnitzlers an den Psychoanalytiker Theodor Reik. In: Modern Austrian Literature, Jg. 8, 1975, H. 3/4, S.236-247</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#n324ade7-bd7c-436e-a8ee-959a545bbe23" key="1">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1912-09-14"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#n324ade7-bd7c-436e-a8ee-959a545bbe23" key="2">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1913-05-25"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#n324ade7-bd7c-436e-a8ee-959a545bbe23" key="3">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1913-12-10"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#n324ade7-bd7c-436e-a8ee-959a545bbe23" key="4">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1913-12-31"/>
+                    <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
