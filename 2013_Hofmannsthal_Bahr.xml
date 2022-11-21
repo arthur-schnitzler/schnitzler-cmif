@@ -6214,7 +6214,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo</persName>
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty</persName>
-               <placeName ref="http://sws.geonames.org/2766683/">St. Gilgen</placeName>
+               <placeName ref="https://www.geonames.org/2766683/">St. Gilgen</placeName>
                <date when="1904-09-07">7. 9. 1904</date>
             </correspAction>
             <correspAction type="received">

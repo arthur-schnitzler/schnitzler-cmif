@@ -44,12 +44,12 @@
                <date when="1896-08-09"/>
                <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName
                           evidence="conjecture"
-                          ref="#pmb958"
-                          check="">Skodsborg</placeName>
+                          ref="https://sws.geonames.org/2613685/"
+                          >Skodsborg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
@@ -113,8 +113,8 @@
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1898-07-18"/>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
@@ -143,12 +143,9 @@
                <date when="1901-07-05"/>
                <placeName ref="https://www.geonames.org/2613939">Skagen</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
-                          evidence="conjecture"
-                          ref="#pmb91800"
-                          check="">St. Anton</placeName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
@@ -222,8 +219,8 @@
                <date when="1908-09-23"/>
                <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">

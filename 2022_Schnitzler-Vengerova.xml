@@ -33,7 +33,7 @@
          <correspDesc key="1" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1907-01-04">4. 1. 1907</date>
             </correspAction>
             <correspAction type="received">
@@ -45,7 +45,7 @@
          <correspDesc key="2" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1907-02-02">2. 2. [1907]</date>
             </correspAction>
             <correspAction type="received">
@@ -63,14 +63,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1907-02-18" notAfter="1907-02-21">[18. 2. 1907 – 21. 2. 1907?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="4" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1907-11-13">13. 11. 1907</date>
             </correspAction>
             <correspAction type="received">
@@ -87,14 +87,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1907-11-17" notAfter="1907-11-20">[17. 11. 1907 – 20. 11. 1907?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="6" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1908-04-06">6. 4. 1908</date>
             </correspAction>
             <correspAction type="received">
@@ -106,7 +106,7 @@
          <correspDesc key="7" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1908-04-10">10. 4. 1908</date>
             </correspAction>
             <correspAction type="received">
@@ -118,7 +118,7 @@
          <correspDesc key="8" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/3110044/">San Sebastian</placeName>
+               <placeName ref="https://www.geonames.org/3110044/">San Sebastian</placeName>
                <date when="1908-10-01">1. 10. [1908]</date>
             </correspAction>
             <correspAction type="received">
@@ -142,7 +142,7 @@
          <correspDesc key="10" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2950159/">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
                <date when="1909-07-22">22. 7. 1909</date>
             </correspAction>
             <correspAction type="received">
@@ -165,7 +165,7 @@
          <correspDesc key="12" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-01-19">19. 1. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -182,14 +182,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1910-01-24" notAfter="1910-01-28">[24. 1. 1910 – 28. 1. 1910]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="14" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-01-28">28. 1. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -206,14 +206,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1910-02-02" notAfter="1910-02-04">[2. 2. 1910 – 4. 2. 1910]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="16" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-02-04">4. 2. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -230,7 +230,7 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1910-02-08" notAfter="1910-02-12">[8. 2. 1910 – 12. 2. 1910]</date>
             </correspAction>
          </correspDesc>
@@ -242,14 +242,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1910-02-13" notAfter="1910-02-17">[13. 2. 1910 – 17. 2. 1910?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="19" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-02-19">19. 2. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -261,7 +261,7 @@
          <correspDesc key="20" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-04-28">28. 4. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -273,7 +273,7 @@
          <correspDesc key="21" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-04-29">29. 4. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -290,14 +290,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1910-05-04" notAfter="1910-05-08">[4. 5. 1910 – 8. 5. 1910?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="23" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-05-23">23. 5. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -309,7 +309,7 @@
          <correspDesc key="24" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-06-08">8. 6. [1910]</date>
             </correspAction>
             <correspAction type="received">
@@ -326,7 +326,7 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1910-06-24" notAfter="1910-06-28">[24. 6. 1910 – 28. 6. 1910?]</date>
             </correspAction>
          </correspDesc>
@@ -345,7 +345,7 @@
          <correspDesc key="27" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2643743/">London</placeName>
+               <placeName ref="https://www.geonames.org/2643743/">London</placeName>
                <date when="1910-06-28">28. 6. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -362,14 +362,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1910-07-06" notAfter="1910-07-10">[6. 7. 1910 – 10. 7. 1910?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="29" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2643743/">London</placeName>
+               <placeName ref="https://www.geonames.org/2643743/">London</placeName>
                <date when="1910-09-20">20. 9. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -386,7 +386,7 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1910-09-28" notAfter="1910-10-02">[28. 9. 1910 – 2. 10. 1910?]</date>
             </correspAction>
          </correspDesc>
@@ -398,7 +398,7 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1910-10-07" notAfter="1910-10-11">[7. 10. 1910 – 11. 10. 1910?]</date>
             </correspAction>
          </correspDesc>
@@ -410,14 +410,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1910-11-01" notAfter="1910-11-03">[1. 11. 1910 – 3. 11. 1910?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="33" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date when="1910-11-03">3. 11. 1910</date>
             </correspAction>
             <correspAction type="received">
@@ -434,14 +434,14 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1910-11-09" notAfter="1910-11-13">[9. 11. 1910 – 13. 11. 1910?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="35" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1910-11-14">14. 11. [1910]</date>
             </correspAction>
             <correspAction type="received">
@@ -458,7 +458,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">Petersburg</placeName>
                <date notBefore="1910-12-02" notAfter="1910-12-05">[2. 12. 1910 – 5. 12. 1910?]</date>
             </correspAction>
          </correspDesc>
@@ -470,7 +470,7 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1910-12-08" notAfter="1910-12-12">[8. 12. 1910 – 12. 12. 1910?]</date>
             </correspAction>
          </correspDesc>
@@ -482,7 +482,7 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/2988507/">Paris</placeName>
+               <placeName ref="https://www.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1911-03-02" notAfter="1911-03-06">[2. 3. 1911 – 6. 3. 1911?]</date>
             </correspAction>
          </correspDesc>
@@ -498,14 +498,14 @@
             </correspAction>
             <correspAction type="forwarded">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-03-18">[18.?] 3. 1912</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="40" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-03-26">26. 3. 1912</date>
             </correspAction>
             <correspAction type="received">
@@ -522,14 +522,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1912-03-31" notAfter="1912-04-02">[31. 3. 1912 – 2. 4. 1912]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="42" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-04-02">2. 4. 1912</date>
             </correspAction>
             <correspAction type="received">
@@ -546,14 +546,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1912-04-10" notAfter="1912-04-13">[10. 4. 1912 – 13. 4. 1912?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="44" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-05-21">21. 5. [1912]</date>
             </correspAction>
             <correspAction type="received">
@@ -565,7 +565,7 @@
          <correspDesc key="45" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-10-14">14. 10. [1912]</date>
             </correspAction>
             <correspAction type="received">
@@ -582,14 +582,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">Petersburg</placeName>
                <date notBefore="1912-10-18" notAfter="1912-10-21">[18. 10. 1912 – 21. 10. 1912?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="47" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-10-28">28. 10. [1912]</date>
             </correspAction>
             <correspAction type="received">
@@ -601,7 +601,7 @@
          <correspDesc key="48" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-11-07">7. 11. [1912]</date>
             </correspAction>
             <correspAction type="received">
@@ -618,14 +618,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">Petersburg</placeName>
                <date notBefore="1912-11-15" notAfter="1912-11-19">[15. 11. 1912 – 19. 11. 1912?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="50" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1912-11-22">22. 11. 1912</date>
             </correspAction>
             <correspAction type="received">
@@ -637,12 +637,12 @@
          <correspDesc key="51" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2950159/">Berlin</placeName>
+               <placeName ref="https://www.geonames.org/2950159/">Berlin</placeName>
                <date when="1912-11-29">29. 11. 1912</date>
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1912-11-30" notAfter="1912-12-04">[30. 11. 1912 – 4. 12. 1912?]</date>
             </correspAction>
          </correspDesc>
@@ -654,14 +654,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date notBefore="1913-05-09" notAfter="1913-05-13">[9. 5. 1913 – 13. 5. 1913]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="53" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/498817/">St. Petersburg</placeName>
+               <placeName ref="https://www.geonames.org/498817/">St. Petersburg</placeName>
                <date when="1913-05-14">14. 5. [1913]</date>
             </correspAction>
             <correspAction type="received">
@@ -681,19 +681,19 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2782052/">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052/">Bad Ischl</placeName>
                <date notBefore="1914-08-27" notAfter="1914-08-30">[27. 8. 1914 – 30. 8. 1914?]</date>
             </correspAction>
          </correspDesc>
          <correspDesc key="55" source="#asbw_4ed2e411-8d76-435f-aea0-faf299e96d86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2782052/">Bad Ischl</placeName>
+               <placeName ref="https://www.geonames.org/2782052/">Bad Ischl</placeName>
                <date when="1914-08-30">30. 8. 1914</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119401215">Vengerova, Isabella</persName>
-               <placeName ref="http://sws.geonames.org/2661241/">Celerina</placeName>
+               <placeName ref="https://www.geonames.org/2661241/">Celerina</placeName>
                <date notBefore="1914-09-01" notAfter="1914-09-04">[1. 9. 1914 – 4. 9. 1914?]</date>
             </correspAction>
          </correspDesc>

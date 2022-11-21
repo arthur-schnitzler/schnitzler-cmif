@@ -22,10 +22,10 @@
       </fileDesc>
       <profileDesc>
          <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="13">
-            <correspAction xmlns="" type="sent">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
-               <date xmlns="http://www.tei-c.org/ns/1.0" when="1902-01-17"/>
-               <placeName xmlns="http://www.tei-c.org/ns/1.0"
+            <correspAction type="sent">
+               <persName  ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+               <date when="1902-01-17"/>
+               <placeName
                           evidence="conjecture"
                           ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -100,8 +100,8 @@
                <date notBefore="1911-05-01" notAfter="1911-05-31"/>
                <placeName ref="https://www.geonames.org/2935022">Dresden</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="7">
@@ -111,8 +111,8 @@
                <placeName ref="https://www.geonames.org/2810164/westerwede.html">Westerwede bei
                         Bremen</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="5">
@@ -146,13 +146,13 @@
                <placeName ref="https://www.geonames.org/2838009">Schmargendorf bei
                         Berlin</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="15">
-            <correspAction xmlns="" type="sent">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction type="sent">
+               <persName  ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118601024">Rainer Maria Rilke</persName>
@@ -164,8 +164,8 @@
                <date notBefore="1896-04-01" notAfter="1896-04-30"/>
                <placeName ref="https://www.geonames.org/3067696">Prag</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="11">
@@ -176,8 +176,8 @@
                           ref="https://www.geonames.org/2810164"
                           evidence="conjecture">Westerwede</placeName>
             </correspAction>
-            <correspAction xmlns="" type="received">
-               <persName xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
+            <correspAction type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#zd58d226-ca44-4dfa-b10c-81551ef4de77" key="4">
