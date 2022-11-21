@@ -11,8 +11,7 @@
                     <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
                 </publisher>
                 <availability>
-                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
-                        >CC0</licence>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
                 </availability>
                 <date when="2022-11-18T11:23:49.671-01:00"/>
                 <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1975_Schaukal_Schnitzler.xml</idno>
@@ -37,7 +36,7 @@
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="RS1">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118606662">Schaukal, Richard</persName>
-                    <date cert="low" when="1901-04"/>
+                    <date cert="low" notBefore="1901-04-01" notAfter="1901-04-30"/>
                     <placeName ref="http://www.geonames.org/2761571">Weißkirchen</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -47,7 +46,7 @@
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS2">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-                    <date when="1901-05"/>
+                    <date notBefore="1901-05-01" notAfter="1901-05-31"/>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -62,6 +61,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="RS3">
@@ -72,6 +72,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="RS4">
@@ -81,6 +82,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS3">
@@ -99,6 +101,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="RS6">
@@ -109,6 +112,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS4">
@@ -129,6 +133,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="RS8">
@@ -139,6 +144,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS5">
@@ -159,6 +165,7 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS6">

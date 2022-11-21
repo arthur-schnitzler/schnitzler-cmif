@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fischer-Schnitzler</title>
+                <title>Arthur Schnitzler in: Samuel Fischer, Hedwig Fischer: Briefwechsel mit
+                    Autoren</title>
                 <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
                 </editor>
             </titleStmt>
@@ -11,13 +12,16 @@
                     <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
                 </publisher>
                 <availability>
-                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
+                        >CC0</licence>
                 </availability>
                 <date when="2022-11-18T15:32:12.745-01:00"/>
-                <idno type="url">https://schnitzler-briefe.acdh.oeaw.ac.at/</idno>
+                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1989_Fischer.xml</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="print" xml:id="y8d39a2f-76d4-4426-8799-986c8bf5bc60">Dierk Rodewald, Corinna Fiedler (Hgg.): Samuel Fischer. Hedwig Fischer. Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt a. M.: 1989.</bibl>
+                <bibl type="print" xml:id="y8d39a2f-76d4-4426-8799-986c8bf5bc60">Samuel Fischer,
+                    Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                    1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -646,7 +650,8 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                     <date when="1912-05-09"/>
-                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+                    <placeName ref="http://www.geonames.org/2950159" evidence="conjecture"
+                        >Berlin</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1215,7 +1220,8 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date cert="low" evidence="conjecture" when="1930-06"/>
-                    <placeName cert="low" ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+                    <placeName cert="low" ref="http://www.geonames.org/2761369"
+                        evidence="conjecture">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118910671">Fischer, Hedwig</persName>
