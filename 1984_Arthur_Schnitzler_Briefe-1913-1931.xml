@@ -1537,7 +1537,7 @@
                <persName ref="https://d-nb.info/gnd/119440822">Federn, Paul</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-05-05">5. 5. 1913</date>
@@ -1557,7 +1557,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-09-30">30. 9. 1914</date>
@@ -1577,7 +1577,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-03-10">10. 3. 1915</date>
@@ -1597,7 +1597,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1919-01-15">15. 1. 1919</date>
@@ -1657,7 +1657,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1929-12-24">24. 12. 1929</date>
@@ -1677,7 +1677,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1930-04-05">5. 4. 1930</date>
@@ -5497,7 +5497,7 @@
                <persName ref="https://d-nb.info/gnd/174340621">Zuckerkandl, Victor</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="zweig-bahr-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-12-02">2. 12. 1914</date>
@@ -5507,7 +5507,7 @@
                <persName ref="https://d-nb.info/gnd/118637479">Zweig, Stefan</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="zweig-bahr-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1924-11-06">6. 11.1924</date>
@@ -5517,7 +5517,7 @@
                <persName ref="https://d-nb.info/gnd/118637479">Zweig, Stefan</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="zweig-bahr-schnitzler">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1928-01-16">16. 1. 1928</date>

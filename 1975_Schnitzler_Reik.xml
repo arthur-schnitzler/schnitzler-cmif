@@ -56,7 +56,7 @@
                     <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#n324ade7-bd7c-436e-a8ee-959a545bbe23" key="4">
+            <correspDesc source="#n324ade7-bd7c-436e-a8ee-959a545bbe23" key="4" sameAs="briefe-ii">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                     <date when="1913-12-31"/>

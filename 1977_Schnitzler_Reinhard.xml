@@ -31,7 +31,7 @@
                     <persName ref="https://d-nb.info/gnd/123368790" >Reinhard, Marie</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="2">
+            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="2" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807" >Schnitzler, Arthur</persName>
                     <date  when="1896-07-07"/>
@@ -41,7 +41,7 @@
                     <persName ref="https://d-nb.info/gnd/123368790" >Reinhard, Marie</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="3">
+            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="3" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807" >Schnitzler, Arthur</persName>
                     <date  when="1896-07-07"/>
@@ -51,7 +51,7 @@
                     <persName ref="https://d-nb.info/gnd/123368790" >Reinhard, Marie</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="4">
+            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="4" >
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807" >Schnitzler, Arthur</persName>
                     <date  when="1896-07-08"/>
@@ -228,7 +228,7 @@
                     <persName ref="https://d-nb.info/gnd/123368790" >Reinhard, Marie</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="22">
+            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="22" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807" >Schnitzler, Arthur</persName>
                     <date  when="1896-08-13"/>
@@ -278,7 +278,7 @@
                     <persName ref="https://d-nb.info/gnd/123368790" >Reinhard, Marie</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="27">
+            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="27" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807" >Schnitzler, Arthur</persName>
                     <date  when="1896-08-19"/>
@@ -308,7 +308,7 @@
                     <persName ref="https://d-nb.info/gnd/123368790" >Reinhard, Marie</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="30">
+            <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="30" sameAs="briefe-i">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807" >Schnitzler, Arthur</persName>
                     <date  when="1896-08-23"/>

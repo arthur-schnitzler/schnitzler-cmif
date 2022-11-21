@@ -755,7 +755,7 @@
                <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S14">
+         <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S14" sameAs="briefe-i">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-12-24"/>

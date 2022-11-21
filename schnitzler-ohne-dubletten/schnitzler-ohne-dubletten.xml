@@ -5564,26 +5564,6 @@
                <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="2">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1896-07-07"/>
-               <placeName ref="http://www.geonames.org/2911298">Hamburg</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1896-07-07"/>
-               <placeName ref="http://www.geonames.org/2875601">Lübeck</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="4">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -5761,16 +5741,6 @@
                <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="22">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1896-08-13"/>
-               <placeName ref="http://www.geonames.org/2613685">Skodsborg</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="23">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -5811,16 +5781,6 @@
                <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="27">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1896-08-19"/>
-               <placeName ref="http://www.geonames.org/2613685">Skodsborg</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="28">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -5835,16 +5795,6 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-08-22"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="30">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1896-08-23"/>
                <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
@@ -13968,16 +13918,6 @@
                <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="S14">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1909-12-24"/>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#u23454be-b4dd-4bf6-8dc1-c5e2e528c38d" key="R59">
             <correspAction type="sent">
                <persName>Metzl, Richard</persName>
@@ -14399,16 +14339,6 @@
                <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S1">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1912-02-15"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U2">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
@@ -14809,16 +14739,6 @@
                <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S4">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1917-10-03"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U38">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
@@ -15000,16 +14920,6 @@
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="S5">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1930-09-18"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#dc95034c-3e70-47e1-9072-3fc75d84b47a" key="U55">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118625527">Unruh, Fritz</persName>
@@ -15056,16 +14966,6 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-12-10"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#n324ade7-bd7c-436e-a8ee-959a545bbe23" key="4">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1913-12-31"/>
                <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -57469,7 +57369,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                <date when="1914-05-09"/>
-               <placeName ref="https://www.geonames.org/3176959">florenz</placeName>
+               <placeName ref="https://www.geonames.org/3176959">Florenz</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Eugen Deimel</persName>
@@ -57481,7 +57381,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Arthur Schnitzler</persName>
                <date when="1914-05-22"/>
-               <placeName ref="https://www.geonames.org/2759794" evidence="conjecture">amsterdam</placeName>
+               <placeName ref="https://www.geonames.org/2759794" evidence="conjecture">Amsterdam</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Eugen Deimel</persName>
