@@ -336,7 +336,7 @@
          </correspDesc>
          <correspDesc source="#m5ca120f-450d-4a59-9a44-d5822a34aee9">
             <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnödl Gottfried</persName>
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-02-12"/>
                <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>

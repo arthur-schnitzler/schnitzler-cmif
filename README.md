@@ -1,7 +1,7 @@
 # schnitzler-cmif
-CMIF-files of published correspondence pieces of Arthur Schnitzler (1862–1931)
+CMIF-files of published correspondence pieces of Schnitzler, Arthur (1862–1931)
 
-This repository consists of CMIF-files of published correspondences of Arthur Schnitzler.
+This repository consists of CMIF-files of published correspondences of Schnitzler, Arthur.
 
 In case you wonder what a CMIF-file is, CMIF stands for Correspondence Metadata Interchange format and the documentation can be found here:
 https://correspsearch.net/en/documentation.html
@@ -9,7 +9,7 @@ https://correspsearch.net/en/documentation.html
 And if you desire a search interface, please use:
 https://correspsearch.net/de/suche.html?s=http://d-nb.info/gnd/118609807
 
-In case you ask yourself who Arthur Schnitzler was, this might get you started:
+In case you ask yourself who Schnitzler, Arthur was, this might get you started:
 https://en.wikipedia.org/wiki/Arthur_Schnitzler
 
 A bibliography of his correspondences in print is accessible in this Zotero group:
