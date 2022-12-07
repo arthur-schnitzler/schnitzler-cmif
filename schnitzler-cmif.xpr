@@ -10,6 +10,186 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>paul/Briefe_nach_D%C3%A4nemark-2022-11-29T15_23_04.747-01_00.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>1983_Schnitzler_Reik.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>2013_Dumont_Schnitzler.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>paul/2013_Dumont_Schnitzler.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>paul/Louise_Dumont_-_Schnitzler-2022-11-29T15_28_55.511-01_00.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>1967_Schnitzler_Koerner.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>paul/1967_Schnitzler_Koerner.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>1971_Schnitzler_Nabl.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>paul/Arthur_Schnitzler_-_Franz_Nabl-2022-11-29T14_55_41.855-01_00.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>conjecture-schnitzler-places</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>schnitzler-ohne-dubletten/schnitzler-ohne-dubletten.xml</String>
                                 </field>
                                 <field name="scenarioIds">

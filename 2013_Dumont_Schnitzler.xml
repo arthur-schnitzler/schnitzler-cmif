@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Louise Dumont - Schnitzler</title>
+            <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+            </availability>
+            <date when="2022-11-29T15:28:55.511-01:00"/>
+            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/2013_Dumont_Schnitzler.xml</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="print" xml:id="w300e3d7-7902-4a11-b0c7-2b0b441db98d">Gertrude
+                    Cepl-Kaufmann et al. (Hgg.): Louise Dumont. Eine Kulturgeschichte in Briefen und
+                    Dokumenten. Bd. 1: 1879-1904. Klartext Verlag, Essen 2013.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc source="#w300e3d7-7902-4a11-b0c7-2b0b441db98d" key="85">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118681192">Dumont, Louise</persName>
+               <date notBefore="1901-12-01" notAfter="1901-12-14"/>
+               <placeName ref="https://www.geonames.org/2950159/" evidence="conjecture">Berlin</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#w300e3d7-7902-4a11-b0c7-2b0b441db98d" key="86">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1901-12-15"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118681192">Dumont, Louise</persName>
+               <placeName ref="https://www.geonames.org/2950159/" evidence="conjecture">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#w300e3d7-7902-4a11-b0c7-2b0b441db98d" key="89">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118681192">Dumont, Louise</persName>
+               <date when="1902-01-03"/>
+               <placeName ref="https://www.geonames.org/2950159/" evidence="conjecture">Berlin</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="https://www.geonames.org/2950159/" evidence="conjecture">Berlin</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>

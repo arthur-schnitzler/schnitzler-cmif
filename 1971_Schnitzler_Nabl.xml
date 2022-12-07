@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arthur Schnitzler – Franz Nabl</title>
+            <editor>Paul Schömann<email>paul.schoemann@t-online.de</email>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Paul Schömann</ref>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+            </availability>
+            <date when="2022-11-29T14:55:41.855-01:00"/>
+            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1971_Schnitzler_Nabl.xml</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="print" xml:id="u02092b4-47df-42e7-a68c-556d17f8d217">Reinhard Urbach:
+                    Arthur Schnitzler – Franz Nabl. Briefwechsel. In: Studium Generale, Jg. 24,
+                    1971, S. 1256-1270.</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N1">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date evidence="conjecture" notBefore="1907-02-01" notAfter="1907-02-28"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217"
+                      key="S1"
+                      sameAs="briefe-i">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1907-02-06"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S2">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1907-02-06"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N2">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1907-02-09"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName  evidence="conjecture" ref="#pmb">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N3">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date notBefore="1907-09-01" notAfter="1907-09-30"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S3">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1907-10-22"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N4">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1907-11-19"/>
+               <placeName ref="http://www.geonames.org/2780013">Enzesfeld</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName  evidence="conjecture" ref="#pmb">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S4">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1907-12-14"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S5">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1907-12-16"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N5">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1908-01-20"/>
+               <placeName ref="http://www.geonames.org/2780013">Enzesfeld</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName  evidence="conjecture" ref="#pmb">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S6">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1908-01-24"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S7">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1908-03-02"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S8">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1908-03-07"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N6">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1908-04-06"/>
+               <placeName ref="http://www.geonames.org/2780013">Enzesfeld</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName  evidence="conjecture" ref="#pmb">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N7">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1908-05-29"/>
+               <placeName ref="http://www.geonames.org/2780013">Enzesfeld</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName  evidence="conjecture" ref="#pmb">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S9">
+            <correspAction  type="sent">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date  when="1908-06-01"/>
+               <placeName 
+                          evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S10">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1908-06-16"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N8">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1911-04-10"/>
+               <placeName ref="http://www.geonames.org/2780013">Enzesfeld</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S11">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1911-04-22"/>
+               <placeName ref="http://www.geonames.org/2994497">Menton</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N9">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N10">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1927-05-20"/>
+               <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217"
+                      key="S12"
+                      sameAs="briefe-ii">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1927-05-21"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S13">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1927-05-24"/>
+               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N11">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <date when="1927-06-07"/>
+               <placeName ref="http://www.geonames.org/2778067">Graz</placeName>
+            </correspAction>
+            <correspAction  type="received">
+               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName  evidence="conjecture" ref="#pmb">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
+</TEI>
