@@ -12,7 +12,7 @@
     </xsl:template>
     
     <xsl:template match="node()" mode="rootcopy">
-        
+        <xsl:variable name="folderURI" select="resolve-uri('.',base-uri())"/>
         <xsl:copy>
             <xsl:element name="teiHeader" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:element name="fileDesc" namespace="http://www.tei-c.org/ns/1.0">
@@ -50,11 +50,15 @@
                             </xsl:element>
                     </xsl:element>
                     <xsl:element name="sourceDesc" namespace="http://www.tei-c.org/ns/1.0">
-                        <xsl:element name="p" namespace="http://www.tei-c.org/ns/1.0">Files in https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif</xsl:element>
+                        <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
+                        <xsl:for-each select="collection(concat($folderURI, '../?select=1*.xml;recurse=yes'))/tei:TEI[descendant::tei:persName/@ref='https://d-nb.info/gnd/118609807']/tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:bibl">
+                            <xsl:copy-of select="." copy-namespaces="no"/>
+                        </xsl:for-each>
+                        </xsl:element>
                     </xsl:element>
                 </xsl:element>
                 <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="profileDesc">
-            <xsl:variable name="folderURI" select="resolve-uri('.',base-uri())"/>
+            
                     <xsl:for-each select="collection(concat($folderURI, '../?select=1*.xml;recurse=yes'))/tei:TEI/tei:teiHeader/tei:profileDesc/tei:correspDesc[not(@sameAs) and descendant::tei:persName/@ref='https://d-nb.info/gnd/118609807']">
                         <xsl:copy-of select="." copy-namespaces="no"/>
             </xsl:for-each>

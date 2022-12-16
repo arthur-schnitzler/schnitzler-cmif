@@ -12,11 +12,107 @@
             <availability>
                <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
             </availability>
-            <date when="2022-12-07+01:00"/>
+            <date when="2022-12-16+01:00"/>
             <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/schnitzler-ohne-dubletten/schnitzler-ohne-dubletten.xml</idno>
          </publicationStmt>
          <sourceDesc>
-            <p>Files in https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif</p>
+            <listBibl>
+               <bibl type="print" xml:id="d43bae78-6be4-4898-b4e5-86e3d9bc9f34">Stefan Zweig:
+                    Briefwechsel mit Hermann Bahr, Sigmund Freud, Rainer Maria Rilke und Arthur
+                    Schnitzler. Hgg. Jeffrey B. Berlin, Hans-Ulrich Lindken und Donald A. Prater.
+                    Berlin: S. Fischer 1987. (Nur Briefe an Bahr und Schnitzler erfasst)</bibl>
+               <bibl type="print" xml:id="g21edf0a-7af3-4163-813b-7d55aaaf2eba">Renate Wagner
+                    (Hg.): Dilly. Geschichte einer Liebe in Briefen, Bildern und Dokumenten.
+                    Wien/München: Amalthea 1975.</bibl>
+               <bibl type="print" xml:id="y8d39a2f-76d4-4426-8799-986c8bf5bc60">Samuel Fischer,
+                    Hedwig Fischer: Briefwechsel mit Autoren. S. Fischer Verlag, Frankfurt am Main:
+                    1989. (nur Korrespondenz mit Arthur Schnitzler)</bibl>
+               <bibl type="print" xml:id="g83efe7f-a9d8-49c4-ba69-8fdab0a99e4b">Adolf von
+                    Sonnenthals Briefwechsel. Nach den Originalen herausgegeben von Hermine von
+                    Sonnenthal. Zweiter Band. Stuttgart, Berlin: Deutsche Verlags-Anstalt 1912.
+                    (Ausschließlich die fünf Briefe von und an Arthur Schnitzler hier
+                    verzeichnet)</bibl>
+               <bibl type="print" xml:id="v149ca80-1848-4eff-991d-4c2560c2e17b">Freud, Sigmund: Briefe an Arthur Schnitzler. Hg. v. Heinrich Schnitzler. In: Neue deutsche Rundschau, Jg. 66/1(1955), S. 95–106. https://shared.acdh.oeaw.ac.at/schnitzler-briefe/1955_Freud-an-Schnitzler.pdf</bibl>
+               <bibl type="print" xml:id="j4f39377-ae1d-48c1-9afa-6e4618284c9a">Theodor Herzl:
+                    Briefe. Anfang Mai 1895 – Anfang Dezember 1898. Bearbeitet von Barbara Schäfer
+                    in Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin, Daisy Ticho.
+                    Berlin: Propyläen 1990. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein,
+                    Hermann Greive, Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Vierter
+                    Band)</bibl>
+               <bibl type="print" xml:id="i9ac725a-7aa1-4b66-9aaa-3fb96c91d495">Theodor Herzl:
+                    Briefe und autobiographische Notizen. 1866–1895. Bearbeitet von Johannes Wachten
+                    in Zusammenarbeit mit Chaya Harel, Daisy Tycho, Manfred Winkler. Berlin:
+                    Propyläen 1983. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein, Hermann
+                    Greive, Moshe Schaerf, Julius H. Schoeps. Erster Band)</bibl>
+               <bibl type="print" xml:id="b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b">Theodor Herzl:
+                    Briefe. Ende August 1900 – Ende Dezember 1902. Bearbeitet von Barbara Schäfer in
+                    Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin. Berlin: Propyläen
+                    1993. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein, Hermann Greive,
+                    Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Sechster Band)</bibl>
+               <bibl type="print" xml:id="q0f31f7c-c385-4bdd-b199-e671f4a30389">Therese Nickl: Arthur Schnitzler an Marie Reinhard (1896). In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4,  S. 22–68 (verfügbar auf: http://www.jstor.org/stable/24645882)</bibl>
+               <bibl type="print" xml:id="u76a6932-a288-44db-a5d5-8eba12ba4b14">Briefe an Ernst Hardt. Eine Auswahl aus den Jahren 1898–1947. In Verbindung mit Tilla Goetz-Hardt hrsg. von Jochen Meyer. Marbach am Neckar: Deutsches Literaturarchiv 1975 (Marbacher Schriften, 10)</bibl>
+               <bibl type="print" xml:id="n0827e77-245d-4359-a0b0-5b601a5370ee">Hedy Kempny und
+                    Arthur Schnitzler: Das Mädchen mit den dreizehn Seelen. Eine Korrespondenz
+                    ergänzt durch Blätter aus Hedy Kempnys Tagebuch sowie durch eine Auswahl ihrer
+                    Erzählungen. Hg. v. Heinz P. Adamek. Reinbek bei Hamburg: Rowohlt
+                    1984. (Neue Frau)</bibl>
+               <bibl type="print" xml:id="i0c57881-43a7-490c-bcb6-a0ffc7ee2749">Egon Friedell: Briefe. Ausgewählt und herausgegeben von Walther Schneider. Wien: Georg Prachner 1954. (nur der eine Brief von Schnitzler erfasst)</bibl>
+               <bibl type="print" xml:id="fdf53a30-aa17-4bd8-8f49-447d6f840c10">Schnitzler, Arthur
+                    und Luigi Reitani: „Besser sublimiert als verdrängt. In Cambridge entdeckt. Ein
+                    unbekannter Brief von Arthur Schnitzler an Sigmund Freud“, in: Die Presse.
+                    3.10.1992, Spectrum, S. X. </bibl>
+               <bibl type="print" xml:id="v02efeb3-b382-4ed8-a71f-1366a4647e76">The Correspondence
+                    of Arthur Schnitzler and Raoul Auernheimer with Raoul Auernheimer’s Aphorism.
+                    Edited with introduction and notes by Donald G. Daviau and Jorun B. Johns.
+                    Chapel Hill: The University of North Carolina Press, 1972 (University of North
+                    Carolina Studies in the Germanic Languages and Literatures, 73).</bibl>
+               <bibl type="print" xml:id="ob894f19-3b83-4a3a-9fbf-3658acd8e1af">Theodor Herzl:
+                    Briefe. Anfang Dezember 1898 – Mitte August 1900. Bearbeitet von Barbara Schäfer
+                    in Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin. Berlin: Propyläen
+                    1991. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein, Hermann Greive,
+                    Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Fünfter Band)</bibl>
+               <bibl type="print" xml:id="d2b0f559-bde7-4114-82b9-741a8810c463">Arthur Schnitzler
+                    und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem
+                    Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl
+                    und Heinrich Schnitzler. Wien, München, Zürich: Verlag Fritz Molden 1970. (PDF: https://schnitzler-briefe.acdh.oeaw.ac.at)</bibl>
+               <bibl type="print" xml:id="yf5eeb0a-209f-4557-86ce-60aecec6cc5f">Reinhard Urbach:
+                    Ein bisher unbekannter Brief Arthur Schnitzlers an Otto Brahm. In: Modern
+                    Austrian Literature, Jg. 10 (1977), Nr. 3/4, S. 19–21.
+                    http://www.jstor.org/stable/24645881</bibl>
+               <bibl type="print" xml:id="u23454be-b4dd-4bf6-8dc1-c5e2e528c38d">Renate Wagner
+                    (Hg.): Der Briefwechsel Arthur Schnitzlers mit Max Reinhardt und dessen
+                    Mitarbeitern. Otto Müller Verlag, Salzburg: 1971.</bibl>
+               <bibl type="print" xml:id="gc49cd7e-1c35-4af4-808b-831b06a17f3d">Jeffrey B. Berlin/Hans
+               Ulrich Lindken: Theodor Reiks unveröffentlichte Briefe an Arthur Schnitzler. In:
+               Literatur und Kritik, 1983, H. 173/174, 182-197.</bibl>
+               <bibl type="print" xml:id="u02092b4-47df-42e7-a68c-556d17f8d217">Reinhard Urbach:
+                    Arthur Schnitzler – Franz Nabl. Briefwechsel. In: Studium Generale, Jg. 24,
+                    1971, S. 1256-1270.</bibl>
+               <bibl type="print" xml:id="n486abeb-0cb6-411d-aeca-ca37d35fe60e">Hugo von
+                    Hofmannsthal, Richard Beer-Hofmann: Briefwechsel. Hrsg. Eugene Weber.
+                    Frankfurt/Main: S. Fischer Verlag 1972.</bibl>
+               <bibl type="print" xml:id="o6a2c244-7897-4405-a39e-3a380e665543">Arthur Schnitzler:
+               Briefe an Josef Körner. In: Literatur und Kritik, Jg. 2, H. 12, März 1967, S.
+               79–87.</bibl>
+               <bibl type="print" xml:id="na653b61-01d5-462f-98b4-115c7771d181">Unveröffentlichtes
+                    aus Arthur Schnitzlers Nachlaß. In: Neue Zürcher Zeitung, Beilage Literatur und
+                    Kunst, Nr. 91/92, 9. Januar 1966, S. 4–5.</bibl>
+               <bibl type="print" xml:id="dc95034c-3e70-47e1-9072-3fc75d84b47a">Ulrich K.
+                    Goldsmith: Der Briefwechsel Fritz von Unruhs mit Arthur Schnitzler. In: Modern
+                    Austrian Literature, Jg. 10, 1977, H. 3/4, S. 69-128.</bibl>
+               <bibl type="print" xml:id="n324ade7-bd7c-436e-a8ee-959a545bbe23">Bernd Urban: Vier
+                    unveröffentlichte Briefe Arthur Schnitzlers an den Psychoanalytiker Theodor
+                    Reik. In: Modern Austrian Literature, Jg. 8, 1975, H. 3/4, S.236-247.</bibl>
+               <bibl type="print" xml:id="zd58d226-ca44-4dfa-b10c-81551ef4de77">Heinrich Schnitzler
+                    (Hg.): Rainer Maria Rilke und Arthur Schnitzler. Ihr Briefwechsel mit
+                    Anmerkungen. In: Wort und Wahrheit, 13. Jahrgang 1958, S. 283-298.</bibl>
+               <bibl type="print" xml:id="ya489e21-54d5-40de-a56d-f4548e894428">Der Briefwechsel Arthur
+               Schnitzler – Otto Brahm. Vollständige Ausgabe. Hg., eingel. und erl. von Oskar
+               Seidlin. Tübingen: Niemeyer, 1975.</bibl>
+               <bibl type="print" xml:id="s68ac8da-2b04-4b21-afc4-b597655696e0">Reinhard Urbach:
+                    Richard Schaukal – Arthur Schnitzler, Briefwechsel (1900-1902). In: Modern
+                    Austrian Literature, Jg. 8, 1975, H.3/4, S.15-43.</bibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -10994,7 +11090,7 @@
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date notAfter="1888-11" notBefore="1888-10"/>
+               <date notAfter="1888-11-30" notBefore="1888-10-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -17105,7 +17201,7 @@
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B134">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-               <persName ref="https://d-nb.info/gnd/118546937">Gerhart Hauptmann</persName>
+               <persName ref="https://d-nb.info/gnd/118546937">Hauptmann, Gerhart</persName>
                <date when="1903-06-22"/>
                <placeName ref="https://www.geonames.org/3083677">Schreiberhau</placeName>
             </correspAction>

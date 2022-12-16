@@ -1213,8 +1213,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date
-                     notAfter="1888-11"
-                     notBefore="1888-10"/>
+                     notAfter="1888-11-30"
+                     notBefore="1888-10-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
