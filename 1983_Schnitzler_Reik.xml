@@ -14,8 +14,7 @@
                <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
             </availability>
             <date when="2022-11-29T15:06:46.400-01:00"/>
-            <idno type="url"
-               >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1983_Schnitzler_Reik.xml</idno>
+            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1983_Schnitzler_Reik.xml</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="print" xml:id="gc49cd7e-1c35-4af4-808b-831b06a17f3d">Jeffrey B. Berlin/Hans
@@ -28,18 +27,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1912-07-02"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1913-07-25"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -49,77 +49,84 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1913-12-20"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1914-01-04"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1914-06-17"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1914-06-20"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1914-09-07"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1914-09-15"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1915-10-13"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
@@ -129,7 +136,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
@@ -139,25 +147,27 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                  ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1918-12-11"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                  ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1922-06-06"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -167,7 +177,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1923-07-03"/>
-               <placeName ref="http://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -177,33 +187,36 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1924-04-01"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                  ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1925-12-11"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                  ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#gc49cd7e-1c35-4af4-808b-831b06a17f3d">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118599216">Reik, Theodor</persName>
                <date when="1927-12-28"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="#pmb">Wien</placeName>
+               <placeName evidence="conjecture"
+                  ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
       </profileDesc>

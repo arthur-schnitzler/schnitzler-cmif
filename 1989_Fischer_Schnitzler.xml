@@ -28,18 +28,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1888-11-27"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="72">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1892-01-27"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -49,7 +50,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1892-02-12"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -59,84 +60,91 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1894-03-06"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="75">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1894-09-11"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="76">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1894-10-29"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="77">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1895-03-25"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="78">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1895-06-05"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="79">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1895-06-15"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="80">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1895-06-19"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="81">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1895-06-26"/>
-               <placeName ref="http://www.geonames.org/2864900">Heringsdorf</placeName>
+               <placeName ref="https://sws.geonames.org/2864900/">Heringsdorf</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -146,73 +154,79 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1895-10-03"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="83">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1895-11-13"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="84">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1896-05-09"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="85">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1897-11-13"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="86">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1898-01-11"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="87">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1898-02-02"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="88">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1898-02-11"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -222,22 +236,24 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1898-11-23"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="90">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1899-05-10"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="91">
@@ -246,7 +262,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <persName ref="https://d-nb.info/gnd/118629387">Wassermann, Jakob</persName>
                <date when="1899-08-13"/>
-               <placeName ref="http://www.geonames.org/3181913">Bozen</placeName>
+               <placeName ref="https://sws.geonames.org/3181913/">Bozen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -256,62 +272,67 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1899-10-13"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="93">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1899-11-03"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="94">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1900-09-26"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="95">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1903-06-26"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="96">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1903-11-12"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="97">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-11-14"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -321,40 +342,43 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1903-11-19"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="99">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1905-06-07"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="100">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1906-12-21"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="101">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-12-25"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -364,29 +388,32 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-04-24"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="103">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-10-08"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="104">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1907-10-14"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -396,11 +423,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-10-18"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="106">
@@ -416,7 +444,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1907-10-25"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -426,18 +455,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-11-11"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="109">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1907-11-13"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -447,29 +477,32 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-11-14"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="111">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-11-15"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="112">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1907-11-16"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -479,7 +512,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-11-18"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -489,18 +522,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1907-12-01"/>
-               <placeName ref="http://www.geonames.org/2914210">Grunewald</placeName>
+               <placeName ref="https://sws.geonames.org/2914210/">Grunewald</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="115">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-05-14"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -510,18 +545,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1908-05-18"/>
-               <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+               <placeName ref="https://sws.geonames.org/2935022/">Dresden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="117">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-05-29"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -531,29 +568,31 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1908-06-01"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="119">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1909-07-20"/>
-               <placeName ref="http://www.geonames.org/12493315">Landro</placeName>
+               <placeName ref="https://sws.geonames.org/12493315/">Landro</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-                <placeName evidence="conjecture" ref="http://www.geonames.org/2780428/">Edlach</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2780428/">Edlach</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="120">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1910-05-27"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -563,7 +602,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-06-04"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -573,18 +613,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1910-12-15"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="123">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-12-17"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -594,7 +635,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-12-24"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -604,40 +645,44 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1911-08-09"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-                <placeName evidence="conjecture" ref="http://www.geonames.org/7873001/">Semmering</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/7873001/">Semmering</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="126">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1911-10-12"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="127">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1911-12-27"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="128">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-01-29"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -647,18 +692,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1912-02-14"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="130">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-02-20"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -668,18 +715,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1912-03-16"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="132">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-03-20"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -689,7 +738,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-05-08"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -699,7 +749,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1912-05-09"/>
-               <placeName ref="http://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/"
+                          evidence="conjecture">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -709,44 +760,48 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1912-06-21"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="136">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1912-12-05"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="137">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1912-12-10"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="138">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1912-12-12"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="139">
@@ -756,14 +811,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="140">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-05-05"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -773,18 +830,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1913-05-07"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="142">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-09-09"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -794,7 +853,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-09-11"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -804,18 +864,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1914-09-25"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="145">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-09-30"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -825,18 +887,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1914-10-15"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="147">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-03-10"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -846,29 +910,32 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1915-03-16"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="149">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1916-12-19"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="150">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1916-12-30"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -878,40 +945,44 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1917-01-18"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="152">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1917-08-29"/>
-               <placeName ref="http://www.geonames.org/2821480">Travemünde</placeName>
+               <placeName ref="https://sws.geonames.org/2821480/">Travemünde</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="153">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1918-02-26"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="154">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1918-03-04"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -921,11 +992,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1918-03-07"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="156">
@@ -941,11 +1013,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1918-04-23"/>
-               <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+               <placeName ref="https://sws.geonames.org/2935022/">Dresden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="158">
@@ -961,29 +1034,32 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1918-04-29"/>
-               <placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+               <placeName ref="https://sws.geonames.org/2935022/">Dresden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="160">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1918-12-25"/>
-               <placeName ref="http://www.geonames.org/2914210">Grunewald</placeName>
+               <placeName ref="https://sws.geonames.org/2914210/">Grunewald</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="161">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1919-01-15"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -993,18 +1069,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1919-04-29"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="163">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1919-05-10"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1014,29 +1092,31 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1920-07-12"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="165">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1921-06-04"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="166">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1921-11-23"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1046,18 +1126,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1922-02-28"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="168">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1922-03-10"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1067,18 +1149,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1922-03-20"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="170">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1922-09-14"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1088,7 +1171,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1923-10-18"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1098,7 +1182,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1923-10-20"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1108,7 +1193,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1924-01-26"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1118,40 +1204,44 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1924-01-30"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="175">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1924-04-03"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="176">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1924-04-26"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="177">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1924-04-28"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1161,18 +1251,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1924-06-11"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="179">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1925-01-03"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118910671">Fischer, Hedwig</persName>
@@ -1182,18 +1273,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1925-10-28"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="181">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1925-10-31"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1203,18 +1296,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1925-11-03"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="183">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1926-01-30"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1224,18 +1319,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1927-01-17"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="185">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1927-04-23"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1245,29 +1341,32 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118910671">Fischer, Hedwig</persName>
                <date when="1927-07-10"/>
-               <placeName ref="http://www.geonames.org/2914210">Grunewald</placeName>
+               <placeName ref="https://sws.geonames.org/2914210/">Grunewald</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="187">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1928-07-03"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="188">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1928-07-07"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1278,18 +1377,19 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <persName ref="https://d-nb.info/gnd/118910671">Fischer, Hedwig</persName>
                <date when="1929-07-19"/>
-               <placeName ref="http://www.geonames.org/2659172">Pontresina</placeName>
+               <placeName ref="https://sws.geonames.org/2659172/">Pontresina</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="190">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1929-07-23"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118910671">Fischer, Hedwig</persName>
@@ -1299,7 +1399,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1929-12-24"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1309,7 +1410,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1930-04-05"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
@@ -1323,7 +1425,7 @@
                      notBefore="1930-06-01"
                      notAfter="1930-06-30"/>
                <placeName cert="low"
-                          ref="http://www.geonames.org/2761369"
+                          ref="https://sws.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -1334,7 +1436,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1930-11-10"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1344,29 +1446,32 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1930-11-24"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="196">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <date when="1930-12-11"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#y8d39a2f-76d4-4426-8799-986c8bf5bc60" key="197">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1930-12-30"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>

@@ -31,43 +31,42 @@
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1896-08-02"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1896-08-09"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName
-                          evidence="conjecture"
-                          ref="https://sws.geonames.org/2613685/"
-                          >Skodsborg</placeName>
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2613685/">Skodsborg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-08-10"/>
-               <placeName ref="https://www.geonames.org/2613685">Skodsborg</placeName>
+               <placeName ref="https://sws.geonames.org/2613685/">Skodsborg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-09-28"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
@@ -77,22 +76,22 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-03-15"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1897-03-26"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
@@ -101,11 +100,11 @@
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1897-08-22"/>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
@@ -114,14 +113,14 @@
                <date when="1898-07-18"/>
             </correspAction>
             <correspAction type="received">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-07-28"/>
-               <placeName ref="https://www.geonames.org/2766824">Salzburg</placeName>
+               <placeName ref="https://sws.geonames.org/2766824/">Salzburg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
@@ -131,7 +130,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-11-11"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
@@ -141,18 +140,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1901-07-05"/>
-               <placeName ref="https://www.geonames.org/2613939">Skagen</placeName>
+               <placeName ref="https://sws.geonames.org/2613939/">Skagen</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date notAfter="1901-12-31" notBefore="1901-12-20"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
@@ -162,138 +162,139 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1902-02-20"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-02-22"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1902-02-28"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-03-02"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-09-11"/>
-               <placeName ref="https://www.geonames.org/2765170">Semmering</placeName>
+               <placeName ref="https://sws.geonames.org/2765170/">Semmering</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1908-09-23"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1908-12-01"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1908-12-12"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName>Koppel, Elise</persName>
                <date cert="low" notAfter="1909-04-05" notBefore="1909-01-01"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1908-12-20"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName>Koppel, Elise</persName>
                <date when="1909-04-10"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11539396X">Michaëlis, Karin</persName>
                <date when="1912-10-21"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#z7240971-fbf6-453b-9f97-eb6aaa8f59ae">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-03-20"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
@@ -303,11 +304,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116882670">Nansen, Peter</persName>
                <date when="1917-08-13"/>
-               <placeName ref="https://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
       </profileDesc>

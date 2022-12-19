@@ -17,8 +17,9 @@
             <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/2006_Schnitzler_Daenemark.xml</idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="print" xml:id="wbbaa189-e228-4270-9326-f15d55d5a5c5">Ernst-Ullrich Pinkert: Arthur Schnitzlers Briefe nach Dänemark. Roskilde: Roskilde Universitet 2006. (Småskrifter fra CØNK, 19)
-                </bibl>
+            <bibl type="print" xml:id="wbbaa189-e228-4270-9326-f15d55d5a5c5">Ernst-Ullrich Pinkert:
+               Arthur Schnitzlers Briefe nach Dänemark. Roskilde: Roskilde Universitet 2006.
+               (Småskrifter fra CØNK, 19) </bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -26,7 +27,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-12-09"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/1055241930">Borchsenius, Otto</persName>
@@ -36,7 +37,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-10-07"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119018934">Drachmann, Holger</persName>
@@ -46,18 +47,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119018934">Drachmann, Holger</persName>
                <date when="1907-04-18"/>
-               <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
-            <correspAction  type="received">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName  evidence="conjecture" ref="#pmb">Wien</placeName>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-02-04"/>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/130100854">Benzon, Otto</persName>
@@ -67,18 +70,17 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/130100854">Benzon, Otto</persName>
                <date when="1910-02-07"/>
-               <placeName ref="http://www.geonames.org/2618425">Kopenhagen</placeName>
+               <placeName ref="https://sws.geonames.org/2618425/">Kopenhagen</placeName>
             </correspAction>
-            <correspAction  type="received">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5">
-            <correspAction  type="sent">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date  when="1910-02-18"/>
-               <placeName 
-                          evidence="conjecture"
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1910-02-18"/>
+               <placeName evidence="conjecture"
                           ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -89,18 +91,17 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-11-17"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName>Gad, Carl</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5">
-            <correspAction  type="sent">
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date  when="1912-01-10"/>
-               <placeName 
-                          evidence="conjecture"
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1912-01-10"/>
+               <placeName evidence="conjecture"
                           ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -108,24 +109,23 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5" sameAs="ASBW">
-            <correspAction  type="sent">
-               <placeName 
-                  evidence="conjecture"
-                  ref="https://sws.geonames.org/2761369/">Wien</placeName>
-               <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+            <correspAction type="sent">
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1916-11-08"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11539396X">Michaelis, Karin</persName>
                <date when="1916-11-15" evidence="conjecture"/>
-               <placeName ref="https://www.geonames.org/2611744/thuro.html">Thurø</placeName>
+               <placeName ref="https://sws.geonames.org/2611744/">Thurø</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1921-06-02"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName>Rung, Gertrud</persName>
@@ -135,7 +135,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1924-10-13"/>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName>Norrie, William</persName>

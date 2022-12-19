@@ -27,18 +27,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date cert="low" when="1886-08-18"/>
-               <placeName ref="https://www.geonames.org/2767773" evidence="conjecture">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/"
+                          evidence="conjecture">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date notBefore="1886-08-01" notAfter="1886-08-31"/>
-               <placeName ref="https://www.geonames.org/2782052" evidence="conjecture">Bad
+               <placeName ref="https://sws.geonames.org/2782052/"
+                          evidence="conjecture">Bad
                         Ischl</placeName>
             </correspAction>
             <correspAction type="received">
@@ -49,7 +51,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1886-08-21"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -59,7 +61,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-08-22"/>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -69,7 +71,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-09-07"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -82,14 +84,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-09-14"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -111,14 +114,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-09-26"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -128,18 +132,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date cert="low" when="1886-09-30"/>
-               <placeName ref="https://www.geonames.org/2767773" evidence="conjecture">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/"
+                          evidence="conjecture">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-10-05"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -152,14 +158,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-10-13"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -172,14 +179,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-10-22"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -188,9 +196,7 @@
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notBefore="1886-10-01"
-                     notAfter="1886-10-31"/>
+               <date notBefore="1886-10-01" notAfter="1886-10-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -200,20 +206,21 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1886-10-26"/>
-               <placeName ref="https://www.geonames.org/2767773" evidence="conjecture">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/"
+                          evidence="conjecture">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-10-31"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -226,16 +233,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-11-12"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -248,16 +255,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1886-11-22"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -270,16 +277,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-11-29"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -298,7 +305,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1886-12-04"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -308,7 +315,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1886-12-06"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -321,16 +328,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notAfter="1886-12-11"
-                     notBefore="1886-12-09"/>
+               <date cert="low" notAfter="1886-12-11" notBefore="1886-12-09"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -349,7 +354,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-12-22"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -368,7 +373,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-01-06"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -381,14 +386,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-01-18"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -401,16 +407,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1887-01-28"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -423,15 +429,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notBefore="1887-02-01"
-                     notAfter="1887-02-28"/>
+               <date notBefore="1887-02-01" notAfter="1887-02-28"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -444,18 +449,21 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date cert="low" when="1887-02-27"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -465,7 +473,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -475,7 +483,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -485,7 +494,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -495,14 +504,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-03-22"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -515,15 +525,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notBefore="1887-04-01"
-                     notAfter="1887-04-30"/>
+               <date notBefore="1887-04-01" notAfter="1887-04-30"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -536,14 +545,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-04-26"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -556,16 +566,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-05-04"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -578,7 +588,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -588,16 +599,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-05-20"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -610,16 +621,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-06-12"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -632,16 +643,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-06-21"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -660,19 +671,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1887-07-12"/>
-               <placeName ref="https://www.geonames.org/2761353" evidence="conjecture">Wiener
+               <placeName ref="https://sws.geonames.org/2761353/"
+                          evidence="conjecture">Wiener
                         Neustadt</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-07-16"/>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -685,14 +697,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2782052" evidence="conjecture">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/"
+                          evidence="conjecture">Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-08-03"/>
-               <placeName ref="https://www.geonames.org/2782052" evidence="conjecture">Bad
+               <placeName ref="https://sws.geonames.org/2782052/"
+                          evidence="conjecture">Bad
                         Ischl</placeName>
             </correspAction>
             <correspAction type="received">
@@ -706,14 +720,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2782052" evidence="conjecture">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/"
+                          evidence="conjecture">Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1887-08-13"/>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -732,20 +747,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1887-08-26"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-08-27"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -758,7 +772,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -774,9 +789,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1887-09-16"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -786,7 +800,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-09-21"/>
-               <placeName ref="https://www.geonames.org/2843395">Rüdesheim</placeName>
+               <placeName ref="https://sws.geonames.org/2843395/">Rüdesheim</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -806,7 +820,7 @@
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-09-23"/>
                <placeName cert="low"
-                          ref="https://www.geonames.org/2867714"
+                          ref="https://sws.geonames.org/2867714/"
                           evidence="conjecture">Starnberger See</placeName>
             </correspAction>
             <correspAction type="received">
@@ -820,7 +834,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -830,16 +845,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1887-09-28"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -852,7 +867,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -868,9 +884,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1887-10-07"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -887,13 +902,10 @@
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
                <date cert="low" when="1887-10-25"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -906,16 +918,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-11-09"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -928,15 +940,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1887-12-01"
-                     notBefore="1887-11-22">[Ende November]</date>
+               <date notAfter="1887-12-01" notBefore="1887-11-22">[Ende November]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -946,7 +957,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-12-31"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -959,16 +970,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1888-02-04"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -981,7 +992,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -996,9 +1008,7 @@
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notBefore="1888-03-01"
-                     notAfter="1888-03-31"/>
+               <date notBefore="1888-03-01" notAfter="1888-03-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1011,14 +1021,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1888-04-13"/>
-               <placeName ref="https://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/"
+                          evidence="conjecture">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
@@ -1031,14 +1043,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/"
+                          evidence="conjecture">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date notAfter="1888-04-30" notBefore="1888-04-28">Ende April</date>
-               <placeName ref="https://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/"
+                          evidence="conjecture">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1051,14 +1065,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2950159" evidence="conjecture">Berlin</placeName>
+               <placeName ref="https://sws.geonames.org/2950159/"
+                          evidence="conjecture">Berlin</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
+               <date cert="low"
                      evidence="conjecture"
                      notBefore="1888-05-01"
                      notAfter="1888-05-31"/>
@@ -1080,7 +1094,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1888-05-24"/>
-               <placeName ref="https://www.geonames.org/6940958">London, Honor Oak</placeName>
+               <placeName ref="https://sws.geonames.org/6940958/">London, Honor Oak</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1093,17 +1107,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2643743/"
-                          >London</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2643743/">London</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date notAfter="1888-06-07" notBefore="1888-06-01">Anfang Juni</date>
-               <placeName ref="https://www.geonames.org/2637395">London, South
+               <placeName ref="https://sws.geonames.org/2637395/">London, South
                         Kensington</placeName>
             </correspAction>
             <correspAction type="received">
@@ -1116,20 +1128,16 @@
                <date when="1888-06-18"/>
             </correspAction>
             <correspAction type="received">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <placeName
-                  evidence="conjecture"
-                  ref="http://www.geonames.org/2643743/"
-                  >London</placeName>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2643743/">London</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1888-07-02"/>
-               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <placeName ref="https://sws.geonames.org/2643743/">London</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1142,17 +1150,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName
-                  evidence="conjecture"
-                  ref="http://www.geonames.org/2643743/"
-                  >London</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2643743/">London</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" notBefore="1888-08-01" notAfter="1888-08-31"/>
-               <placeName ref="https://www.geonames.org/2789786">Ostende</placeName>
+               <placeName ref="https://sws.geonames.org/2789786/">Ostende</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1170,9 +1176,7 @@
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1888-09-23"
-                     notBefore="1888-09-19">Ende Sept. [1888]</date>
+               <date notAfter="1888-09-23" notBefore="1888-09-19">Ende Sept. [1888]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
@@ -1185,15 +1189,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notBefore="1888-10-01"
-                     notAfter="1888-10-31"/>
+               <date notBefore="1888-10-01" notAfter="1888-10-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1206,15 +1209,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1888-11-30"
-                     notBefore="1888-10-01"/>
+               <date notAfter="1888-11-30" notBefore="1888-10-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1227,7 +1229,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1246,14 +1249,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1889-02-25"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1266,7 +1269,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1282,9 +1286,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1889-03-27"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1294,9 +1297,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1889-04-10"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1309,18 +1311,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1889-04-01"
-                     notAfter="1889-04-30"/>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <date cert="low" notBefore="1889-04-01" notAfter="1889-04-30"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1333,7 +1331,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1343,7 +1342,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1353,18 +1352,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
                <date cert="low" when="1889-08-27"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1377,7 +1373,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1387,16 +1384,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1889-09-01"
-                     notAfter="1889-09-30">[Herbst 1889]</date>
+               <date cert="low" notBefore="1889-09-01" notAfter="1889-09-30">[Herbst 1889]</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1409,7 +1404,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1419,15 +1415,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1889-10-15"
-                     notBefore="1889-10-05"/>
+               <date notAfter="1889-10-15" notBefore="1889-10-05"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1440,18 +1435,20 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1889-10-25"/>
-               <placeName ref="https://www.geonames.org/2782043">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1461,7 +1458,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1471,7 +1469,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1481,7 +1480,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1491,7 +1491,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1499,12 +1500,13 @@
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date cert="low" when="1889-12-17"/>
                <placeName cert="low"
-                          ref="https://www.geonames.org/2761369/"
+                          ref="https://sws.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1512,12 +1514,13 @@
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date cert="low" when="1889-12-18"/>
                <placeName cert="low"
-                          ref="https://www.geonames.org/2761369/"
+                          ref="https://sws.geonames.org/2761369/"
                           evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1527,16 +1530,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1890-01-01"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1549,16 +1552,13 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1890-03-01"
-                     notAfter="1890-03-31"/>
+               <date cert="low" notBefore="1890-03-01" notAfter="1890-03-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1568,35 +1568,35 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-03-10"/>
-               <placeName ref="https://www.geonames.org/3163828">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1890-03-01"
-                     notAfter="1890-03-31"/>
+               <date cert="low" notBefore="1890-03-01" notAfter="1890-03-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
-               <placeName ref="https://www.geonames.org/3163828">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/">Abbazia</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-03-14"/>
-               <placeName ref="https://www.geonames.org/3163828" evidence="conjecture">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/"
+                          evidence="conjecture">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1606,16 +1606,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1890-03-01"
-                     notAfter="1890-03-31"/>
+               <date cert="low" notBefore="1890-03-01" notAfter="1890-03-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1628,75 +1626,81 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-03-22"/>
-               <placeName ref="https://www.geonames.org/3173577" evidence="conjecture">Meran</placeName>
+               <placeName ref="https://sws.geonames.org/3173577/"
+                          evidence="conjecture">Meran</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1890-03-01"
-                     notAfter="1890-03-31"/>
+               <date cert="low" notBefore="1890-03-01" notAfter="1890-03-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
-               <placeName ref="https://www.geonames.org/3173577" evidence="conjecture">Meran</placeName>
+               <placeName ref="https://sws.geonames.org/3173577/"
+                          evidence="conjecture">Meran</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
-               <date notBefore="1890-03-23" notAfter="1890-03-26" evidence="conjecture"></date>
+               <date notBefore="1890-03-23" notAfter="1890-03-26" evidence="conjecture"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1890-03-26"/>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-04-08" evidence="conjecture"/>
-               <placeName ref="https://www.geonames.org/3081368" evidence="conjecture">Breslau</placeName>
+               <placeName ref="https://sws.geonames.org/3081368/"
+                          evidence="conjecture">Breslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1890-04-11"/>
-               <placeName ref="https://www.geonames.org/3093524">Lissa, Posen</placeName>
+               <placeName ref="https://sws.geonames.org/3093524/">Lissa, Posen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1890-04-15"/>
-               <placeName ref="https://www.geonames.org/3093524">Lissa, Posen</placeName>
+               <placeName ref="https://sws.geonames.org/3093524/">Lissa, Posen</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1706,7 +1710,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1716,19 +1721,21 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-05-17"/>
-               <placeName ref="https://www.geonames.org/2766465">Jagdhütte
+               <placeName ref="https://sws.geonames.org/2766465/">Jagdhütte
                         Lackerboden</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1738,16 +1745,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1890-05-27"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1760,29 +1766,33 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-06-06"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date cert="low" when="1890-06-09"/>
-               <placeName ref="https://www.geonames.org/2767773" evidence="conjecture">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/"
+                          evidence="conjecture">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1792,7 +1802,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1808,11 +1819,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/1206963379">Waißnix, Charles</persName>
                <date when="1890-06-19"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1822,29 +1833,32 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/1206963379">Waißnix, Charles</persName>
                <date when="1890-06-29"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1890-07-02"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/1206963379" evidence="conjecture">Waißnix, Charles</persName>
-               <placeName ref="https://www.geonames.org/2767773" evidence="conjecture">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/"
+                          evidence="conjecture">Reichenau</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1854,7 +1868,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1864,16 +1879,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1890-08-02"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1886,7 +1901,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1896,7 +1912,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1906,16 +1923,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1890-08-01"
-                     notAfter="1890-08-31"/>
+               <date cert="low" notBefore="1890-08-01" notAfter="1890-08-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1928,7 +1943,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -1938,16 +1953,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1890-09-08"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1960,14 +1975,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date notBefore="1890-09-01" notAfter="1890-09-30"/>
-               <placeName ref="https://www.geonames.org/2766824" evidence="conjecture">Salzburg</placeName>
+               <placeName ref="https://sws.geonames.org/2766824/"
+                          evidence="conjecture">Salzburg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -1980,20 +1997,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2766818/"
-                          >Salzburg</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1890-10-05"
-                     notBefore="1890-10-01"/>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <date notAfter="1890-10-05" notBefore="1890-10-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2006,25 +2017,27 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-01-14"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1890-10-16"/>
-               <placeName ref="https://www.geonames.org/2782043" evidence="conjecture">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/"
+                          evidence="conjecture">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -2041,12 +2054,8 @@
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1890-11-04"
-                     notBefore="1890-11-01"/>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <date notAfter="1890-11-04" notBefore="1890-11-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2063,13 +2072,10 @@
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
                <date cert="low" when="1890-11-14"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2091,18 +2097,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1890-12-01"
-                     notAfter="1890-12-31"/>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <date cert="low" notBefore="1890-12-01" notAfter="1890-12-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2124,7 +2126,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2134,7 +2136,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2148,13 +2151,10 @@
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
                <date cert="low" when="1891-01-16"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2167,18 +2167,20 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1891-01-18"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2192,13 +2194,8 @@
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1891-01-01"
-                     notAfter="1891-01-31"/>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <date cert="low" notBefore="1891-01-01" notAfter="1891-01-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2211,7 +2208,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2226,10 +2224,7 @@
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     cert="low"
-                     notBefore="1891-02-01"
-                     notAfter="1891-02-28"/>
+               <date cert="low" notBefore="1891-02-01" notAfter="1891-02-28"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2242,18 +2237,19 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1891-02-25"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2263,17 +2259,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1891-03-07"
-                     notBefore="1891-03-01"/>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <date notAfter="1891-03-07" notBefore="1891-03-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2286,17 +2279,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
-               <persName 
-                         ref="https://d-nb.info/gnd/118609807"
-                         evidence="conjecture">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1891-04-09"
-                     notBefore="1891-04-07"/>
+               <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
+               <date notAfter="1891-04-09" notBefore="1891-04-07"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2309,15 +2299,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     notAfter="1891-06-03"
-                     notBefore="1891-05-20"/>
+               <date notAfter="1891-06-03" notBefore="1891-05-20"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2336,7 +2325,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1892-09-19"/>
-               <placeName ref="https://www.geonames.org/2767773">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -2346,7 +2335,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1892-09-25"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2359,7 +2348,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2369,7 +2359,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2379,14 +2370,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-01-27"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2399,7 +2391,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2418,7 +2411,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2428,14 +2422,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-05-12"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2445,36 +2440,35 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1893-06-17"/>
-               <placeName ref="https://www.geonames.org/2782054">Bad Hall</placeName>
+               <placeName ref="https://sws.geonames.org/2782054/">Bad Hall</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1893-06-22"/>
-               <placeName ref="https://www.geonames.org/2782054">Bad Hall</placeName>
+               <placeName ref="https://sws.geonames.org/2782054/">Bad Hall</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2776358/"
-                          >Hinterbrühl</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2776358/">Hinterbrühl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1893-07-05"/>
-               <placeName ref="https://www.geonames.org/2782054">Bad Hall</placeName>
+               <placeName ref="https://sws.geonames.org/2782054/">Bad Hall</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2782052" evidence="conjecture">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/"
+                          evidence="conjecture">Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2484,7 +2478,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2782052" evidence="conjecture">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/"
+                          evidence="conjecture">Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2494,16 +2489,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-10-26"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2516,14 +2511,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-11-11"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2533,7 +2529,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-11-27"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2552,9 +2548,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-11-28"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2567,14 +2562,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-12-11"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2587,7 +2583,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2606,18 +2603,19 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1894-11-15"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2627,53 +2625,59 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1894-03-10"/>
-               <placeName ref="https://www.geonames.org/3173577">Warmegg Obermais bei
+               <placeName ref="https://sws.geonames.org/3173577/">Warmegg Obermais bei
                         Meran</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1894-03-16"/>
-               <placeName ref="https://www.geonames.org/3173577" evidence="conjecture">Obermais
+               <placeName ref="https://sws.geonames.org/3173577/"
+                          evidence="conjecture">Obermais
                         bei Meran</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1894-04-03"/>
-               <placeName ref="https://www.geonames.org/3173577">Obermais bei Meran</placeName>
+               <placeName ref="https://sws.geonames.org/3173577/">Obermais bei Meran</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1894-04-12"/>
-               <placeName ref="https://www.geonames.org/3173577">Obermais bei Meran</placeName>
+               <placeName ref="https://sws.geonames.org/3173577/">Obermais bei Meran</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2683,14 +2687,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1894-06-10"/>
-               <placeName ref="https://www.geonames.org/2782054" evidence="conjecture">Bad
+               <placeName ref="https://sws.geonames.org/2782054/"
+                          evidence="conjecture">Bad
                         Hall</placeName>
             </correspAction>
             <correspAction type="received">
@@ -2701,11 +2707,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1895-01-14"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2715,27 +2721,28 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1895-04-02"/>
-               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://sws.geonames.org/3164603/">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-04-07"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2745,20 +2752,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1895-04-08"/>
-               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://sws.geonames.org/3164603/">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1895-04-09"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2768,11 +2775,13 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1895-04-13"/>
-               <placeName ref="https://www.geonames.org/3164603" evidence="conjecture">Venedig</placeName>
+               <placeName ref="https://sws.geonames.org/3164603/"
+                          evidence="conjecture">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2782,16 +2791,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-09-30"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2804,14 +2813,15 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-10-16"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2824,7 +2834,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2834,7 +2845,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2844,7 +2856,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
@@ -2854,14 +2867,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1896-06-10"/>
-               <placeName ref="https://www.geonames.org/2767773" evidence="conjecture">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/"
+                          evidence="conjecture">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -2871,9 +2886,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1896-06-11"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2883,7 +2897,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1896-06-12"/>
-               <placeName ref="https://www.geonames.org/2767773" evidence="conjecture">Reichenau</placeName>
+               <placeName ref="https://sws.geonames.org/2767773/"
+                          evidence="conjecture">Reichenau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -2893,7 +2908,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1896-06-20"/>
-               <placeName ref="https://www.geonames.org/2782043">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -2906,27 +2921,29 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1896-06-29"/>
-               <placeName ref="https://www.geonames.org/2782043" evidence="conjecture">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/"
+                          evidence="conjecture">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1896-06-30"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2936,18 +2953,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1896-06-09"/>
-               <placeName ref="https://www.geonames.org/2782043" evidence="conjecture">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/"
+                          evidence="conjecture">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-07-15"/>
-               <placeName ref="https://www.geonames.org/3133880/trondheim.html">Trondhjem</placeName>
+               <placeName ref="https://sws.geonames.org/3133880/">Trondhjem</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2957,7 +2976,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-08-14"/>
-               <placeName ref="https://www.geonames.org/2613685">Skodsborg</placeName>
+               <placeName ref="https://sws.geonames.org/2613685/">Skodsborg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2967,18 +2986,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1896-09-06"/>
-               <placeName ref="https://www.geonames.org/3163828">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-09-12"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -2988,20 +3008,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1886-09-24"/>
-               <placeName ref="https://www.geonames.org/3163828">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-09-29"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3011,42 +3031,46 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1896-09-30"/>
-               <placeName ref="https://www.geonames.org/3163828" evidence="conjecture">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/"
+                          evidence="conjecture">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1896-12-18"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-02-22"/>
-               <placeName ref="https://www.geonames.org/3163828" evidence="conjecture">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/"
+                          evidence="conjecture">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-02-26"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3056,20 +3080,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-03-05"/>
-               <placeName ref="https://www.geonames.org/3163828">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-03-29"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3079,18 +3103,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-03-31"/>
-               <placeName ref="https://www.geonames.org/3163828">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807" evidence="conjecture">Schnitzler, Arthur</persName>
                <date when="1897-04-05"/>
-               <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3100,21 +3125,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-05-13"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2988507/"
-                          >Paris</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2988507/">Paris</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-05-15"/>
-               <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3124,7 +3147,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-05-23"/>
-               <placeName ref="https://www.geonames.org/2988507">Paris</placeName>
+               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3134,7 +3157,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-05-29"/>
-               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <placeName ref="https://sws.geonames.org/2643743/">London</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3144,19 +3167,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date when="1897-06-04"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien, Sanatorium
+               <placeName ref="https://sws.geonames.org/2761369/">Wien, Sanatorium
                         Loew</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-06-05"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3166,21 +3190,22 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
                <date cert="low" when="1897-06-05"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien,
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien,
                         Sanatorium Loew</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1897-06-16"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3190,7 +3215,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-06-22"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien,
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien,
                         Sanatorium Loew</placeName>
             </correspAction>
             <correspAction type="received">
@@ -3201,7 +3227,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-06-23"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3210,10 +3236,7 @@
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     evidence="conjecture"
-                     notBefore="1897-06-01"
-                     notAfter="1897-06-30"/>
+               <date evidence="conjecture" notBefore="1897-06-01" notAfter="1897-06-30"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3223,7 +3246,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-06-07"/>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3233,7 +3256,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date notAfter="1897-07-07" notBefore="1897-07-01"/>
-               <placeName ref="https://www.geonames.org/2766990">Ischl, Rudolfshöhe</placeName>
+               <placeName ref="https://sws.geonames.org/2766990/">Ischl, Rudolfshöhe</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3243,18 +3266,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-07-13"/>
-               <placeName ref="https://www.geonames.org/2782043" evidence="conjecture">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/"
+                          evidence="conjecture">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2782052" evidence="conjecture">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/"
+                          evidence="conjecture">Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-07-21"/>
-               <placeName ref="https://www.geonames.org/2782052">Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3264,18 +3289,20 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-07-28"/>
-               <placeName ref="https://www.geonames.org/2782043">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-08-14"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3285,53 +3312,57 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-08-14"/>
-               <placeName ref="https://www.geonames.org/2782043">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-09-08"/>
-               <placeName ref="https://www.geonames.org/2782043">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date cert="low" when="1897-09-13"/>
-               <placeName ref="https://www.geonames.org/2782043">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-09-15"/>
-               <placeName ref="https://www.geonames.org/2782043" evidence="conjecture">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/"
+                          evidence="conjecture">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1897-09-22"/>
-               <placeName
-                          evidence="conjecture"
-                          ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -3341,20 +3372,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
                <date when="1897-09-24"/>
-               <placeName ref="https://www.geonames.org/2782043" evidence="conjecture">Vöslau</placeName>
+               <placeName ref="https://sws.geonames.org/2782043/"
+                          evidence="conjecture">Vöslau</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date
-                     evidence="conjecture"
-                     notBefore="1897-09-01"
-                     notAfter="1897-09-30"/>
+               <date evidence="conjecture" notBefore="1897-09-01" notAfter="1897-09-30"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>

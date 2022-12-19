@@ -14,8 +14,7 @@
                <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
             </availability>
             <date when="2022-11-29T12:33:35.63-01:00"/>
-            <idno type="url"
-               >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1967_Schnitzler_Koerner.xml</idno>
+            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1967_Schnitzler_Koerner.xml</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="print" xml:id="o6a2c244-7897-4405-a39e-3a380e665543">Arthur Schnitzler:
@@ -28,8 +27,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1926-03-20"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116297271">Körner, Josef</persName>
@@ -39,8 +38,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1931-01-19"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116297271">Körner, Josef</persName>
@@ -50,7 +49,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1931-04-08"/>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/116297271">Körner, Josef</persName>

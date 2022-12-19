@@ -1,41 +1,42 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1954_Schnitzler-an-Friedell</title>
-                <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
-                </editor>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>
-                    <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Martin Anton Müller</ref>
-                </publisher>
-                <availability>
-                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
-                </availability>
-                <date when="2022-11-17T14:09:42.411-01:00"/>
-                <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1954_Schnitzler-an-Friedell.xml</idno>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="print" xml:id="i0c57881-43a7-490c-bcb6-a0ffc7ee2749">Egon Friedell: Briefe. Ausgewählt und herausgegeben von Walther Schneider. Wien: Georg Prachner 1954. (nur der eine Brief von Schnitzler erfasst)</bibl>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <correspDesc source="#i0c57881-43a7-490c-bcb6-a0ffc7ee2749">
-                <correspAction type="sent">
-                    <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-                    <date when="1920-05-17"/>
-                    <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="https://d-nb.info/gnd/118535560">Friedell, Egon</persName>
-                </correspAction>
-            </correspDesc>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <p/>
-        </body>
-    </text>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1954_Schnitzler-an-Friedell</title>
+            <editor>Martin Anton Müller<email>martin.anton.mueller@oeaw.ac.at</email>
+            </editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at/">Martin Anton Müller</ref>
+            </publisher>
+            <availability>
+               <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+            </availability>
+            <date when="2022-11-17T14:09:42.411-01:00"/>
+            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1954_Schnitzler-an-Friedell.xml</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="print" xml:id="i0c57881-43a7-490c-bcb6-a0ffc7ee2749">Egon Friedell: Briefe. Ausgewählt und herausgegeben von Walther Schneider. Wien: Georg Prachner 1954. (nur der eine Brief von Schnitzler erfasst)</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc source="#i0c57881-43a7-490c-bcb6-a0ffc7ee2749">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1920-05-17"/>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/118535560">Friedell, Egon</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p/>
+      </body>
+   </text>
 </TEI>

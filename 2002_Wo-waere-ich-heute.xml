@@ -30,7 +30,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-03-14"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
@@ -40,7 +40,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-12-14"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/117296023">Teweles, Heinrich</persName>
@@ -50,11 +50,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1923-07-19"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName>Jacques, Grete</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
       </profileDesc>

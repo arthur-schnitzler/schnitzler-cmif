@@ -12,8 +12,7 @@
                <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
             </availability>
             <date when="2020-07-29T01:04:05.840-02:00"/>
-            <idno type="url"
-               >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/2003_Deimel_Schnitzler.xml</idno>
+            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/2003_Deimel_Schnitzler.xml</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="print" xml:id="w6429315-92be-4f82-b2f1-926125f9bfa5">Heinz P. Adamek (Hg.):
@@ -26,24 +25,24 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1882-09-23"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1882-11-28"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -51,19 +50,19 @@
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <persName>Dina Deimel</persName>
                <date when="1884-02-18"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notAfter="1884-03-17" notBefore="1884-03-12"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -73,11 +72,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1884-12-18"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -87,16 +86,16 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1889-01-09"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
@@ -106,7 +105,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date from="1889-01-29" to="1889-01-30"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -116,24 +115,24 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1889-02-15"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1889-03-20"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -150,19 +149,19 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1889-05-31"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1889-06-16"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
@@ -172,26 +171,27 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1892-03-16"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1892-06-22"/>
-               <placeName ref="https://www.geonames.org/5116398">Elka Park by Tannessville, New
+               <placeName ref="https://sws.geonames.org/5116398/">Elka Park by Tannessville, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -201,8 +201,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -212,8 +212,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -223,14 +223,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-05-27"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
@@ -240,23 +240,24 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1895-06-18"/>
-               <placeName ref="https://www.geonames.org/5128581">Tannessville New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">Tannessville New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-08-02"/>
-               <placeName ref="https://www.geonames.org/2782052">Bad Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -264,7 +265,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notBefore="1896-02-01" notAfter="1896-02-29"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
@@ -274,11 +276,15 @@
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date cert="low" evidence="conjecture" notBefore="1896-01-01" notAfter="1896-12-31"/>
+               <date cert="low"
+                     evidence="conjecture"
+                     notBefore="1896-01-01"
+                     notAfter="1896-12-31"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -286,47 +292,51 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notBefore="1896-05-01" notAfter="1896-05-31"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-08-14"/>
-               <placeName ref="https://www.geonames.org/2613685">Skodsborg</placeName>
+               <placeName ref="https://sws.geonames.org/2613685/">Skodsborg</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <date cert="low" evidence="conjecture" notBefore="1896-11-01" notAfter="1896-11-30"/>
+               <date cert="low"
+                     evidence="conjecture"
+                     notBefore="1896-11-01"
+                     notAfter="1896-11-30"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1896-11-10"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -336,8 +346,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -347,20 +357,21 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-12-20">(20.) 19.12.96</date>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -368,23 +379,24 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1897-01-03"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-01-11"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -392,22 +404,23 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1897-01-16"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-01-24"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -418,8 +431,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -429,19 +442,20 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-02-10"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -449,12 +463,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notBefore="1897-02-01" notAfter="1897-02-28"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -464,8 +478,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -475,19 +489,20 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-03-22"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -495,11 +510,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-03-25"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -507,47 +523,49 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1897-04-16"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1897-05-26"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1897-06-13"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-08-18"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -555,12 +573,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1897-10-20"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
@@ -570,20 +588,21 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-11-21"/>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
-                  >Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -591,32 +610,33 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-01-04"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-02-01"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-02-15"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
@@ -626,72 +646,74 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-03-03"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-04-21"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-06-14"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-08-12"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-10-10"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-10-27"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -699,43 +721,44 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1898-11-23"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1899-02-17"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1899-04-04"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1900-02-24"/>
-               <placeName ref="https://www.geonames.org/4500546">Chester Inn, Atlantic
+               <placeName ref="https://sws.geonames.org/4500546/">Chester Inn, Atlantic
                   City</placeName>
             </correspAction>
             <correspAction type="received">
@@ -746,47 +769,48 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-04-06"/>
-               <placeName ref="https://www.geonames.org/3163828">Abbazia</placeName>
+               <placeName ref="https://sws.geonames.org/3163828/">Abbazia</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1901-04-09"/>
-               <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
+               <placeName ref="https://sws.geonames.org/3169070/">Rom</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1901-06-30"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1901-07-22"/>
-               <placeName ref="https://www.geonames.org/3164691/varna.html">Vahrn bei
+               <placeName ref="https://sws.geonames.org/3164691/">Vahrn bei
                   Brixen</placeName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -794,155 +818,160 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1901-08-05"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1902-12-10"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1902-12-23"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1902-08-18"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-09-02"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1903-10-27"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date evidence="conjecture" when="1903-12-19"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-01-04"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1904-02-04"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1904-03-21"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notAfter="1904-01-02" notBefore="1903-12-20">Neujahrskarte von 1904 (?)</date>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1905-07-25"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" evidence="conjecture" when="1905-08-29"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -950,35 +979,36 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1909-08-28"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date from="1909-08-28" to="1909-08-29"/>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-09-21"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -986,106 +1016,110 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date evidence="conjecture" when="1909-10-05"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1909-12-23"/>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1911-07-09"/>
-               <placeName ref="https://www.geonames.org/5125125">Long Island</placeName>
+               <placeName ref="https://sws.geonames.org/5125125/">Long Island</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1911-12-12"/>
-               <placeName ref="https://www.geonames.org/5125125" evidence="conjecture">Long
+               <placeName ref="https://sws.geonames.org/5125125/"
+                          evidence="conjecture">Long
                   Island</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName>Jenny Deimel</persName>
                <date when="1911-12-12"/>
-               <placeName ref="https://www.geonames.org/5520993">El Paso, Texas</placeName>
+               <placeName ref="https://sws.geonames.org/5520993/">El Paso, Texas</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5125125">Long Island, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5125125/">Long Island, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-12-15"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581">New York</placeName>
+               <placeName ref="https://sws.geonames.org/5128581/">New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1912-04-15"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-05-19"/>
-               <placeName ref="https://www.geonames.org/3164603">Venedig</placeName>
+               <placeName ref="https://sws.geonames.org/3164603/">Venedig</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-06-03"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5128581" evidence="conjecture">New
+               <placeName ref="https://sws.geonames.org/5128581/"
+                          evidence="conjecture">New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1093,81 +1127,84 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date cert="low" when="1912-08-10"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-09-25"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1912-10-06"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1912-10-22"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notBefore="1912-11-01" notAfter="1912-11-30"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1912-12-22"/>
-               <placeName cert="low" ref="https://www.geonames.org/5122520" evidence="conjecture"
-                  >Jamaica, New York</placeName>
+               <placeName cert="low"
+                          ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-12-28"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1175,95 +1212,99 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date cert="low" when="1913-01-10"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date from="1913-01-22" to="1913-01-23"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1913-02-20"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1913-04-15"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1913-10-06"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1913-11-08"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date cert="low" when="1913-11-24"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-12-28"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1271,73 +1312,78 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-01-08"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-01-26"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-02-05"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date cert="low" evidence="conjecture" when="1914-02-22"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-03-25"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-04-03"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1345,23 +1391,24 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-04-09"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-05-09"/>
-               <placeName ref="https://www.geonames.org/3176959">Florenz</placeName>
+               <placeName ref="https://sws.geonames.org/3176959/">Florenz</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1369,12 +1416,13 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-05-22"/>
-               <placeName ref="https://www.geonames.org/2759794" evidence="conjecture"
-                  >Amsterdam</placeName>
+               <placeName ref="https://sws.geonames.org/2759794/"
+                          evidence="conjecture">Amsterdam</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1382,11 +1430,12 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-07-08"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1394,49 +1443,52 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-07-14"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-08-20"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-10-26"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-11-25"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1444,58 +1496,61 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1914-11-28"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date cert="low" evidence="conjecture" when="1914-12-13"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-12-18"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notAfter="1914-12-31" notBefore="1914-12-15"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-01-24"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1503,233 +1558,240 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-04-19"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1915-05-05"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1915-06-07"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-07-09"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1915-07-28"/>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1915-08-10"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-08-31"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5122520">Jamaica, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5122520/">Jamaica, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1915-09-21"/>
-               <placeName ref="https://www.geonames.org/5122520" evidence="conjecture">Jamaica, New
+               <placeName ref="https://sws.geonames.org/5122520/"
+                          evidence="conjecture">Jamaica, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-10-19"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1915-11-10"/>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-11-17"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1915-12-13"/>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1916-02-02"/>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1916-06-22"/>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1916-10-23"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1916-12-11"/>
-               <placeName ref="https://www.geonames.org/5110302" evidence="conjecture">Brooklyn, New
+               <placeName ref="https://sws.geonames.org/5110302/"
+                          evidence="conjecture">Brooklyn, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1916-12-21"/>
-               <placeName ref="https://www.geonames.org/5110302" evidence="conjecture">Brooklyn, New
+               <placeName ref="https://sws.geonames.org/5110302/"
+                          evidence="conjecture">Brooklyn, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1917-01-16"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1919-06-06"/>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1919-07-21"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5110302" evidence="conjecture">Brooklyn, New
+               <placeName ref="https://sws.geonames.org/5110302/"
+                          evidence="conjecture">Brooklyn, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1737,36 +1799,38 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date notBefore="1919-09-01" notAfter="1919-09-30"/>
-               <placeName ref="https://www.geonames.org/5110302" evidence="conjecture">Brooklyn, New
+               <placeName ref="https://sws.geonames.org/5110302/"
+                          evidence="conjecture">Brooklyn, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1919-10-20"/>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1919-10-31"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
-               <placeName ref="https://www.geonames.org/5110302" evidence="conjecture">Brooklyn, New
+               <placeName ref="https://sws.geonames.org/5110302/"
+                          evidence="conjecture">Brooklyn, New
                   York</placeName>
             </correspAction>
          </correspDesc>
@@ -1774,25 +1838,26 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date when="1919-11-23"/>
-               <placeName ref="https://www.geonames.org/5110302" evidence="conjecture">Brooklyn, New
+               <placeName ref="https://sws.geonames.org/5110302/"
+                          evidence="conjecture">Brooklyn, New
                   York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#w6429315-92be-4f82-b2f1-926125f9bfa5">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/124896847">Deimel, Eugen</persName>
                <date cert="low" evidence="conjecture" when="1919-12-06"/>
-               <placeName ref="https://www.geonames.org/5110302">Brooklyn, New York</placeName>
+               <placeName ref="https://sws.geonames.org/5110302/">Brooklyn, New York</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
       </profileDesc>

@@ -31,22 +31,24 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119343207">Sonnenthal, Adolf</persName>
                <date when="1889-02-18"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g83efe7f-a9d8-49c4-ba69-8fdab0a99e4b">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119343207">Sonnenthal, Adolf</persName>
                <date when="1892-12-16"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
+               <placeName evidence="conjecture"
+                          ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#g83efe7f-a9d8-49c4-ba69-8fdab0a99e4b"
@@ -54,7 +56,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1892-12-19"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119343207">Sonnenthal, Adolf</persName>
@@ -65,7 +67,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-12-20"/>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119343207">Sonnenthal, Adolf</persName>
@@ -76,7 +78,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1906-05-31"/>
-               <placeName ref="https://www.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/"
+                          evidence="conjecture">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/119343207">Sonnenthal, Adolf</persName>
