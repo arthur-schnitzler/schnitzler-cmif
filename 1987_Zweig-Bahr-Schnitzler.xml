@@ -2829,7 +2829,7 @@
          <correspDesc source="#d43bae78-6be4-4898-b4e5-86e3d9bc9f34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118637479">Zweig, Stefan</persName>
-               <date notAfter="1930" notBefore="1925"/>
+               <date notAfter="1930-12-31" notBefore="1925-01-01"/>
                <placeName ref="https://www.geonames.org/2766824">Salzburg</placeName>
             </correspAction>
             <correspAction type="received">

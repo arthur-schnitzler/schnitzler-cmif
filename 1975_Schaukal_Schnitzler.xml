@@ -88,6 +88,8 @@
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS3">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1901-05-07"></date>
+                    <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118606662">Schaukal, Richard</persName>
@@ -182,9 +184,11 @@
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118606662">Schaukal, Richard</persName>
                     <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+                    <date notAfter="1902-03-20" notBefore="1902-03-15"/>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+                    <date when="1902-03-21"/>
                 </correspAction>
             </correspDesc>
             <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS7">

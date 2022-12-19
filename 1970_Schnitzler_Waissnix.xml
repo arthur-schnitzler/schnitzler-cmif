@@ -1658,15 +1658,18 @@
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
+               <date notBefore="1890-03-23" notAfter="1890-03-26" evidence="conjecture"></date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1890-03-26"/>
+               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526" evidence="conjecture">Waissnix, Olga</persName>
-               <date when="1890-04-08"/>
+               <date when="1890-04-08" evidence="conjecture"/>
                <placeName ref="https://www.geonames.org/3081368" evidence="conjecture">Breslau</placeName>
             </correspAction>
             <correspAction type="received">

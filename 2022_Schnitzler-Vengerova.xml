@@ -26,7 +26,7 @@
                     Korrespondenz von Arthur Schnitzler mit Isabella Vengerova und Zinaida
                     Vengerova. Herausgegeben von Herausgegeben von Konstantin Asadowski und Martin
                     Anton Müller. In: Hofmannsthal-Jahrbuch für diezur europäischen Moderne, Bd. 30
-                    (2022), S. 7–91 (im Druck).</bibl>
+                    (2022), S. 7–91.</bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -135,7 +135,7 @@
             </correspAction>
             <correspAction type="received">
                <persName>Vengerova, Zinaida</persName>
-               <placeName ref="place_pmb#">Paris</placeName>
+               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
                <date notBefore="1908-10-09" notAfter="1908-10-12">[9. 10. 1908 – 12. 10. 1908?]</date>
             </correspAction>
          </correspDesc>

@@ -28,7 +28,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1894-05-20"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -40,7 +40,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1894-05-30"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -132,7 +132,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-02-25"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -190,7 +190,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-06-15"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -269,7 +269,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-09-14"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -279,7 +279,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-09-15"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -348,7 +348,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-01-07"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -358,7 +358,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-04-05"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -402,7 +402,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-11-22"/>
-               <placeName cert="low" ref="https://www.geonames.org/2761369/vienna.html"
+               <placeName cert="low" ref="https://sws.geonames.org/2761369/"
                   >Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -425,7 +425,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-01-04"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -459,7 +459,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-01-22"/>
-               <placeName cert="low" ref="https://www.geonames.org/2761369/vienna.html"
+               <placeName cert="low" ref="https://sws.geonames.org/2761369/"
                   >Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -523,7 +523,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-02-21"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -545,7 +545,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-03-30"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -567,7 +567,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-06-03"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -627,7 +627,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-07-05"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -695,7 +695,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date notAfter="1898-09-24" notBefore="1898-09-19"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -705,7 +705,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date notAfter="1898-09-24" notBefore="1898-09-19"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -870,7 +870,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1899-05-17"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -933,7 +933,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-07-15"/>
-               <placeName cert="low" ref="https://www.geonames.org/2761369/vienna.html"
+               <placeName cert="low" ref="https://sws.geonames.org/2761369/"
                   >Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -1027,7 +1027,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-03-17"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -1061,7 +1061,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1900-06-06"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1073,7 +1073,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1900-06-06"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1085,7 +1085,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date evidence="conjecture" when="1900-06-06"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1232,7 +1232,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1901-09-23"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -1254,7 +1254,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1901-10-05"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -1426,7 +1426,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-01-09"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -1460,7 +1460,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-01-13"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -1620,7 +1620,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1902-05-15"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1632,7 +1632,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1902-05-19"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -1742,7 +1742,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-09-01"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2073,7 +2073,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-09-17"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien, Spöttelgasse
+               <placeName ref="https://sws.geonames.org/2761369/">Wien, Spöttelgasse
                   7</placeName>
             </correspAction>
             <correspAction type="received">
@@ -2096,7 +2096,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-11-02"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2127,7 +2127,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1903-11-16"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -2254,7 +2254,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-07-04"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2288,7 +2288,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-08-02"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2298,7 +2298,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-08-08"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2330,7 +2330,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-08-13"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2351,7 +2351,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-10-31"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2432,7 +2432,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-06-19"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2454,7 +2454,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-06-28"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2517,7 +2517,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-08-05"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2527,7 +2527,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-08-13"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2549,7 +2549,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-08-22"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2571,7 +2571,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-08-29"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2615,7 +2615,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-09-02"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2704,7 +2704,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-09-14"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2750,7 +2750,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-10-01"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2772,7 +2772,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1905-10-13"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -2782,7 +2782,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-10-22"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2804,7 +2804,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-10-27"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2885,7 +2885,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-12-16"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2952,7 +2952,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-01-23"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -2974,7 +2974,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-01-27"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3088,7 +3088,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-04-28"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3121,7 +3121,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1906-05-25"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -3133,7 +3133,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1906-05-31"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -3145,7 +3145,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-06-20"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3386,16 +3386,20 @@
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B224">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <date when="1908-01-15" evidence="conjecture"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1908-01-15" evidence="conjecture"/>
+               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/"
+                  >Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S71">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-01-20"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3417,7 +3421,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-01-29"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3428,7 +3432,7 @@
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <persName ref="https://d-nb.info/gnd/116848723">Olga Schnitzler</persName>
                <date when="1908-02-02"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3517,7 +3521,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-03-16"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3759,7 +3763,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-03-28"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3814,7 +3818,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-06-16"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3824,7 +3828,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-06-22"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3844,7 +3848,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-06-29"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -3995,7 +3999,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-12-09"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4017,7 +4021,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-12-18"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4027,7 +4031,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-12-22"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4049,7 +4053,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-12-27"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4151,7 +4155,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-05-10"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4268,7 +4272,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-11-09"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4302,7 +4306,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-11-30"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4324,7 +4328,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-12-08"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4344,7 +4348,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-12-23"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4390,7 +4394,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1911-02-03"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -4504,7 +4508,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-09-11"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4526,7 +4530,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-09-23"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4591,7 +4595,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1911-11-30"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -4627,7 +4631,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-12-30"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4659,7 +4663,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-01-22"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4681,7 +4685,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-01-27"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4737,7 +4741,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-02-15"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4848,7 +4852,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-09-23"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -4870,7 +4874,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1913-11-24"/>
-               <placeName ref="https://www.geonames.org/2761369/vienna.html">Wien</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                <persName>Clara Jonas</persName>

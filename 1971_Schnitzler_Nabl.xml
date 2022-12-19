@@ -226,9 +226,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
                <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <date notBefore="1911-11-01" notAfter="1911-12-31" evidence="conjecture"/>
             </correspAction>
             <correspAction  type="received">
                <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N10">
@@ -239,6 +241,7 @@
             </correspAction>
             <correspAction  type="received">
                <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217"
@@ -251,6 +254,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <placeName ref="http://www.geonames.org/2778067" evidence="conjecture">Graz</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="S13">
@@ -261,6 +265,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118586092">Nabl, Franz</persName>
+               <placeName ref="http://www.geonames.org/2778067" evidence="conjecture">Graz</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#u02092b4-47df-42e7-a68c-556d17f8d217" key="N11">

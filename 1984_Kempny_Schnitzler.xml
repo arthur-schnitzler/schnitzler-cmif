@@ -350,6 +350,18 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName ref="https://www.geonames.org/2515270">Las Palmas</placeName>
+               <date when="1926-04-30"/>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
+               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc source="#n0827e77-245d-4359-a0b0-5b601a5370ee">
+            <correspAction type="sent">
+               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="https://www.geonames.org/2267057">Lissabon</placeName>
+               <date when="1926-05-06"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
@@ -364,10 +376,6 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
-               <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
                <placeName evidence="conjecture" ref="http://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -720,6 +728,8 @@
          <correspDesc source="#n0827e77-245d-4359-a0b0-5b601a5370ee">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <placeName ref="http://www.geonames.org/2761369/">Wien</placeName>
+               <date notAfter="1926-07-31" notBefore="1926-07-01"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
@@ -1399,16 +1409,7 @@
                           >Bad Ischl</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#n0827e77-245d-4359-a0b0-5b601a5370ee">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1926-05-05"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
-               <placeName ref="https://www.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
+         
          <correspDesc source="#n0827e77-245d-4359-a0b0-5b601a5370ee">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
@@ -2620,6 +2621,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/11872181X">Kempny, Hedy</persName>
                <placeName ref="https://www.geonames.org/2992741">Monte Carlo</placeName>
+               <date when="1928-10-13"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>

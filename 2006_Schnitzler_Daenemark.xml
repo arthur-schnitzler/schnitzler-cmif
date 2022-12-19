@@ -107,12 +107,18 @@
                <persName>Valentiner, Axel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5">
+         <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5" sameAs="ASBW">
             <correspAction  type="sent">
+               <placeName 
+                  evidence="conjecture"
+                  ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <persName  ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <date when="1916-11-08"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/11539396X">Michaelis, Karin</persName>
+               <date when="1916-11-15" evidence="conjecture"/>
+               <placeName ref="https://www.geonames.org/2611744/thuro.html">Thurø</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#wbbaa189-e228-4270-9326-f15d55d5a5c5">

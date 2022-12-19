@@ -54,6 +54,9 @@
                         <xsl:for-each select="collection(concat($folderURI, '../?select=1*.xml;recurse=yes'))/tei:TEI[descendant::tei:persName/@ref='https://d-nb.info/gnd/118609807']/tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:bibl">
                             <xsl:copy-of select="." copy-namespaces="no"/>
                         </xsl:for-each>
+                            <xsl:for-each select="collection(concat($folderURI, '../?select=2*.xml;recurse=yes'))/tei:TEI[descendant::tei:persName/@ref='https://d-nb.info/gnd/118609807']/tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:bibl">
+                                <xsl:copy-of select="." copy-namespaces="no"/>
+                            </xsl:for-each>
                         </xsl:element>
                     </xsl:element>
                 </xsl:element>
