@@ -959,8 +959,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <persName ref="http://d-nb.info/gnd/136601677">Kuffner, Wilhelm</persName>
-               <persName ref="http://d-nb.info/gnd/117326038">Schlesinger, Fanny</persName>
+               <persName ref="https://d-nb.info/gnd/136601677">Kuffner, Wilhelm</persName>
+               <persName ref="https://d-nb.info/gnd/117326038">Schlesinger, Fanny</persName>
                <placeName ref="https://sws.geonames.org/2774597/">Kaumberg</placeName>
                <date when="1898-08-01">1. August 1898</date>
             </correspAction>
@@ -3103,7 +3103,7 @@
                <date when="1903-01-27">27. Januar 1903</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
+               <persName ref="https://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
             </correspAction>
          </correspDesc>
          <correspDesc n="502" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
@@ -4454,7 +4454,7 @@
          <correspDesc n="162" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
                <placeName ref="https://sws.geonames.org/3177952/">Cortina
                   d’Ampezzo</placeName>
                <date when="1898-08-05">5. August 1898</date>
@@ -4466,8 +4466,8 @@
          <correspDesc n="163" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
-               <persName ref="http://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
                <placeName ref="https://sws.geonames.org/3177952/">Cortina
                   d’Ampezzo</placeName>
                <date when="1898-08-05">5. August 1898</date>
@@ -4479,7 +4479,7 @@
          <correspDesc n="165" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
                <placeName ref="https://sws.geonames.org/3177952/">Cortina
                   d’Ampezzo</placeName>
                <date when="1898-08-08">8. August 1898</date>
@@ -4502,7 +4502,7 @@
          <correspDesc n="167" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
+               <persName ref="https://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
                <placeName ref="https://sws.geonames.org/3177952/">Cortina
                   d’Ampezzo</placeName>
                <date when="1898-08-11">11. August 1898</date>
@@ -4536,7 +4536,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
-               <persName ref="http://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
+               <persName ref="https://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
                <placeName ref="https://sws.geonames.org/3164301/">Niederdorf /
                   Pustertal</placeName>
                <date when="1898-08-16">16. August 1898</date>
@@ -4558,8 +4558,8 @@
          <correspDesc n="173" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
-               <persName ref="http://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
                <placeName ref="https://sws.geonames.org/3170754/">Pieve del
                   Cadore</placeName>
                <date when="1898-08-18">18. August 1898</date>
@@ -4595,7 +4595,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <persName>Horn, Paul</persName>
                <persName>Strisower, Therese</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
                <placeName ref="https://sws.geonames.org/3177952/">Cortina
                   d’Ampezzo</placeName>
                <date when="1898-08-22">22. August 1898</date>
@@ -4608,7 +4608,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <persName>Strisower, Therese</persName>
-               <persName ref="http://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
+               <persName ref="https://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
                <placeName ref="https://sws.geonames.org/3173342/">Misurina</placeName>
                <date when="1898-08-23">23. August 1898</date>
             </correspAction>
@@ -4620,7 +4620,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <persName>Strisower, Therese</persName>
-               <persName ref="http://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
+               <persName ref="https://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
                <placeName ref="https://sws.geonames.org/3148468/">Landro</placeName>
                <date when="1898-08-24">24. August 1898</date>
             </correspAction>
@@ -4664,7 +4664,7 @@
          <correspDesc n="183" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
+               <persName ref="https://d-nb.info/gnd/1046764543">Friedmann, Oskar</persName>
                <placeName ref="https://sws.geonames.org/3177952/">Cortina
                   d’Ampezzo</placeName>
                <date when="1898-08-29">29. August 1898</date>
@@ -4736,7 +4736,7 @@
          <correspDesc n="206" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
                <placeName ref="https://sws.geonames.org/2765170/">Semmering</placeName>
                <date when="1898-11-07">7. November 1898</date>
             </correspAction>
@@ -4747,7 +4747,7 @@
          <correspDesc n="207" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
                <placeName ref="https://sws.geonames.org/2765170/">Semmering</placeName>
                <date when="1898-11-07">7. November 1898</date>
             </correspAction>
@@ -4779,9 +4779,9 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <persName ref="https://d-nb.info/gnd/117161144">Burckhard, Max</persName>
-               <persName ref="http://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
-               <persName ref="http://d-nb.info/gnd/117190640">Löwy, Siegfried</persName>
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
+               <persName ref="https://d-nb.info/gnd/117190640">Löwy, Siegfried</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
                <placeName ref="https://sws.geonames.org/2770993/">Mürzzuschlag</placeName>
                <date when="1898-12-25">25. Dezember 1898</date>
             </correspAction>
@@ -4992,7 +4992,7 @@
          <correspDesc n="281" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="http://d-nb.info/gnd/118589768">Olbrich, Joseph Maria</persName>
+               <persName ref="https://d-nb.info/gnd/118589768">Olbrich, Joseph Maria</persName>
                <placeName ref="https://sws.geonames.org/2843395/">Rüdesheim</placeName>
                <date when="1900-06-25">25. Juni 1900</date>
             </correspAction>
@@ -5585,7 +5585,7 @@
                <date when="1898-11-17">17. November 1898</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
             </correspAction>
          </correspDesc>
@@ -5703,7 +5703,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <persName ref="http://d-nb.info/gnd/117326038">Schlesinger, Fanny</persName>
+               <persName ref="https://d-nb.info/gnd/117326038">Schlesinger, Fanny</persName>
                <persName>Friedmann, Rose</persName>
                <persName>Löwenbach, Emil</persName>
                <placeName ref="https://sws.geonames.org/2761615/">Weissenbach</placeName>
@@ -6072,7 +6072,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <persName ref="http://d-nb.info/gnd/118840150">Trebitsch, Siegfried</persName>
+               <persName ref="https://d-nb.info/gnd/118840150">Trebitsch, Siegfried</persName>
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <persName ref="https://d-nb.info/gnd/119044994">Beer-Hofmann, Paula</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
@@ -6287,8 +6287,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <persName ref="http://d-nb.info/gnd/118546937">Hauptmann, Gerhart</persName>
-               <persName ref="http://d-nb.info/gnd/116534788">Hauptmann, Grete</persName>
+               <persName ref="https://d-nb.info/gnd/118546937">Hauptmann, Gerhart</persName>
+               <persName ref="https://d-nb.info/gnd/116534788">Hauptmann, Grete</persName>
                <placeName ref="https://sws.geonames.org/7534771/">Agnetendorf</placeName>
                <date when="1905-01-30">30. Januar 1905</date>
             </correspAction>
@@ -6331,8 +6331,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <persName ref="http://d-nb.info/gnd/11861911X">Strauss, Richard</persName>
-               <persName ref="http://d-nb.info/gnd/117312355">Strauss-de Ahna, Pauline</persName>
+               <persName ref="https://d-nb.info/gnd/11861911X">Strauss, Richard</persName>
+               <persName ref="https://d-nb.info/gnd/117312355">Strauss-de Ahna, Pauline</persName>
                <placeName ref="https://sws.geonames.org/2922530/">Garmisch-Partenkirchen</placeName>
                <date when="1909-06-08">8. Juni 1909</date>
             </correspAction>
@@ -6560,7 +6560,7 @@
                <date when="1902-03-04">4. März 1902</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
+               <persName ref="https://d-nb.info/gnd/130203963">Bahr, Rosa</persName>
             </correspAction>
          </correspDesc>
          <correspDesc n="656" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
@@ -6629,7 +6629,7 @@
          </correspDesc>
          <correspDesc n="187" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2771335/">Mödling</placeName>
                <date when="1898-09-11">11. September 1898</date>
@@ -6640,7 +6640,7 @@
          </correspDesc>
          <correspDesc n="214" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1898-12-18">18. Dezember 1898</date>
@@ -6651,7 +6651,7 @@
          </correspDesc>
          <correspDesc n="215" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1898-12-20">20. Dezember 1898</date>
@@ -6662,7 +6662,7 @@
          </correspDesc>
          <correspDesc n="229" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1899-02-18">18. Februar 1899</date>
@@ -6673,7 +6673,7 @@
          </correspDesc>
          <correspDesc n="253" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1899-10-03">3. Oktober 1899</date>
@@ -6684,7 +6684,7 @@
          </correspDesc>
          <correspDesc n="254" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1899-10-05">5. Oktober 1899</date>
@@ -6695,7 +6695,7 @@
          </correspDesc>
          <correspDesc n="268" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1900-03-28">28. März 1900</date>
@@ -6706,7 +6706,7 @@
          </correspDesc>
          <correspDesc n="271" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1900-04-20">20. April 1900</date>
@@ -6717,7 +6717,7 @@
          </correspDesc>
          <correspDesc n="279" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1900-06-22">22. Juni 1900</date>
@@ -6728,7 +6728,7 @@
          </correspDesc>
          <correspDesc n="296" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1900-10-04">4. Oktober 1900</date>
@@ -6739,7 +6739,7 @@
          </correspDesc>
          <correspDesc n="297" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1900-10-07">7. Oktober 1900</date>
@@ -6750,7 +6750,7 @@
          </correspDesc>
          <correspDesc n="299" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1900-10-12">12. Oktober 1900</date>
@@ -6761,7 +6761,7 @@
          </correspDesc>
          <correspDesc n="307" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1900-11-28">28. November 1900</date>
@@ -6772,7 +6772,7 @@
          </correspDesc>
          <correspDesc n="333" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date cert="low" when="1901-11-09">9. November 1901(?)</date>
@@ -6783,7 +6783,7 @@
          </correspDesc>
          <correspDesc n="414" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1904-04-01">1. April 1904</date>
@@ -6794,7 +6794,7 @@
          </correspDesc>
          <correspDesc n="501" source="#l25eefe1-afeb-4a14-b13f-25d15ae20e34">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
+               <persName ref="https://d-nb.info/gnd/116952202">Hofmannsthal, Hugo August
                   von</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1906-11-30">30. November 1906</date>

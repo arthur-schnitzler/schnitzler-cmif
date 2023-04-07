@@ -235,7 +235,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
+               <persName ref="https://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
@@ -1913,7 +1913,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116830735">Grein, Jack Thomas</persName>
+               <persName ref="https://d-nb.info/gnd/116830735">Grein, Jack Thomas</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
@@ -2683,7 +2683,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/">Das literarische Echo,
+               <persName ref="https://d-nb.info/gnd/">Das literarische Echo,
                         Redaktion</persName>
             </correspAction>
          </correspDesc>
@@ -2694,7 +2694,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/117167975">Loewe, Theodor</orgName>
+               <persName ref="https://d-nb.info/gnd/117167975">Loewe, Theodor</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2704,7 +2704,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/119545063">Lothar, Rudolf</orgName>
+               <persName ref="https://d-nb.info/gnd/119545063">Lothar, Rudolf</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2765,7 +2765,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/116838426">Matras, Ferdinand</orgName>
+               <persName ref="https://d-nb.info/gnd/116838426">Matras, Ferdinand</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -4775,7 +4775,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/1123758778">Swesditsch, Peter</persName>
+               <persName ref="https://d-nb.info/gnd/1123758778">Swesditsch, Peter</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -5171,7 +5171,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/119141035">Wengerova, Zinaida</persName>
+               <persName ref="https://d-nb.info/gnd/119141035">Wengerova, Zinaida</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -5181,7 +5181,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/128023325">Wymetal, Wilhelm, von</persName>
+               <persName ref="https://d-nb.info/gnd/128023325">Wymetal, Wilhelm, von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">

@@ -7103,7 +7103,7 @@
          </correspDesc>
          <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="558">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118936654">Braun, Adolf</persName>
+               <persName ref="https://d-nb.info/gnd/118936654">Braun, Adolf</persName>
                <date when="1891-04-16">16. April 1891</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
@@ -7116,7 +7116,7 @@
          </correspDesc>
          <correspDesc source="#wb-gh_d66cce92-e7e0-4ad3-98eb-cee259651b17" key="559">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118936654">Braun, Adolf</persName>
+               <persName ref="https://d-nb.info/gnd/118936654">Braun, Adolf</persName>
                <date when="1891-04-21">21. April 1891</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>

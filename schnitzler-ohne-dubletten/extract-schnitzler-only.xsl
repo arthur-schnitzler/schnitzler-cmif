@@ -50,9 +50,7 @@
                         <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:for-each
                                 select="collection(concat($folderURI, '../?select=????_*.xml;recurse=yes'))/tei:TEI[descendant::tei:persName/@ref = 'https://d-nb.info/gnd/118609807']/tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:bibl">
-                                <xsl:if test="not(contains(@ref, 'schnitzler-briefe.acdh'))"><!-- schnitzler-briefe werden übergangen -->
                                 <xsl:copy-of select="." copy-namespaces="no"/>
-                                </xsl:if>
                             </xsl:for-each>
                         </xsl:element>
                     </xsl:element>

@@ -18520,7 +18520,7 @@
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01381.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/122390326">Waerndorfer, Friedrich</persName>
+               <persName ref="https://d-nb.info/gnd/122390326">Waerndorfer, Friedrich</persName>
                <persName>Waerndorfer, Lili</persName>
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <placeName ref="https://sws.geonames.org/3201047/">Dubrovnik/Ragusa</placeName>
@@ -21712,7 +21712,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <persName ref="http://d-nb.info/gnd/1142412229">Schlesinger, Hans</persName>
+               <persName ref="https://d-nb.info/gnd/1142412229">Schlesinger, Hans</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1906-07-29">29. 7. 1906</date>
             </correspAction>
@@ -33507,7 +33507,7 @@
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L02479.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
+               <persName ref="https://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
                <placeName ref="https://sws.geonames.org/2911298/">Hamburg</placeName>
                <date when="1926-10-12">12. 10. 1926</date>
             </correspAction>
@@ -34343,7 +34343,7 @@
                <date when="1931-01-14">14. 1. 1931</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
+               <persName ref="https://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
                <placeName ref="https://sws.geonames.org/5128581/">New York City</placeName>
             </correspAction>
          </correspDesc>

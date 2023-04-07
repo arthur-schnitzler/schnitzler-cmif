@@ -110,7 +110,7 @@
                           ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/139319417">Lippowitz, Jakob</persName>
+               <persName ref="https://d-nb.info/gnd/139319417">Lippowitz, Jakob</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#na653b61-01d5-462f-98b4-115c7771d181" sameAs="briefe-ii">

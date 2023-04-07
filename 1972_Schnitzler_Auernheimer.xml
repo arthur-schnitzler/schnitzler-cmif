@@ -142,7 +142,7 @@
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="11">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <persName ref="http://d-nb.info/gnd/116377577">Auernheimer, Irene</persName>
+               <persName ref="https://d-nb.info/gnd/116377577">Auernheimer, Irene</persName>
                <date when="1909-04-20"/>
                <placeName ref="https://sws.geonames.org/3169070/">Rom</placeName>
             </correspAction>

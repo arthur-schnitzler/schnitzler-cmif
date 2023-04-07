@@ -124,7 +124,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116351764">Arnold, Robert</persName>
+               <persName ref="https://d-nb.info/gnd/116351764">Arnold, Robert</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -134,7 +134,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Asch, Joseph S.</orgName>
+               <persName>Asch, Joseph S.</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -144,7 +144,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Asch, Joseph S.</orgName>
+               <persName>Asch, Joseph S.</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -290,7 +290,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
+               <persName ref="https://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -361,7 +361,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Bergstroem, Oskar</orgName>
+               <persName>Bergstroem, Oskar</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -401,7 +401,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Bernays, Murray C.</orgName>
+               <persName>Bernays, Murray C.</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -441,7 +441,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Berthensson, Sergius von</orgName>
+               <persName>Berthensson, Sergius von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -451,7 +451,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Berthensson, Sergius,von</orgName>
+               <persName>Berthensson, Sergius,von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -521,7 +521,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/42342-7">Börsenverein der Deutschen
+               <orgName ref="https://d-nb.info/gnd/42342-7">Börsenverein der Deutschen
                         Buchhändler</orgName>
             </correspAction>
          </correspDesc>
@@ -532,7 +532,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</orgName>
+               <persName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -542,7 +542,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</orgName>
+               <persName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -552,7 +552,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</orgName>
+               <persName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -562,7 +562,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</orgName>
+               <persName ref="https://d-nb.info/gnd/118905864">Boner, Georgette</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -572,7 +572,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -582,7 +582,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -592,7 +592,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -602,7 +602,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -612,7 +612,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -622,7 +622,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -632,7 +632,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -642,7 +642,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -652,7 +652,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -1312,7 +1312,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Cohen, Miriam M.</orgName>
+               <persName>Cohen, Miriam M.</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -1322,7 +1322,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Cohen, Miriam M.</orgName>
+               <persName>Cohen, Miriam M.</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -1332,8 +1332,8 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="https://d-nb.info/gnd/118677101">Coudenhove-Kalergi, Richard
-                        Nikolaus Graf</orgName>
+               <persName ref="https://d-nb.info/gnd/118677101">Coudenhove-Kalergi, Richard
+                        Nikolaus Graf</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -1353,7 +1353,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Dessoff, Grete</orgName>
+               <persName>Dessoff, Grete</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -1363,7 +1363,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/1231430-4">Deutsches Landestheater,
+               <orgName ref="https://d-nb.info/gnd/1231430-4">Deutsches Landestheater,
                         Prag</orgName>
             </correspAction>
          </correspDesc>
@@ -1434,7 +1434,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Eidler, Josef</orgName>
+               <persName>Eidler, Josef</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -1454,7 +1454,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Ekstein, Ignaz</orgName>
+               <persName>Ekstein, Ignaz</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -1700,7 +1700,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/1065490062">S. Fischer (Verlag)</orgName>
+               <orgName ref="https://d-nb.info/gnd/1065490062">S. Fischer (Verlag)</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -2756,7 +2756,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116758570">Marberg, Lili</persName>
+               <persName ref="https://d-nb.info/gnd/116758570">Marberg, Lili</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -5125,7 +5125,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName>Tiemann, Franz</orgName>
+               <persName>Tiemann, Franz</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
