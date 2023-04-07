@@ -7,7 +7,7 @@ In case you wonder what a CMIF-file is, CMIF stands for Correspondence Metadata 
 https://correspsearch.net/en/documentation.html
 
 And if you desire a search interface, please use:
-https://correspsearch.net/de/suche.html?s=http://d-nb.info/gnd/118609807
+https://correspsearch.net/de/suche.html?s=https://d-nb.info/gnd/118609807
 
 In case you ask yourself who Schnitzler, Arthur was, this might get you started:
 https://en.wikipedia.org/wiki/Arthur_Schnitzler
