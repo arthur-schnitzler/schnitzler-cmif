@@ -2021,7 +2021,8 @@
          </correspDesc>
          <correspDesc key="L041546"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041546.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
+                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"
+                      >
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
@@ -2289,7 +2290,8 @@
          </correspDesc>
          <correspDesc key="L041540"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041540.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
+                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"
+                      >
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
@@ -2397,7 +2399,8 @@
          </correspDesc>
          <correspDesc key="L041543"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041543.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
+                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"
+                      >
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>

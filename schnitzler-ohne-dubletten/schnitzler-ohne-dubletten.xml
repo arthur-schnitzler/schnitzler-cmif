@@ -7191,7 +7191,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041538.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
                <date when="1895-01-16"/>
             </correspAction>
@@ -7204,7 +7204,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041539.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1897-01-02"/>
             </correspAction>
@@ -7217,7 +7217,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041529.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
                <date when="1893-12-04"/>
             </correspAction>
@@ -7230,7 +7230,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041567.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+               <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1903-11-12"/>
             </correspAction>
@@ -7243,7 +7243,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041564.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+               <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1910-05-27"/>
             </correspAction>
@@ -7256,7 +7256,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041558.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1911-09-07"/>
             </correspAction>
@@ -7269,7 +7269,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041559.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1911-09-27"/>
             </correspAction>
@@ -7282,7 +7282,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041565.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+               <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1910-12-15"/>
             </correspAction>
@@ -7295,7 +7295,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041549.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1909-12-05"/>
             </correspAction>
@@ -7308,7 +7308,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041561.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1911-12-27"/>
             </correspAction>
@@ -7321,7 +7321,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041560.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1911-12-10"/>
             </correspAction>
@@ -7334,7 +7334,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041548.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/6557766/">Bad Nauheim</placeName>
                <date when="1909-07-10"/>
             </correspAction>
@@ -7347,7 +7347,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041562.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1910-02-07"/>
             </correspAction>
@@ -7360,7 +7360,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041563.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+               <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <placeName ref="https://sws.geonames.org/2935020/">Dresden</placeName>
                <date when="1908-05-18"/>
             </correspAction>
@@ -7389,7 +7389,7 @@
                <date when="1909-06-29"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -7397,7 +7397,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041552.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1909-12-27"/>
             </correspAction>
@@ -7410,7 +7410,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041553.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1909-12-28"/>
             </correspAction>
@@ -7423,7 +7423,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041547.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/6557766/">Bad Nauheim</placeName>
                <date when="1909-07-03"/>
             </correspAction>
@@ -7463,7 +7463,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041545.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/6557766/">Bad Nauheim</placeName>
                <date when="1909-06-27"/>
             </correspAction>
@@ -7476,7 +7476,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041544.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1908-02-27"/>
             </correspAction>
@@ -7489,7 +7489,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041550.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1909-12-16"/>
             </correspAction>
@@ -7516,13 +7516,13 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041554.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1910-04-28"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7535,7 +7535,7 @@
                <date when="1898-01-04"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -7543,7 +7543,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041541.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1903-11-16"/>
             </correspAction>
@@ -7556,7 +7556,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041555.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/7873001/">Semmering</placeName>
                <date when="1910-07-23"/>
             </correspAction>
@@ -7574,7 +7574,7 @@
                <date when="1904-08-08"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -7582,7 +7582,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041557.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/7873001/">Semmering</placeName>
                <date when="1911-07-12"/>
             </correspAction>
@@ -7595,7 +7595,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041556.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1910-10-15"/>
             </correspAction>
@@ -7613,7 +7613,7 @@
                <date when="1904-07-01"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7626,7 +7626,7 @@
                <date when="1894-01-27"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7639,7 +7639,7 @@
                <date when="1894-01-03"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7652,7 +7652,7 @@
                <date when="1894-01-29"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7665,7 +7665,7 @@
                <date when="1894-06-04"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7678,7 +7678,7 @@
                <date when="1894-12-16"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7686,7 +7686,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041536.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
                <date when="1894-12-16"/>
             </correspAction>
@@ -7704,7 +7704,7 @@
                <date when="1894-06-05"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
@@ -7712,7 +7712,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041535.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
+               <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <placeName ref="https://sws.geonames.org/11428205/">Marienbad</placeName>
                <date when="1894-08-05"/>
             </correspAction>
@@ -7736,7 +7736,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041216.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1897-07-22"/>
             </correspAction>
@@ -7749,7 +7749,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041672.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1922-02-13"/>
             </correspAction>
@@ -7762,7 +7762,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041666.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1919-09-23"/>
             </correspAction>
@@ -7775,7 +7775,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041667.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1920-03-22"/>
             </correspAction>
@@ -7788,7 +7788,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041673.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1922-04-26"/>
             </correspAction>
@@ -7801,7 +7801,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041665.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1919-09-20"/>
             </correspAction>
@@ -7814,7 +7814,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041671.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1921-12-20"/>
             </correspAction>
@@ -7827,7 +7827,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041659.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1905-11-21"/>
             </correspAction>
@@ -7845,7 +7845,7 @@
                <date when="1923-10-09"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2953504/">Baden-Baden</placeName>
             </correspAction>
          </correspDesc>
@@ -7853,7 +7853,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041670.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1921-12-03"/>
             </correspAction>
@@ -7866,7 +7866,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041664.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1919-09-16"/>
             </correspAction>
@@ -7879,7 +7879,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041660.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1919-08-29"/>
             </correspAction>
@@ -7892,7 +7892,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041674.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2953504/">Baden-Baden</placeName>
                <date when="1923-02-23"/>
             </correspAction>
@@ -7905,7 +7905,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041675.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2953504/">Baden-Baden</placeName>
                <date when="1923-10-05"/>
             </correspAction>
@@ -7918,7 +7918,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041661.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1919-08-30"/>
             </correspAction>
@@ -7931,7 +7931,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041663.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1919-09-13"/>
             </correspAction>
@@ -7944,7 +7944,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041662.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1919-09-07"/>
             </correspAction>
@@ -7957,7 +7957,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041676.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2953504/">Baden-Baden</placeName>
                <date when="1923-12-29"/>
             </correspAction>
@@ -8027,7 +8027,7 @@
                <date when="1919-09-19"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
             </correspAction>
          </correspDesc>
@@ -8040,7 +8040,7 @@
                <date when="1919-09-07"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
             </correspAction>
          </correspDesc>
@@ -8048,7 +8048,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041650.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/117302996">Karlweis, C.</persName>
+               <persName ref="https://d-nb.info/gnd/117302996">Karlweis, C.</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
                <date when="1897-02-18"/>
             </correspAction>
@@ -8061,7 +8061,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041678.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
+               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1897-04-22"/>
             </correspAction>
@@ -8074,7 +8074,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041679.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
+               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1897-05-15"/>
             </correspAction>
@@ -8092,14 +8092,14 @@
                <date when="1901-12-11"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/11715380X">Bukovics, Emerich von</persName>
+               <persName ref="https://d-nb.info/gnd/11715380X">Bukovics, Emerich von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041669"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041669.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1921-11-23"/>
             </correspAction>
@@ -8130,7 +8130,7 @@
                <date when="1918-08-22"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/www.geonames.org/">Garmisch-Partenkirchen</placeName>
             </correspAction>
          </correspDesc>
@@ -8138,7 +8138,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041668.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1921-11-21"/>
             </correspAction>
@@ -8151,7 +8151,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041681.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
+               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1897-08-07"/>
             </correspAction>
@@ -8169,7 +8169,7 @@
                <date when="1923-01-03"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
                <placeName ref="https://sws.geonames.org/2953504/">Baden-Baden</placeName>
             </correspAction>
          </correspDesc>
@@ -8182,14 +8182,14 @@
                <date when="1922-06-26"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041680"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041680.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
+               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1897-05-30"/>
             </correspAction>
@@ -8220,7 +8220,7 @@
                <date when="1911-09-23"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041360"
@@ -8240,7 +8240,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041374.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1905-07-18"/>
             </correspAction>
@@ -8297,7 +8297,7 @@
                <date when="1909-12-27"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -8305,7 +8305,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041367.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1055141987">Levi, Cesare</persName>
+               <persName ref="https://d-nb.info/gnd/1055141987">Levi, Cesare</persName>
                <placeName ref="https://sws.geonames.org/3176959/">Florenz</placeName>
                <date when="1910-10-05"/>
             </correspAction>
@@ -8318,7 +8318,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041373.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1906-03-28"/>
             </correspAction>
@@ -8331,7 +8331,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041372.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <persName>Salten, Ottilie</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1907-08-03"/>
@@ -8345,7 +8345,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041366.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1895-02-07"/>
             </correspAction>
@@ -8363,7 +8363,7 @@
                <date when="1910-06-04"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+               <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -8371,7 +8371,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041358.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1900-06-20"/>
             </correspAction>
@@ -8384,7 +8384,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041370.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/3220837/">München</placeName>
                <date when="1895-02-18"/>
             </correspAction>
@@ -8397,7 +8397,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041364.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <date when="1894-09-11"/>
             </correspAction>
             <correspAction type="received">
@@ -8409,7 +8409,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041365.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1894-09-15"/>
             </correspAction>
@@ -8422,7 +8422,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041371.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">[Wien]</placeName>
                <date when="1895-03-25"/>
             </correspAction>
@@ -8435,7 +8435,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041359.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1901-06-12"/>
             </correspAction>
@@ -8453,7 +8453,7 @@
                <date when="1909-12-24"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
+               <persName ref="https://d-nb.info/gnd/118599380">Reinhardt, Max</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -8486,7 +8486,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041368.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/119282062">Thayer, Scofield</persName>
+               <persName ref="https://d-nb.info/gnd/119282062">Thayer, Scofield</persName>
                <placeName ref="https://sws.geonames.org/3220837/">München</placeName>
                <date when="1922-07-09"/>
             </correspAction>
@@ -8499,7 +8499,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041369.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/9552461/">Unterach</placeName>
                <date when="1892-08-08"/>
             </correspAction>
@@ -8512,7 +8512,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041355.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+               <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
                <date when="1892-01-27"/>
             </correspAction>
@@ -8542,7 +8542,7 @@
                <date when="1907-08-05"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041394"
@@ -8554,14 +8554,14 @@
                <date when="1905-01-10"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041357"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041357.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1897-07-23"/>
             </correspAction>
@@ -8579,7 +8579,7 @@
                <date when="1907-01-18"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118840819">Salten, Felix</persName>
+               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -8606,7 +8606,7 @@
                <date when="1897-01-07"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -8619,7 +8619,7 @@
                <date when="1903-11-02"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -8639,7 +8639,7 @@
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041344.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/11866543X">Buschbeck, Erhard</persName>
+               <persName ref="https://d-nb.info/gnd/11866543X">Buschbeck, Erhard</persName>
                <placeName ref="https://sws.geonames.org/2761333/">Wien</placeName>
                <date when="1918-09-24"/>
             </correspAction>
@@ -8669,7 +8669,7 @@
                <date when="1911-12-30"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041022"
@@ -8693,7 +8693,7 @@
                <date when="1923-11-27"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041459"
@@ -8729,7 +8729,7 @@
                <date when="1929-04-13"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848510">Schnitzler, Heinrich</persName>
+               <persName ref="https://d-nb.info/gnd/116848510">Schnitzler, Heinrich</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041460"
@@ -8741,7 +8741,7 @@
                <date when="1928-01-11"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041404"
@@ -8753,7 +8753,7 @@
                <date when="1910-12-23"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
             </correspAction>
          </correspDesc>
@@ -8767,7 +8767,7 @@
                <date when="1909-08-14"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041401"
@@ -8779,7 +8779,7 @@
                <date when="1911-10-04"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118514245">Brahm, Otto</persName>
+               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041400"
@@ -8791,7 +8791,7 @@
                <date when="1910-12-17"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
+               <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041402"
@@ -8803,14 +8803,14 @@
                <date when="1911-10-30"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041403"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041403.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
+               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
                <date when="1893-12-08"/>
             </correspAction>
@@ -8828,7 +8828,7 @@
                <date when="1920-12-30"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/132563894">Richter, Werner</persName>
+               <persName ref="https://d-nb.info/gnd/132563894">Richter, Werner</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041457"
@@ -8840,7 +8840,7 @@
                <date when="1921-11-29"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
+               <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041456"
@@ -8852,7 +8852,7 @@
                <date when="1915-12-13"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/117263958">Steinrück, Elisabeth</persName>
+               <persName ref="https://d-nb.info/gnd/117263958">Steinrück, Elisabeth</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#u76a6932-a288-44db-a5d5-8eba12ba4b14" key="52">
@@ -13170,7 +13170,7 @@
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="11">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505033">Auernheimer, Raoul</persName>
-               <persName ref="http://d-nb.info/gnd/116377577">Auernheimer, Irene</persName>
+               <persName ref="https://d-nb.info/gnd/116377577">Auernheimer, Irene</persName>
                <date when="1909-04-20"/>
                <placeName ref="https://sws.geonames.org/3169070/">Rom</placeName>
             </correspAction>
@@ -18901,7 +18901,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
+               <persName ref="https://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -19022,16 +19022,6 @@
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1897-01-07">7. 1. 1897</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-05-23">23. 5. 1897</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -19053,16 +19043,6 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1902-01-09">9. 1. 1902</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1903-11-02">2. 11. 1903</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -19192,16 +19172,6 @@
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1909-08-14">14. 8. 1909</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-12-09">9. 12. 1909</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -19213,56 +19183,6 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1909-12-18">18. 12. 1909</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1909-12-27">27. 12. 1909</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1910-12-23">23. 12. 1910</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1911-09-23">23. 9. 1911</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1911-10-04">4. 10. 1911</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1911-12-30">30. 12. 1911</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -20227,7 +20147,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116830735">Grein, Jack Thomas</persName>
+               <persName ref="https://d-nb.info/gnd/116830735">Grein, Jack Thomas</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -20797,7 +20717,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/">Das literarische Echo,
+               <persName ref="https://d-nb.info/gnd/">Das literarische Echo,
                         Redaktion</persName>
             </correspAction>
          </correspDesc>
@@ -22878,7 +22798,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/1123758778">Swesditsch, Peter</persName>
+               <persName ref="https://d-nb.info/gnd/1123758778">Swesditsch, Peter</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -22988,7 +22908,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/119141035">Wengerova, Zinaida</persName>
+               <persName ref="https://d-nb.info/gnd/119141035">Wengerova, Zinaida</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -22998,7 +22918,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/128023325">Wymetal, Wilhelm, von</persName>
+               <persName ref="https://d-nb.info/gnd/128023325">Wymetal, Wilhelm, von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -23135,7 +23055,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116351764">Arnold, Robert</persName>
+               <persName ref="https://d-nb.info/gnd/116351764">Arnold, Robert</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23235,7 +23155,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
+               <persName ref="https://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23455,7 +23375,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/42342-7">Börsenverein der Deutschen
+               <orgName ref="https://d-nb.info/gnd/42342-7">Börsenverein der Deutschen
                         Buchhändler</orgName>
             </correspAction>
          </correspDesc>
@@ -23506,7 +23426,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23516,7 +23436,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23526,7 +23446,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23536,7 +23456,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23546,7 +23466,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23556,7 +23476,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23566,7 +23486,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23576,7 +23496,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -23586,7 +23506,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
+               <orgName ref="https://d-nb.info/gnd/4511021-9">Book-of-the-Month Club</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -24187,7 +24107,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/1231430-4">Deutsches Landestheater,
+               <orgName ref="https://d-nb.info/gnd/1231430-4">Deutsches Landestheater,
                         Prag</orgName>
             </correspAction>
          </correspDesc>
@@ -24458,7 +24378,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <orgName ref="http://d-nb.info/gnd/1065490062">S. Fischer (Verlag)</orgName>
+               <orgName ref="https://d-nb.info/gnd/1065490062">S. Fischer (Verlag)</orgName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -25389,7 +25309,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/116758570">Marberg, Lili</persName>
+               <persName ref="https://d-nb.info/gnd/116758570">Marberg, Lili</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
@@ -47548,7 +47468,7 @@
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L01381.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/122390326">Waerndorfer, Friedrich</persName>
+               <persName ref="https://d-nb.info/gnd/122390326">Waerndorfer, Friedrich</persName>
                <persName>Waerndorfer, Lili</persName>
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <placeName ref="https://sws.geonames.org/3201047/">Dubrovnik/Ragusa</placeName>
@@ -50717,7 +50637,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <persName ref="http://d-nb.info/gnd/1142412229">Schlesinger, Hans</persName>
+               <persName ref="https://d-nb.info/gnd/1142412229">Schlesinger, Hans</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1906-07-29">29. 7. 1906</date>
             </correspAction>
@@ -62083,7 +62003,7 @@
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/pages/show.html?document=L02479.xml"
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
+               <persName ref="https://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
                <placeName ref="https://sws.geonames.org/2911298/">Hamburg</placeName>
                <date when="1926-10-12">12. 10. 1926</date>
             </correspAction>
@@ -62918,7 +62838,7 @@
                <date when="1931-01-14">14. 1. 1931</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
+               <persName ref="https://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
                <placeName ref="https://sws.geonames.org/5128581/">New York City</placeName>
             </correspAction>
          </correspDesc>
@@ -65186,16 +65106,6 @@
                <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S12">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1898-01-04"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B24">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -65346,8 +65256,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1898-06-15"/>
-               <placeName ref="https://sws.geonames.org/11287692/">San
-                  Martino di Castrozza</placeName>
+               <placeName ref="https://sws.geonames.org/11287692/">San Martino di
+                  Castrozza</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -65368,8 +65278,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1898-07-02"/>
-               <placeName ref="https://sws.geonames.org/11287692/">San
-                  Martino di Castrozza</placeName>
+               <placeName ref="https://sws.geonames.org/11287692/">San Martino di
+                  Castrozza</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -65390,8 +65300,8 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1898-07-18"/>
-               <placeName ref="https://sws.geonames.org/11287692/">San
-                  Martino di Castrozza</placeName>
+               <placeName ref="https://sws.geonames.org/11287692/">San Martino di
+                  Castrozza</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -65675,8 +65585,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1899-07-19"/>
-               <placeName ref="https://sws.geonames.org/6551689/">Helgoland, Villa
-                  Gätke</placeName>
+               <placeName ref="https://sws.geonames.org/6551689/">Helgoland, Villa Gätke</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -65687,8 +65596,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date cert="low" when="1899-08-17"/>
-               <placeName ref="https://sws.geonames.org/7873133/">Bad
-                  Ischl</placeName>
+               <placeName ref="https://sws.geonames.org/7873133/">Bad Ischl</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -66594,7 +66502,8 @@
                <placeName ref="https://sws.geonames.org/3083677/">Schreiberhau</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName cert="low" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <persName cert="low" ref="https://d-nb.info/gnd/118609807">Schnitzler,
+                  Arthur</persName>
                <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -66711,8 +66620,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-09-17"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien, Spöttelgasse
-                  7</placeName>
+               <placeName ref="https://sws.geonames.org/2761369/">Wien, Spöttelgasse 7</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
@@ -66847,17 +66755,6 @@
                <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B157">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-               <date when="1904-07-01"/>
-               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S36">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -66894,16 +66791,6 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-08-02"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S38">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1904-08-08"/>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
@@ -67547,7 +67434,8 @@
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName cert="low" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <persName cert="low" ref="https://d-nb.info/gnd/118609807">Schnitzler,
+                  Arthur</persName>
                <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -67558,7 +67446,8 @@
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName cert="low" ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
+               <persName cert="low" ref="https://d-nb.info/gnd/118609807">Schnitzler,
+                  Arthur</persName>
                <placeName evidence="conjecture" ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
@@ -67651,8 +67540,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
                <date when="1906-07-08"/>
-               <placeName ref="https://sws.geonames.org/2749813/">Nordwyk,
-                  Holland</placeName>
+               <placeName ref="https://sws.geonames.org/2749813/">Nordwyk, Holland</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -68055,7 +67943,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am Schlern</placeName>
+               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am
+                  Schlern</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B241">
@@ -68065,11 +67954,13 @@
                <persName ref="https://d-nb.info/gnd/1127585851">Paul Jonas</persName>
                <persName ref="https://d-nb.info/gnd/118814125">Hans Prinzhorn</persName>
                <date when="1908-08-03"/>
-               <placeName cert="low" ref="https://sws.geonames.org/2860315/">Oberhof, Allgäu</placeName>
+               <placeName cert="low" ref="https://sws.geonames.org/2860315/">Oberhof,
+                  Allgäu</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am Schlern</placeName>
+               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am
+                  Schlern</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S77">
@@ -68090,7 +67981,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am Schlern</placeName>
+               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am
+                  Schlern</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B243">
@@ -68101,7 +67993,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am Schlern</placeName>
+               <placeName ref="https://sws.geonames.org/3166483/" evidence="conjecture">Seis am
+                  Schlern</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B244">
@@ -68251,16 +68144,6 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="S81">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1909-06-29"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B255">
