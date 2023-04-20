@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Arthur Schnitzler Briefe 1913 1931</title>
+            <title>Arthur Schnitzler Briefe 1913–1931</title>
             <editor>Walter Obweger<email>walter.obweger@oeaw.ac.at</email>
             </editor>
          </titleStmt>
@@ -107,7 +107,7 @@
                <persName ref="https://d-nb.info/gnd/116315903">Apel, Paul</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" >
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1916-01-10">10. 1. 1916</date>
@@ -4988,7 +4988,7 @@
                <persName ref="https://d-nb.info/gnd/117263958">Steinrück, Elisabeth</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
+         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3" sameAs="schnitzler-bahr">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1915-12-13">13. 12. 1915</date>

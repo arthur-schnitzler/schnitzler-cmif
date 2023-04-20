@@ -2,25 +2,25 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Arthur Schnitzler Briefe 1875 1912</title>
+            <title>Arthur Schnitzler: Briefe 1875–1912</title>
             <editor>Walter Obweger<email>walter.obweger@oeaw.ac.at</email>
             </editor>
          </titleStmt>
          <publicationStmt>
             <publisher>
-               <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton
-                        Müller</ref>
+               <ref target="https://schnitzler-briefe.acdh.oeaw.ac.at">Martin Anton Müller</ref>
             </publisher>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/null/">CC0</licence>
             </availability>
             <date when="2020-08-05T12:32:28.674-02:00"/>
-            <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1981_Arthur_Schnitzler_Briefe-1875-1912.xml</idno>
+            <idno type="url"
+               >https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1981_Arthur_Schnitzler_Briefe-1875-1912.xml</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl type="print" xml:id="j7685005-64da-4e31-99b6-b4641aa1628c">Arthur Schnitzler:
-                    Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am
-                    Main: S. Fischer 1981.</bibl>
+               Briefe 1875–1912. Hrsg. v. Therese Nickl u. Heinrich Schnitzler. Frankfurt am Main:
+               S. Fischer 1981.</bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -32,7 +32,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118503006">Andrian, Leopold, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -43,7 +43,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118503006">Andrian, Leopold, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -57,7 +57,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1972_Schnitzler_Auernheimer">
+            sameAs="1972_Schnitzler_Auernheimer">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-12-06">6. 12. 1910</date>
@@ -87,8 +87,7 @@
                <persName>Bachrach, Daniel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-11-18">18. 11. 1897</date>
@@ -98,8 +97,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1901-06-26">26. 6. 1901</date>
@@ -109,8 +107,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-04-06">6. 4. 1903</date>
@@ -120,8 +117,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-11-10">10. 11. 1903</date>
@@ -131,8 +127,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-12-05">5. 12. 1904</date>
@@ -142,8 +137,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-12-14">14. 12. 1904</date>
@@ -153,8 +147,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-07-30">30. 7. 1905</date>
@@ -164,8 +157,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-09-17">17. 9. 1905</date>
@@ -175,8 +167,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-06-24">24. 6. 1906</date>
@@ -186,8 +177,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1907-10-11">11. 10. 1907</date>
@@ -197,8 +187,7 @@
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-11-17">17. 11. 1910</date>
@@ -238,8 +227,7 @@
                <persName ref="https://d-nb.info/gnd/117769053">Bauer, Ludwig</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1891-06-06">6. 6. 1891</date>
@@ -249,8 +237,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1891-09-22">22. 9. 1891</date>
@@ -260,8 +247,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1892-03-11">11. 3. 1892</date>
@@ -271,8 +257,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1892-09-13">13. 9. 1892</date>
@@ -282,8 +267,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1894-10-05">5. 10. 1894</date>
@@ -293,8 +277,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1894-10-15">15. 10. 1894</date>
@@ -304,8 +287,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1894-10-20">20. 10. 1894</date>
@@ -315,8 +297,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-06-15">15. 6. 1895</date>
@@ -326,8 +307,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-09-15">15. 9. 1895</date>
@@ -337,8 +317,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-04-26">26. 4. 1897</date>
@@ -348,8 +327,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-05-20">20. 5. 1897</date>
@@ -359,8 +337,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-09-25">25. 9. 1897</date>
@@ -370,8 +347,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-03-02">2. 3. 1900</date>
@@ -381,8 +357,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-11-15">15. 11. 1904</date>
@@ -400,7 +375,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118655930">Berger, Alfred, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -411,7 +386,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118655930">Berger, Alfred, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -422,7 +397,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118655930">Berger, Alfred, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -433,7 +408,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118655930">Berger, Alfred, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -444,7 +419,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118655930">Berger, Alfred, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -767,8 +742,7 @@
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1894-06-12">12. 6. 1894</date>
@@ -778,8 +752,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-01-12">I1. 1. 1897</date>
@@ -789,8 +762,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-02-03">3. 2. 1897</date>
@@ -800,8 +772,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1898-03-27">27. 3. 1898</date>
@@ -811,8 +782,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-01-12">12. 1. 1899</date>
@@ -822,8 +792,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-05-08">8. 5. 1899</date>
@@ -833,8 +802,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-05-03">3. 5. 1900</date>
@@ -844,8 +812,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-03-13">13. 3. 1906</date>
@@ -855,8 +822,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-07-04">4. 7. 1908</date>
@@ -866,8 +832,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-01-19">19. 1. 1911</date>
@@ -877,8 +842,7 @@
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-02-09">9. 2. 1911</date>
@@ -888,8 +852,7 @@
                <persName ref="https://d-nb.info/gnd/118688227">Ehrenstein, Albert</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1911-05-06">6. 5. 1911</date>
@@ -959,8 +922,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="fischer-schnitzler">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1907-11-15">15. 11. 1907</date>
@@ -971,8 +933,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="fischer-schnitzler">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1907-11-16">16. 11. 1907</date>
@@ -982,8 +943,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="fischer-schnitzler">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-05-14">14. 5. 1908</date>
@@ -993,8 +953,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="fischer-schnitzler">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1908-05-29">29. 5. 1908</date>
@@ -1024,8 +983,7 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="fischer-schnitzler">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="fischer-schnitzler">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1910-12-17">17. 12. 1910</date>
@@ -1902,8 +1860,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118639323">Granville-Barker,
-                        Harley</persName>
+               <persName ref="https://d-nb.info/gnd/118639323">Granville-Barker, Harley</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -1916,8 +1873,7 @@
                <persName ref="https://d-nb.info/gnd/116830735">Grein, Jack Thomas</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1912-02-12">12. 2. 1912</date>
@@ -1957,8 +1913,7 @@
                <persName ref="https://d-nb.info/gnd/118545892">Harden, Maximilian</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-07-15">15. 7. 1899</date>
@@ -1968,8 +1923,7 @@
                <persName ref="https://d-nb.info/gnd/118546937">Hauptmann, Gerhart</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-08-25">25. 8. 1899</date>
@@ -2369,160 +2323,134 @@
                <persName ref="https://d-nb.info/gnd/118550470">Heuberger, Richard</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1891-07-27">27. 7. 1891</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-07-10">10. 7. 1895</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-09-04">4. 9. 1895</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-08-07">7. 8. 1896</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-04-26">26. 4. 1897</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-07-08">8. 7. 1897</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1898-07-19">19. 7. 1898</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1899-03-22">22. 3. 1899</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1900-07-17">17. 7. 1900</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-01-07">7. 1. 1903</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1903-06-26">26. 6. 1903</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1904-08-09">9. 8. 1904</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1910-11-02">2. 11. 1910</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2615,8 +2543,7 @@
                <persName>Kaufmann, Eugenie</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="2017_Kerr_Schnitzler">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="2017_Kerr_Schnitzler">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1905-01-05">5. 1. 1905</date>
@@ -2683,8 +2610,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/">Das literarische Echo,
-                        Redaktion</persName>
+               <persName ref="https://d-nb.info/gnd/">Das literarische Echo, Redaktion</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2778,8 +2704,7 @@
                <persName>Mayer, Alfred</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="schnitzler-briefe">
+         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1906-10-26">26. 10. 1906</date>
@@ -2797,7 +2722,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/117566993">Mensdorff-Pouilly-Dietrichstein,
-                        Albert Graf</persName>
+                  Albert Graf</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2807,8 +2732,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/11682400X">Meyerhof-Hildeck,
-                        Leonie</persName>
+               <persName ref="https://d-nb.info/gnd/11682400X">Meyerhof-Hildeck, Leonie</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2818,8 +2742,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/11682400X">Meyerhof-Hildeck,
-                        Leonie</persName>
+               <persName ref="https://d-nb.info/gnd/11682400X">Meyerhof-Hildeck, Leonie</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2910,7 +2833,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118785885">Nemirowitsch-Dantschenko,
-                        Wladimir</persName>
+                  Wladimir</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2981,7 +2904,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/117138002">Oppenheimer, Felix, Freiherr
-                        von</persName>
+                  von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -3001,8 +2924,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/116281774">Preindlsberger,
-                        Milena</persName>
+               <persName ref="https://d-nb.info/gnd/116281774">Preindlsberger, Milena</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -4692,8 +4614,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/117508403">Sonnenthal, Hermine
-                        von</persName>
+               <persName ref="https://d-nb.info/gnd/117508403">Sonnenthal, Hermine von</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -4714,7 +4635,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118616765">Stanislawski, Konstantin
-                        Sergejewitsch</persName>
+                  Sergejewitsch</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -4765,7 +4686,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/1050477995">Sumbatoff, Alexander
-                        Fürst</persName>
+                  Fürst</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -4879,7 +4800,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1886-10-22">22. 10. 1886</date>
@@ -4890,7 +4811,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-10-31">31. 10. 1886</date>
@@ -4901,7 +4822,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1886-11-12">12. 11.1886</date>
@@ -4912,7 +4833,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1887-06-21">21. 6. 1887</date>
@@ -4923,7 +4844,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1887-09-16">16. 9. 1887</date>
@@ -4934,7 +4855,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1887-12-31">31. 12. 1887</date>
@@ -4945,7 +4866,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1888-04-30">30.04 1888</date>
@@ -4956,7 +4877,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1888-05-24">24. 5. 1888</date>
@@ -4967,7 +4888,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1888-06-01">01.06 1888</date>
@@ -4978,7 +4899,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1889-02-25">25. 2. 1889</date>
@@ -4989,7 +4910,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1889-08-27">27. 8. 1889</date>
@@ -5000,7 +4921,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1890-09-01">01.09. 1890</date>
@@ -5011,7 +4932,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1890-11-14">14. 11. 1890</date>
@@ -5022,7 +4943,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1891-01-16">16. 1. 1891</date>
@@ -5033,7 +4954,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date evidence="conjecture" when="1891-02-01">01. 02. 1891</date>
@@ -5044,7 +4965,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-04-07">7. 4. 1893</date>
@@ -5055,7 +4976,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-10-26">26. 10. 1893</date>
@@ -5066,7 +4987,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-11-27">27. 11. 1893</date>
@@ -5077,7 +4998,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-11-28">28. 11. 1893</date>
@@ -5088,7 +5009,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-12-11">11. 12. 1893</date>
@@ -5099,7 +5020,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-09-30">30. 9. 1895</date>
@@ -5110,7 +5031,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1895-10-16">16. 10. 1895</date>
@@ -5121,7 +5042,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-06-27">27. 6. 1896</date>
@@ -5132,7 +5053,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1896-08-14">14. 8. 1896</date>
@@ -5143,7 +5064,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-02-26">26. 2. 1897</date>
@@ -5154,7 +5075,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c"
-                      sameAs="1970_Schnitzler_Waissnix">
+            sameAs="1970_Schnitzler_Waissnix">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1897-03-29">29. 3. 1897</date>
