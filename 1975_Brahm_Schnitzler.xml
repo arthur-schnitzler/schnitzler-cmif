@@ -1833,7 +1833,7 @@
          <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B127">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-               <date when="1903-02-21"/>
+               <date when="1903-02-22"/>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
             <correspAction type="received">
