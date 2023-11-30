@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="https://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,7 +22,7 @@
             <bibl type="print" xml:id="yf5eeb0a-209f-4557-86ce-60aecec6cc5f">Reinhard Urbach:
                     Ein bisher unbekannter Brief Arthur Schnitzlers an Otto Brahm. In: Modern
                     Austrian Literature, Jg. 10 (1977), Nr. 3/4, S. 19–21.
-                    http://www.jstor.org/stable/24645881</bibl>
+                    https://www.jstor.org/stable/24645881</bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

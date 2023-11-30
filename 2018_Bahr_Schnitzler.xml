@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="https://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -26,7 +26,7 @@
             <bibl type="hybrid" xml:id="hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"> Hermann
                     Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931.
                     Herausgegeben von Kurt Ifkovits, Martin Anton Müller. Göttingen: Wallstein
-                    Verlag 2018 <ref target="http://bahrschnitzler.acdh.oeaw.ac.at">http://bahrschnitzler.acdh.oeaw.ac.at</ref>
+                    Verlag 2018 <ref target="https://bahrschnitzler.acdh.oeaw.ac.at">https://bahrschnitzler.acdh.oeaw.ac.at</ref>
             </bibl>
          </sourceDesc>
       </fileDesc>

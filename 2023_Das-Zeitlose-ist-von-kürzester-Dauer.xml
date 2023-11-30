@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="https://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -31,7 +31,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#t6feed8f-d3e7-4693-90eb-59342c79aed0">
@@ -60,7 +60,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#t6feed8f-d3e7-4693-90eb-59342c79aed0">
@@ -90,7 +90,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#t6feed8f-d3e7-4693-90eb-59342c79aed0">
@@ -100,7 +100,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#t6feed8f-d3e7-4693-90eb-59342c79aed0">
@@ -139,7 +139,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#t6feed8f-d3e7-4693-90eb-59342c79aed0">
@@ -217,7 +217,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#t6feed8f-d3e7-4693-90eb-59342c79aed0">
@@ -237,7 +237,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#t6feed8f-d3e7-4693-90eb-59342c79aed0">
@@ -247,7 +247,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
+               <placeName ref="https://www.geonames.org/2761369" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
       </profileDesc>

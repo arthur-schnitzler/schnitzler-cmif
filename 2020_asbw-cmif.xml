@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-     xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<TEI xmlns="https://www.tei-c.org/ns/1.0"
+     xmlns:fn="https://www.w3.org/2005/xpath-functions"
+     xmlns:xs="https://www.w3.org/2001/XMLSchema">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -192,7 +192,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1890-01-31_01">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/137707231">Joachim, Jaques</persName>
+               <persName ref="https://d-nb.info/gnd/137707231">Joachim, Jaques</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1890-01-31" n="01">31. 1. 1890</date>
             </correspAction>
@@ -736,7 +736,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1891-07-06_01">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/137707231">Joachim, Jaques</persName>
+               <persName ref="https://d-nb.info/gnd/137707231">Joachim, Jaques</persName>
                <persName ref="https://d-nb.info/gnd/141477482">Kafka, Eduard Michael</persName>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
                <date when="1891-07-06" n="01">6. 7. 1891</date>
@@ -15704,7 +15704,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-04-10" n="01">10. 4. 1898</date>
-               <placeName ref="http://www.geonames.org/358619/port-said.html">Port Said</placeName>
+               <placeName ref="https://www.geonames.org/358619/port-said.html">Port Said</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -15767,7 +15767,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-04-21" n="02">21. 4. [1898]</date>
-               <placeName ref="http://www.geonames.org/1545739/indian-ocean.html">Indischer Ozean</placeName>
+               <placeName ref="https://www.geonames.org/1545739/indian-ocean.html">Indischer Ozean</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <date when="1898-04-22">22. 4. [1898]</date>
@@ -15787,7 +15787,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-04-27" n="01">27. 4. 1898</date>
-               <placeName ref="http://www.geonames.org/1880251/republic-of-singapore.html">Singapur</placeName>
+               <placeName ref="https://www.geonames.org/1880251/republic-of-singapore.html">Singapur</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -16439,7 +16439,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-08-05" n="02">5. 8. 1898</date>
-               <placeName ref="http://www.geonames.org/1797929/qingdao.html">Qingdao</placeName>
+               <placeName ref="https://www.geonames.org/1797929/qingdao.html">Qingdao</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -16558,7 +16558,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-08-24" n="01">24. 8. [1898]</date>
-               <placeName ref="http://www.geonames.org/1787093/yantai.html">Yantai</placeName>
+               <placeName ref="https://www.geonames.org/1787093/yantai.html">Yantai</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -16574,11 +16574,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-08-24" n="02">24. 8. 1898</date>
-               <placeName ref="http://www.geonames.org/1787093/yantai.html">Yantai</placeName>
+               <placeName ref="https://www.geonames.org/1787093/yantai.html">Yantai</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <date when="1898-08-25">25. 8. 1898</date>
-               <placeName ref="http://www.geonames.org/1787093/yantai.html">Yantai</placeName>
+               <placeName ref="https://www.geonames.org/1787093/yantai.html">Yantai</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <date when="1898-09-04">4. 9. 1898</date>
@@ -16718,7 +16718,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-09-10" n="01">10. 9. 1898</date>
-               <placeName ref="http://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
+               <placeName ref="https://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -16791,7 +16791,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-09-25" n="01">25. 9. 1898</date>
-               <placeName ref="http://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
+               <placeName ref="https://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -16807,11 +16807,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-09-28" n="01">28. 9. 1898</date>
-               <placeName ref="http://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
+               <placeName ref="https://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <date when="1898-09-28">28. 9. 1898</date>
-               <placeName ref="http://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
+               <placeName ref="https://www.geonames.org/1792947/tianjin.html">Tianjin</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <date when="1898-10-04">4. 10. 1898</date>
@@ -16961,7 +16961,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-10-21" n="01">21. 10. 1898</date>
-               <placeName ref="http://www.geonames.org/1787093/yantai.html">Qingdao</placeName>
+               <placeName ref="https://www.geonames.org/1787093/yantai.html">Qingdao</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <placeName ref="https://sws.geonames.org/1796236/">Shanghai</placeName>
@@ -18983,7 +18983,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1899-08-20" n="01">20. 8. 1899</date>
-               <placeName ref="http://www.geonames.org/6615358/le-mont-saint-michel.html">Le Mont-Saint-Michel</placeName>
+               <placeName ref="https://www.geonames.org/6615358/le-mont-saint-michel.html">Le Mont-Saint-Michel</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -20075,7 +20075,7 @@
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <persName ref="https://d-nb.info/gnd/128385022">Glümer, Marie</persName>
                <persName ref="https://d-nb.info/gnd/1144277299">Chlum, Auguste</persName>
-               <persName ref="http://d-nb.info/gnd/116685972">Coschell, Moritz</persName>
+               <persName ref="https://d-nb.info/gnd/116685972">Coschell, Moritz</persName>
                <date when="1900-01-11" n="01">11. 1. 1900</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
@@ -30744,7 +30744,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <persName ref="https://d-nb.info/gnd/116952199">Hofmannsthal, Gerty von</persName>
-               <persName ref="http://d-nb.info/gnd/1142412229">Schlesinger, Hans</persName>
+               <persName ref="https://d-nb.info/gnd/1142412229">Schlesinger, Hans</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
                <date when="1906-07-29" n="01">29. 7. 1906</date>
             </correspAction>
@@ -44862,7 +44862,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1926-10-12_01">
             <correspAction type="sent">
-               <persName ref="http://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
+               <persName ref="https://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
                <placeName ref="https://sws.geonames.org/2911298/">Hamburg</placeName>
                <date when="1926-10-12" n="01">12. 10. 1926</date>
             </correspAction>
@@ -45958,7 +45958,7 @@
                <date when="1931-01-14" n="01">14. 1. 1931</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
+               <persName ref="https://d-nb.info/gnd/1117494683">Beer-Hofmann, Gabriel</persName>
                <placeName ref="https://sws.geonames.org/5128581/">New York City</placeName>
                <date evidence="conjecture" notBefore="1931-01-15" notAfter="1931-01-19">[15. 1. 1931 – 19. 1. 1931?]</date>
             </correspAction>

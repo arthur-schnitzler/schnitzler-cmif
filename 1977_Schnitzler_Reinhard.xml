@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="https://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -17,7 +17,7 @@
             <idno type="url">https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-cmif/main/1977_Schnitzler_Reinhard.xml</idno>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="print" xml:id="q0f31f7c-c385-4bdd-b199-e671f4a30389">Therese Nickl: Arthur Schnitzler an Marie Reinhard (1896). In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4,  S. 22–68 (verfügbar auf: http://www.jstor.org/stable/24645882)</bibl>
+            <bibl type="print" xml:id="q0f31f7c-c385-4bdd-b199-e671f4a30389">Therese Nickl: Arthur Schnitzler an Marie Reinhard (1896). In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4,  S. 22–68 (verfügbar auf: https://www.jstor.org/stable/24645882)</bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

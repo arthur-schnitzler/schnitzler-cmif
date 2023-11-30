@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="https://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -2863,7 +2863,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+               <persName ref="https://correspSearch.net/unknown">Unbekannt</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2873,7 +2873,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+               <persName ref="https://correspSearch.net/unknown">Unbekannt</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
@@ -2883,7 +2883,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="http://correspSearch.net/unknown">Unbekannt</persName>
+               <persName ref="https://correspSearch.net/unknown">Unbekannt</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
