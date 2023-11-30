@@ -48,8 +48,10 @@
                     </xsl:element>
                     <xsl:element name="sourceDesc" namespace="http://www.tei-c.org/ns/1.0">
                         <xsl:element name="listBibl" namespace="http://www.tei-c.org/ns/1.0">
+                            
                             <xsl:for-each
-                                select="collection(concat($folderURI, '../?select=????_*.xml;recurse=yes'))/tei:TEI[descendant::tei:persName/@ref = 'https://d-nb.info/gnd/118609807']/tei:teiHeader[1]/tei:fileDesc[1]/tei:sourceDesc[1]/tei:bibl">
+                                select="collection(concat($folderURI, '../../?select=????_*.xml;recurse=yes'))/*:TEI[descendant::*:persName/@ref = 'https://d-nb.info/gnd/118609807']/*:teiHeader[1]/*:fileDesc[1]/*:sourceDesc[1]/*:bibl">
+                                
                                 <xsl:copy-of select="." copy-namespaces="no"/>
                             </xsl:for-each>
                         </xsl:element>
@@ -57,7 +59,7 @@
                 </xsl:element>
                 <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="profileDesc">
                     <xsl:for-each
-                        select="collection(concat($folderURI, '../?select=????_*.xml;recurse=yes'))/tei:TEI/tei:teiHeader/tei:profileDesc/tei:correspDesc[not(@sameAs) and descendant::tei:persName/@ref = 'https://d-nb.info/gnd/118609807']">
+                        select="collection(concat($folderURI, '../?select=????_*.xml;recurse=yes'))/*:TEI/*:teiHeader/*:profileDesc/*:correspDesc[not(@sameAs) and descendant::*:persName/@ref = 'https://d-nb.info/gnd/118609807']">
                         <xsl:copy-of select="." copy-namespaces="no"/>
                     </xsl:for-each>
                 </xsl:element>
