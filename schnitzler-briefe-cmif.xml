@@ -356,7 +356,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1890-05-22_01">
             <correspAction type="sent">
-               <persName ref="">Konstantin, Michael</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/41355/">Konstantin, Michael</persName>
                <date when="1890-05-22" n="01">22. 5. 1890</date>
                <placeName ref="https://sws.geonames.org/3078610/">Brünn</placeName>
             </correspAction>
@@ -7410,7 +7410,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1894-03-21_02">
             <correspAction type="sent">
-               <persName ref="">Wiese, Gerhard</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/35015/">Wiese, Gerhard</persName>
                <date when="1894-03-21" n="02">21. 3. 1894</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
@@ -12451,7 +12451,7 @@
                       ana="1895-10-15_02">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/127899537">Fels, Friedrich M.</persName>
-               <persName ref="">Nordegg, Jenny</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/42508/">Nordegg, Jenny</persName>
                <date when="1895-10-15" n="02">15. 10. 1895</date>
                <placeName ref="https://sws.geonames.org/2657896/">Zürich</placeName>
             </correspAction>
@@ -12997,7 +12997,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1896-01-11_02">
             <correspAction type="sent">
-               <persName ref="">Goldmann, Clementine</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/17163/">Goldmann, Clementine</persName>
                <persName ref="https://d-nb.info/gnd/116623772">Rosengart, Vally</persName>
                <date when="1896-01-11" n="02">[11. 1. 1896]</date>
                <placeName ref="https://sws.geonames.org/2925533/">Frankfurt am Main</placeName>
@@ -14417,15 +14417,15 @@
                       ana="1896-08-06_01">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <persName ref="">Schlesinger, Therese</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/24254/">Schlesinger, Therese</persName>
                <persName ref="http://www.wikidata.org/entity/Q125283714">Schlesinger, Julius</persName>
                <persName ref="https://d-nb.info/gnd/11640826X">Fanto, Leonhard</persName>
-               <persName ref="">Eisler, Richard</persName>
-               <persName ref="">Laurent, M.</persName>
-               <persName ref="">Schlesinger, Gretl</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/144427/">Eisler, Richard</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/144430/">Laurent, M.</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/144420/">Schlesinger, Gretl</persName>
                <persName ref="http://www.wikidata.org/entity/Q125283712">Schlesinger, Franziska</persName>
-               <persName ref="">Berger, Else</persName>
-               <persName ref="">Schlesinger, Alfred</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/14056/">Berger, Else</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/144412/">Schlesinger, Alfred</persName>
                <date when="1896-08-06" n="01">6. 8. 1896</date>
                <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
             </correspAction>
@@ -14513,7 +14513,7 @@
                       ana="1896-08-21_01">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
-               <persName ref="">Benedict, Hermine</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/24033/">Benedict, Hermine</persName>
                <date when="1896-08-21" n="01">21. [8. 1896]</date>
                <placeName ref="https://sws.geonames.org/7872434/">Altaussee</placeName>
             </correspAction>
@@ -20962,7 +20962,7 @@
                       ana="1898-08-26_01">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
-               <persName ref="">Strisower, Therese</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/18530/">Strisower, Therese</persName>
                <date when="1898-08-26" n="01">[26.?] 8. 1898</date>
                <placeName ref="https://sws.geonames.org/3180559/">Carbonin</placeName>
             </correspAction>
@@ -21412,7 +21412,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <date when="1898-10-18" n="01">18. 10. [1898]</date>
-               <placeName ref="">Gelbes Meer</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/118872/">Gelbes Meer</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -28659,7 +28659,7 @@
                <persName ref="https://d-nb.info/gnd/116848723">Gussmann, Olga</persName>
                <date evidence="conjecture" notBefore="1901-05-29" notAfter="1901-06-02">[29. 5. 1901
                   – 2. 6. 1901?]</date>
-               <placeName ref="" evidence="conjecture">Brühl?</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/44413/" evidence="conjecture">Brühl?</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L01124"
@@ -36536,7 +36536,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118572954">Liliencron, Detlev von</persName>
                <persName ref="https://d-nb.info/gnd/117225789">Stefan, Paul</persName>
-               <persName ref="">Horwitz, Charlotte</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29184/">Horwitz, Charlotte</persName>
                <persName ref="https://d-nb.info/gnd/118891634">Kahler, Erich</persName>
                <persName ref="https://d-nb.info/gnd/118502255">Altenberg, Peter</persName>
                <persName ref="https://d-nb.info/gnd/118566288">Kraus, Karl</persName>
@@ -40097,7 +40097,7 @@
                       ana="1905-09-24_01">
             <correspAction type="sent">
                <persName ref="http://www.wikidata.org/entity/Q108811839">Van-Jung, Leo</persName>
-               <persName ref="">Mütter, Franziska</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/21766/">Mütter, Franziska</persName>
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1905-09-24" n="01">[24. 9.?] 1905</date>
                <placeName ref="https://sws.geonames.org/3174748/">Lido</placeName>
@@ -40551,7 +40551,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1906-01-15_01">
             <correspAction type="sent">
-               <persName ref="">Treibl, Adolf</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29150/">Treibl, Adolf</persName>
                <date when="1906-01-15" n="01">15 1. 1906</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -40584,7 +40584,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1906-01-18_01">
             <correspAction type="sent">
-               <persName ref="">Treibl, Adolf</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29150/">Treibl, Adolf</persName>
                <date when="1906-01-18" n="01">18. 1. 1906</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -40601,7 +40601,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1906-01-22_01">
             <correspAction type="sent">
-               <persName ref="">Treibl, Adolf</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29150/">Treibl, Adolf</persName>
                <date when="1906-01-22" n="01">[22.? 1. 1906]</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -40618,7 +40618,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1906-01-22_02">
             <correspAction type="sent">
-               <persName ref="">Ehrenstein, Charlotte</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/15716/">Ehrenstein, Charlotte</persName>
                <date when="1906-01-22" n="02">[22. 1.? 1906]</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -40673,7 +40673,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="">Ehrenstein, Charlotte</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/15716/">Ehrenstein, Charlotte</persName>
                <date evidence="conjecture" notBefore="1906-01-29" notAfter="1906-02-02">[29. 1. 1906
                   – 2. 2. 1906?]</date>
             </correspAction>
@@ -40782,7 +40782,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1906-02-15_01">
             <correspAction type="sent">
-               <persName ref="">Ehrenstein, Charlotte</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/15716/">Ehrenstein, Charlotte</persName>
                <date when="1906-02-15" n="01">[Mitte Februar 1906?]</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -40963,7 +40963,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1906-03-16_01">
             <correspAction type="sent">
-               <persName ref="">Ehrenstein, Charlotte</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/15716/">Ehrenstein, Charlotte</persName>
                <date when="1906-03-16" n="01">[16. 3.? 1906]</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -41193,7 +41193,7 @@
                <persName ref="https://d-nb.info/gnd/116651407">Heilbut, Emil</persName>
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, S.</persName>
                <persName ref="https://d-nb.info/gnd/118910671">Fischer, Hedwig</persName>
-               <persName ref="">Jonas, Lili</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/147457/">Jonas, Lili</persName>
                <date when="1906-04-19" n="01">19. 4. 1906</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
@@ -41475,7 +41475,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="">Ehrenstein, Charlotte</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/15716/">Ehrenstein, Charlotte</persName>
                <date evidence="conjecture" notBefore="1906-05-20" notAfter="1906-05-22">[20. 5. 1906
                   – 24. 5. 1906?]</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
@@ -41542,7 +41542,7 @@
                <persName ref="https://d-nb.info/gnd/139655360">Salten, Ottilie</persName>
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, S.</persName>
                <persName ref="https://d-nb.info/gnd/118910671">Fischer, Hedwig</persName>
-               <persName ref="">?? [Frau in Königs Wusterhausen]</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/147550/">?? [Frau in Königs Wusterhausen]</persName>
                <date when="1906-06-04" n="01">4. 6. 1906</date>
                <placeName ref="https://sws.geonames.org/2885732/">Königs Wusterhausen</placeName>
             </correspAction>
@@ -42827,7 +42827,7 @@
                <persName ref="https://d-nb.info/gnd/118552759">Hofmannsthal, Hugo von</persName>
                <date notBefore="1907-02-03" notAfter="1907-02-07" n="01">[zwischen
                   3. – 7. 2. 1907]</date>
-               <placeName ref="">Gerngroß</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/183/">Gerngroß</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -43874,7 +43874,7 @@
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
                <persName ref="https://d-nb.info/gnd/143163604">Hajek, Markus</persName>
                <persName ref="https://d-nb.info/gnd/1011705532">Hajek, Gisela</persName>
-               <persName ref="">Vallo, Margot</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/28004/">Vallo, Margot</persName>
                <date when="1907-08-27" n="01">[27. 8. 1907?]</date>
                <placeName ref="https://www.geonames.org/6690357/huehnerspiel.html">Hühnerspiel</placeName>
             </correspAction>
@@ -44585,9 +44585,9 @@
                <persName ref="https://d-nb.info/gnd/1243981628">Wymetal, Wilhelm von</persName>
                <persName ref="https://d-nb.info/gnd/118572954">Liliencron, Detlev von</persName>
                <persName ref="https://d-nb.info/gnd/117225789">Stefan, Paul</persName>
-               <persName ref="">Kurzweil, Hedwig</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29183/">Kurzweil, Hedwig</persName>
                <persName ref="https://d-nb.info/gnd/127703330">Markowitz, Alfred</persName>
-               <persName ref="">Goldschmied, E.</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29182/">Goldschmied, E.</persName>
                <date when="1907-11-27" n="01">27. 11. [1907]</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -46287,17 +46287,17 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1908-11-09_02">
             <correspAction type="sent">
-               <persName ref="">Probst, E.</persName>
-               <persName ref="">Probst, R.</persName>
-               <persName ref="">Staehelin-Baechtold, Josef</persName>
-               <persName ref="">Huber, R. W.</persName>
-               <persName ref="">Staehelin-Baechtold, Gertrud</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29122/">Probst, E.</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29123/">Probst, R.</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29120/">Staehelin-Baechtold, Josef</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29126/">Huber, R. W.</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/28344/">Staehelin-Baechtold, Gertrud</persName>
                <persName ref="https://d-nb.info/gnd/116017899">Kesser, Hermann</persName>
-               <persName ref="">Bodmer, Mathilde</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29124/">Bodmer, Mathilde</persName>
                <persName ref="https://d-nb.info/gnd/116216352">Bodmer, Hermann</persName>
                <persName ref="https://d-nb.info/gnd/118660497">Bodman, Emanuel von</persName>
                <persName ref="https://d-nb.info/gnd/14221079X">Sartoris, Spyridon</persName>
-               <persName ref="">Sartoris, W.</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/29121/">Sartoris, W.</persName>
                <persName ref="https://d-nb.info/gnd/116216328">Bodmer, Hans</persName>
                <persName ref="https://d-nb.info/gnd/118505955">Bahr, Hermann</persName>
                <date when="1908-11-09" n="02">9. 11. 1908</date>
@@ -47660,7 +47660,7 @@
                       ana="1909-07-26_01">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
-               <persName ref="">Goldmann, Eva Marie</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/17164/">Goldmann, Eva Marie</persName>
                <persName ref="https://d-nb.info/gnd/118514326">Brandes, Georg</persName>
                <date when="1909-07-26" n="01">26. 7. 1909</date>
                <placeName ref="https://sws.geonames.org/3073803/">Karlsbad</placeName>
@@ -48084,7 +48084,7 @@
                       ana="1909-10-01_01">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/116755105">Goldmann, Paul</persName>
-               <persName ref="">Goldmann, Eva Marie</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/17164/">Goldmann, Eva Marie</persName>
                <date when="1909-10-01" n="01">1. 10. 1909</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -51516,7 +51516,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1911-09-21_01">
             <correspAction type="sent">
-               <persName ref="">Goldmann, Eva Marie</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/17164/">Goldmann, Eva Marie</persName>
                <date when="1911-09-21" n="01">21. 9. 1911</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
@@ -51584,7 +51584,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1911-10-01_01">
             <correspAction type="sent">
-               <persName ref="">Goldmann, Eva Marie</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/17164/">Goldmann, Eva Marie</persName>
                <date when="1911-10-01" n="01">1. 10. 1911</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
@@ -52787,7 +52787,7 @@
                <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
                <persName ref="https://d-nb.info/gnd/139655360">Salten, Ottilie</persName>
                <persName ref="https://d-nb.info/gnd/117433349">Wollf, Julius Ferdinand</persName>
-               <persName ref="">Járosy, Helene</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/18814/">Járosy, Helene</persName>
                <persName ref="http://www.wikidata.org/entity/Q96482238">Metzl, Richard</persName>
                <date notBefore="1912-07-22" notAfter="1912-08-24" n="02">[Ende Juli –
                   24. 8. 1912?]</date>
@@ -55048,7 +55048,7 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1914-06-28" n="01">28. 6. 1914</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -55070,7 +55070,7 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02186"
@@ -55105,7 +55105,7 @@
                <persName ref="https://d-nb.info/gnd/119044994">Beer-Hofmann, Paula</persName>
                <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
                <date when="1914-07-15" n="02">15. [7. 1914]</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
             <correspAction type="redirected">
                <placeName ref="https://sws.geonames.org/2772186/">Lunz am See</placeName>
@@ -55131,7 +55131,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date evidence="conjecture" notBefore="1914-07-26" notAfter="1914-07-30">[26. 7. 1914
                   – 30. 7. 1914?]</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02189"
@@ -55148,7 +55148,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date evidence="conjecture" notBefore="1914-08-03" notAfter="1914-08-07">[3. 8. 1914
                   – 7. 8. 1914?]</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02190"
@@ -55176,11 +55176,11 @@
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date when="1914-08-10" n="01">10. 8. 1914</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <date when="1914-08-11">11. 8. 1914</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
             <correspAction type="forwarded">
                <date when="1914-08-16">16. 8. 1914</date>
@@ -55227,7 +55227,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date evidence="conjecture" notBefore="1914-08-21" notAfter="1914-08-25">[21. 8. 1914
                   – 25. 8. 1914?]</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02193"
@@ -55244,7 +55244,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date evidence="conjecture" notBefore="1914-08-22" notAfter="1914-08-26">[22. 8. 1914
                   – 26. 8. 1914?]</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02194"
@@ -55261,7 +55261,7 @@
                <persName ref="https://d-nb.info/gnd/118654756">Beer-Hofmann, Richard</persName>
                <date evidence="conjecture" notBefore="1914-08-23" notAfter="1914-08-27">[23. 8. 1914
                   – 27. 8. 1914?]</date>
-               <placeName ref="">Weißenbach am Attersee</placeName>
+               <placeName ref="https://pmb.acdh.oeaw.ac.at/entity/34344/">Weißenbach am Attersee</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L02195"
@@ -58432,7 +58432,7 @@
                <persName ref="http://www.wikidata.org/entity/Q123515948">Foges, Arthur</persName>
                <persName ref="https://d-nb.info/gnd/118637479">Zweig, Stefan</persName>
                <persName ref="https://d-nb.info/gnd/118739670">Paumgartner, Bernhard</persName>
-               <persName ref="">Zotos, Iphigenia</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/28815/">Zotos, Iphigenia</persName>
                <date when="1919-09-11" n="01">11. 9. 1909</date>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
             </correspAction>
@@ -61626,7 +61626,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1925-10-31_01">
             <correspAction type="sent">
-               <persName ref="">Goldmann, Franziska</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/17167/">Goldmann, Franziska</persName>
                <date when="1925-10-31" n="01">[Ende Oktober 1925?]</date>
                <placeName ref="https://sws.geonames.org/2950159/" evidence="conjecture">Berlin</placeName>
             </correspAction>
@@ -62248,7 +62248,7 @@
                       source="#asbw_0a380dfe-61d4-4b9e-8641-01eba8e50760"
                       ana="1927-01-01_01">
             <correspAction type="sent">
-               <persName ref="">Goldmann, Eva Marie</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/17164/">Goldmann, Eva Marie</persName>
                <date when="1927-01-01" n="01">1. 1. 1927</date>
                <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
             </correspAction>
@@ -62448,7 +62448,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-               <persName ref="">Bloch-Zavřel, Lotte</persName>
+               <persName ref="https://pmb.acdh.oeaw.ac.at/entity/63579/">Bloch-Zavřel, Lotte</persName>
                <date evidence="conjecture" notBefore="1927-04-11" notAfter="1927-04-15">[11. 4. 1927
                   – 15. 4. 1927?]</date>
             </correspAction>
