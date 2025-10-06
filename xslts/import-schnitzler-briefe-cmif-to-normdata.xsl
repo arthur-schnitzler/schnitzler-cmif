@@ -6,10 +6,14 @@
     <xsl:output method="xml" indent="yes"/>
     <!-- Das holt die GND-Nummer aus der PMB -->
     <!-- Parameter können von außen übergeben werden, Fallback auf Remote-URLs -->
-    <xsl:param name="listperson" select="document('https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listperson.xml')"/>
+    <xsl:param name="listperson" as="xs:string" select="'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listperson.xml'"/>
+    <xsl:param name="listplace" as="xs:string" select="'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listplace.xml'"/>
+
+    <xsl:variable name="listperson-doc" select="document($listperson)"/>
+    <xsl:variable name="listplace-doc" select="document($listplace)"/>
+
     <xsl:key name="person-match" match="//tei:text[1]/tei:body[1]/tei:listPerson[1]/tei:person"
         use="@xml:id"/>
-    <xsl:param name="listplace" select="document('https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listplace.xml')"/>
     <xsl:key name="place-match" match="//tei:text[1]/tei:body[1]/tei:listPlace[1]/tei:place"
         use="@xml:id"/>
     <xsl:template
@@ -26,15 +30,15 @@
                     <xsl:text>https://d-nb.info/gnd/118609807</xsl:text>
                 </xsl:when>
                 <xsl:when
-                    test="key('person-match', concat('pmb', $nummeri), $listperson)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]">
+                    test="key('person-match', concat('pmb', $nummeri), $listperson-doc)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]">
                     <xsl:value-of
-                        select="key('person-match', concat('pmb', $nummeri), $listperson)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]"
+                        select="key('person-match', concat('pmb', $nummeri), $listperson-doc)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]"
                     />
                 </xsl:when>
                 <xsl:when
-                    test="key('person-match', concat('pmb', $nummeri), $listperson)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]">
+                    test="key('person-match', concat('pmb', $nummeri), $listperson-doc)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]">
                     <xsl:value-of
-                        select="key('person-match', concat('pmb', $nummeri), $listperson)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]"
+                        select="key('person-match', concat('pmb', $nummeri), $listperson-doc)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]"
                     />
                 </xsl:when>
                 <xsl:when test="doc-available($eintragi)">
@@ -61,21 +65,21 @@
                     <xsl:text>https://sws.geonames.org/2761369/</xsl:text>
                 </xsl:when>
                 <xsl:when
-                    test="key('place-match', concat('pmb', $nummeri), $listplace)/tei:idno[@type = 'geonames' or @subtype = 'geonames'][1]">
+                    test="key('place-match', concat('pmb', $nummeri), $listplace-doc)/tei:idno[@type = 'geonames' or @subtype = 'geonames'][1]">
                     <xsl:value-of
-                        select="key('place-match', concat('pmb', $nummeri), $listplace)/tei:idno[@type = 'geonames' or @subtype = 'geonames'][1]"
+                        select="key('place-match', concat('pmb', $nummeri), $listplace-doc)/tei:idno[@type = 'geonames' or @subtype = 'geonames'][1]"
                     />
                 </xsl:when>
                 <xsl:when
-                    test="key('place-match', concat('pmb', $nummeri), $listplace)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]">
+                    test="key('place-match', concat('pmb', $nummeri), $listplace-doc)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]">
                     <xsl:value-of
-                        select="key('place-match', concat('pmb', $nummeri), $listplace)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]"
+                        select="key('place-match', concat('pmb', $nummeri), $listplace-doc)/tei:idno[@type = 'gnd' or @subtype = 'gnd'][1]"
                     />
                 </xsl:when>
                 <xsl:when
-                    test="key('place-match', concat('pmb', $nummeri), $listplace)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]">
+                    test="key('place-match', concat('pmb', $nummeri), $listplace-doc)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]">
                     <xsl:value-of
-                        select="key('place-match', concat('pmb', $nummeri), $listplace)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]"
+                        select="key('place-match', concat('pmb', $nummeri), $listplace-doc)/tei:idno[@type = 'wikidata' or @subtype = 'wikidata'][1]"
                     />
                 </xsl:when>
                 <xsl:when test="doc-available($eintragi)">
