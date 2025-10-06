@@ -10028,7 +10028,7 @@
                <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc doppelter-tag="1895-01-01_01"
+         <correspDesc
                       key="L03182"
                       xml:id="L03182"
                       ref="https://schnitzler-briefe.acdh.oeaw.ac.at/L03182.html"

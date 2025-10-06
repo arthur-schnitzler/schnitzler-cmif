@@ -6,12 +6,12 @@
     <xsl:output method="xml" indent="yes"/>
     <!-- Das holt die GND-Nummer aus der PMB -->
     <!-- Parameter können von außen übergeben werden, Fallback auf Remote-URLs -->
-    <xsl:param name="listperson" as="xs:string" select="'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listperson.xml'"/>
-    <xsl:param name="listplace" as="xs:string" select="'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listplace.xml'"/>
-
+    <xsl:param name="listperson" as="xs:string"
+        select="'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listperson.xml'"/>
+    <xsl:param name="listplace" as="xs:string"
+        select="'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listplace.xml'"/>
     <xsl:variable name="listperson-doc" select="document($listperson)"/>
     <xsl:variable name="listplace-doc" select="document($listplace)"/>
-
     <xsl:key name="person-match" match="//tei:text[1]/tei:body[1]/tei:listPerson[1]/tei:person"
         use="@xml:id"/>
     <xsl:key name="place-match" match="//tei:text[1]/tei:body[1]/tei:listPlace[1]/tei:place"
@@ -44,11 +44,14 @@
                 <xsl:when test="doc-available($eintragi)">
                     <xsl:choose>
                         <xsl:when test="document($eintragi)/descendant::*:idno[@subtype = 'gnd'][1]">
-                            <xsl:value-of select="concat('SEX', document($eintragi)/descendant::*:idno[@subtype = 'gnd'][1])"/>
+                            <xsl:value-of
+                                select="concat('SEX', document($eintragi)/descendant::*:idno[@subtype = 'gnd'][1])"
+                            />
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of
-                                select="concat('https://pmb.acdh.oeaw.ac.at/entity/', $nummeri, '/')"/>
+                                select="concat('https://pmb.acdh.oeaw.ac.at/entity/', $nummeri, '/')"
+                            />
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
@@ -92,12 +95,16 @@
                 </xsl:when>
                 <xsl:when test="doc-available($eintragi)">
                     <xsl:choose>
-                        <xsl:when test="document($eintragi)/descendant::*:idno[@subtype = 'geonames'][1]">
-                            <xsl:value-of select="document($eintragi)/descendant::*:idno[@subtype = 'geonames'][1]"/>
+                        <xsl:when
+                            test="document($eintragi)/descendant::*:idno[@subtype = 'geonames'][1]">
+                            <xsl:value-of
+                                select="document($eintragi)/descendant::*:idno[@subtype = 'geonames'][1]"
+                            />
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of
-                                select="concat('https://pmb.acdh.oeaw.ac.at/entity/', $nummeri, '/')"/>
+                                select="concat('https://pmb.acdh.oeaw.ac.at/entity/', $nummeri, '/')"
+                            />
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
@@ -109,4 +116,6 @@
         </xsl:attribute>
     </xsl:template>
     <xsl:template match="tei:correspContext"/>
+    
+    <xsl:template match="@doppelter-tag"/>
 </xsl:stylesheet>
