@@ -1,0 +1,93 @@
+name: Update Schnitzler Briefe CMIF
+
+on:
+  schedule:
+    # Runs at 00:00 on the first day of every month
+    - cron: '0 0 1 * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-cmif:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download source files
+        id: download
+        run: |
+          # Download main CMIF file
+          curl -o source-cmif.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
+
+          # Download indices for faster XSLT processing
+          mkdir -p indices
+          curl -o indices/listperson.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listperson.xml
+          curl -o indices/listplace.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/listplace.xml
+
+          # Check if files exist and have content
+          if [ ! -s source-cmif.xml ] || [ ! -s indices/listperson.xml ] || [ ! -s indices/listplace.xml ]; then
+            echo "Error: One or more downloaded files are empty or don't exist"
+            exit 1
+          fi
+
+      - name: Check if file has changed
+        id: check_changes
+        run: |
+          # Download current version from repository
+          if [ -f schnitzler-briefe-cmif.xml ]; then
+            curl -o downloaded-cmif.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
+
+            # Compare files
+            if cmp -s schnitzler-briefe-cmif.xml downloaded-cmif.xml; then
+              echo "changed=false" >> $GITHUB_OUTPUT
+              echo "No changes detected in source file"
+            else
+              echo "changed=true" >> $GITHUB_OUTPUT
+              echo "Changes detected in source file"
+            fi
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Target file doesn't exist, will create it"
+          fi
+
+      - name: Install Saxon-HE for XSLT 3.0 processing
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y default-jre
+          wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-5/SaxonHE12-5J.zip
+          unzip SaxonHE12-5J.zip -d saxon
+
+      - name: Apply XSLT transformation
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          java -jar saxon/saxon-he-12.5.jar \
+            -s:source-cmif.xml \
+            -xsl:xslts/import-schnitzler-briefe-cmif-to-normdata.xsl \
+            -o:schnitzler-briefe-cmif.xml \
+            listperson=indices/listperson.xml \
+            listplace=indices/listplace.xml
+
+          # Verify output file was created
+          if [ ! -s schnitzler-briefe-cmif.xml ]; then
+            echo "Error: Transformation failed or produced empty file"
+            exit 1
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add schnitzler-briefe-cmif.xml
+          git commit -m "Update schnitzler-briefe-cmif.xml from upstream source
+
+Source: https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
+Transformed with: xslts/import-schnitzler-briefe-cmif-to-normdata.xsl"
+          git push
+
+      - name: Summary
+        if: steps.check_changes.outputs.changed == 'false'
+        run: |
+          echo "No changes detected. Repository is up to date."
