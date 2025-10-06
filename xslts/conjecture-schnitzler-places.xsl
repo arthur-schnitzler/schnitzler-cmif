@@ -9,7 +9,7 @@
     <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
     <xsl:mode on-no-match="shallow-copy"/>
     <xsl:param name="places"
-        select="document('/Users/oldfiche/Documents/git/schnitzler-orte/editions/schnitzler_places.xml')"/>
+        select="document('/Users/oldfiche/git/schnitzler-orte/editions/schnitzler_places.xml')"/>
     <xsl:key name="place-lookup" match="tei:event" use="@when"/>
     
     <!-- Dieses XSLT ergänzt den jeweiligen Aufenthaltsort Schnitzlers zu correspAction -->

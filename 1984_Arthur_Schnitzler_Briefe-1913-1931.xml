@@ -5504,7 +5504,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"
-                      sameAs="zweig-bahr-schnitzler">
+            sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1914-12-02">2. 12. 1914</date>
@@ -5515,7 +5515,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"
-                      sameAs="zweig-bahr-schnitzler">
+            sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1924-11-06">6. 11.1924</date>
@@ -5526,7 +5526,7 @@
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3"
-                      sameAs="zweig-bahr-schnitzler">
+            sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1928-01-16">16. 1. 1928</date>

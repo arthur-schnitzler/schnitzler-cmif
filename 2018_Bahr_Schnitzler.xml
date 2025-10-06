@@ -2902,7 +2902,7 @@
          </correspDesc>
          <correspDesc key="L041274"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041274.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
+                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"  sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName>Zweig, Stefan</persName>
                <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
@@ -4548,7 +4548,7 @@
          <correspDesc key="L041613"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041613.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
+            <correspAction type="sent" sameAs="schnitzler-briefe">
                <persName>Zweig, Stefan</persName>
                <placeName ref="https://sws.geonames.org/2766818/">[Salzburg]</placeName>
                <date when="1913-05-31"/>
@@ -4643,7 +4643,7 @@
          </correspDesc>
          <correspDesc key="L041614"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041614.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
+                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"  sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
@@ -4684,7 +4684,7 @@
          </correspDesc>
          <correspDesc key="L041615"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041615.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
+                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"  sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName>Zweig, Stefan</persName>
                <placeName ref="https://sws.geonames.org/2766818/">Salzburg</placeName>
@@ -8751,7 +8751,8 @@
          </correspDesc>
          <correspDesc key="L041403"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041403.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
+                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"
+                      sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>

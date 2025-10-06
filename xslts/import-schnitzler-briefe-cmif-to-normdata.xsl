@@ -42,7 +42,15 @@
                     />
                 </xsl:when>
                 <xsl:when test="doc-available($eintragi)">
-                    <xsl:value-of select="document($eintragi)/descendant::*:idno[@subtype = 'gnd'][1]"/>
+                    <xsl:choose>
+                        <xsl:when test="document($eintragi)/descendant::*:idno[@subtype = 'gnd'][1]">
+                            <xsl:value-of select="concat('SEX', document($eintragi)/descendant::*:idno[@subtype = 'gnd'][1])"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of
+                                select="concat('https://pmb.acdh.oeaw.ac.at/entity/', $nummeri, '/')"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:value-of
@@ -83,8 +91,15 @@
                     />
                 </xsl:when>
                 <xsl:when test="doc-available($eintragi)">
-                    <xsl:value-of
-                        select="document($eintragi)/descendant::*:idno[@subtype = 'geonames'][1]"/>
+                    <xsl:choose>
+                        <xsl:when test="document($eintragi)/descendant::*:idno[@subtype = 'geonames'][1]">
+                            <xsl:value-of select="document($eintragi)/descendant::*:idno[@subtype = 'geonames'][1]"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of
+                                select="concat('https://pmb.acdh.oeaw.ac.at/entity/', $nummeri, '/')"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:value-of

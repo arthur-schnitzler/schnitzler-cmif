@@ -27,7 +27,7 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="98">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="98" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1885-05-29"/>
@@ -39,7 +39,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="127">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="127" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1885-08-14"/>
@@ -50,7 +50,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="187">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="187" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1886-10-02"/>
@@ -61,7 +61,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="541">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="541" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1892-07-29"/>
@@ -72,7 +72,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="542">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="542" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1892-10-10"/>
@@ -84,7 +84,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="543">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="543" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1892-11-16"/>
@@ -96,7 +96,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="548">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="548" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-01-02"/>
@@ -108,7 +108,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="553">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="553" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-05-04"/>
@@ -119,7 +119,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="554">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="554" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-05-13"/>
@@ -131,7 +131,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="555">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="555" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-05-19"/>
@@ -143,7 +143,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="556">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="556" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-06-15"/>
@@ -155,7 +155,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="558">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="558" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-06-29"/>
@@ -167,7 +167,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="563">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="563" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-08-06"/>
@@ -178,7 +178,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="564">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="564" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-09-12"/>
@@ -191,7 +191,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="568">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="568" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1893-12-08"/>
@@ -202,7 +202,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="576">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="576" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-07-03"/>
@@ -213,7 +213,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="580">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="580" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-09-04"/>
@@ -225,7 +225,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="586">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="586" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-11-08"/>
@@ -237,7 +237,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="587">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="587" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-11-13"/>
@@ -248,7 +248,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="588">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="588" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-11-27"/>
@@ -259,7 +259,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="589">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="589" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-12-11"/>
@@ -270,7 +270,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="592">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="592" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-12-17"/>
@@ -282,7 +282,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="594">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="594" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-12-23"/>
@@ -294,7 +294,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="595">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="595" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-12-29"/>
@@ -306,7 +306,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="596">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="596" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1894-12-31"/>
@@ -318,7 +318,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="597">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="597" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-01-01"/>
@@ -330,7 +330,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="598">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="598" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-01-04"/>
@@ -341,7 +341,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="600">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="600" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-01-09"/>
@@ -353,7 +353,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="601">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="601" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date cert="low" when="1895-01-20">20.? Januar 1895</date>
@@ -365,7 +365,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="602">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="602" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date cert="low" when="1895-01-20">20.? Januar 1895</date>
@@ -376,7 +376,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="603">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="603" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-02-01"/>
@@ -387,7 +387,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="604">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="604" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-02-16"/>
@@ -398,7 +398,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="605">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="605" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-02-18"/>
@@ -409,7 +409,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="606">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="606" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date evidence="conjecture" when="1895-02-20"/>
@@ -421,7 +421,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="607">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="607" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-02-20"/>
@@ -432,7 +432,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="609">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="609" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-03-04"/>
@@ -443,7 +443,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="612">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="612" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date cert="low" evidence="conjecture" when="1895-03-19">ca. 19. März
@@ -456,7 +456,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="613">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="613" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-03-21"/>
@@ -468,7 +468,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="614">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="614" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-03-30"/>
@@ -480,7 +480,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="615">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="615" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-04-03"/>
@@ -491,7 +491,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="616">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="616" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-04-08"/>
@@ -502,7 +502,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="617">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="617" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-04-16"/>
@@ -514,7 +514,7 @@
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="620">
+         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="620" sameAs="schnitzler-briefe">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
                <date when="1895-04-26"/>

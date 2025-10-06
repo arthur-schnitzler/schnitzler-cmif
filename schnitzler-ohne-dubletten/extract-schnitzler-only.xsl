@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+    XSLT zur Extraktion von Schnitzler-Korrespondenz ohne Dubletten
+
+    Zweck:
+    Dieses Stylesheet durchsucht alle CMIF-XML-Dateien im Repository (Pattern: ????_*.xml)
+    und extrahiert nur jene correspDesc-Einträge, die Schnitzler (GND: 118609807) als
+    Sender oder Empfänger enthalten UND die nicht als Dublette markiert sind.
+
+    Funktionsweise:
+    1. Sammelt mit collection() alle XML-Dateien aus dem Parent-Verzeichnis
+    2. Filtert nach Dateien, die Schnitzler-Referenzen enthalten
+    3. Extrahiert nur correspDesc ohne @sameAs-Attribut (d.h. keine Dubletten)
+    4. Sammelt alle zugehörigen Quellenbeschreibungen (bibl-Elemente)
+    5. Erstellt eine konsolidierte TEI-Datei mit deduplizierter Korrespondenz
+
+    Output:
+    Eine TEI-Datei mit neuem teiHeader (Titel: "Publizierte Briefe von und an Arthur
+    Schnitzler (ohne Dubletten)"), allen relevanten Quellenangaben in sourceDesc/listBibl
+    und allen nicht-duplizierten correspDesc-Einträgen in profileDesc.
+
+    Hinweis:
+    Das @sameAs-Attribut wird in den Quelldateien verwendet, um mehrfache Editionen
+    desselben Briefs zu kennzeichnen. Diese Transformation behält nur die primäre
+    Version (ohne @sameAs).
+-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions"
     xmlns:tei="http://www.tei-c.org/ns/1.0" version="3.0" exclude-result-prefixes="tei">
