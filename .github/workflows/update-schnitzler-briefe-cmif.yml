@@ -66,8 +66,8 @@ jobs:
             -s:source-cmif.xml \
             -xsl:xslts/import-schnitzler-briefe-cmif-to-normdata.xsl \
             -o:schnitzler-briefe-cmif.xml \
-            listperson=indices/listperson.xml \
-            listplace=indices/listplace.xml
+            listperson=file:indices/listperson.xml \
+            listplace=file:indices/listplace.xml
 
           # Verify output file was created
           if [ ! -s schnitzler-briefe-cmif.xml ]; then
@@ -83,8 +83,8 @@ jobs:
           git add schnitzler-briefe-cmif.xml
           git commit -m "Update schnitzler-briefe-cmif.xml from upstream source
 
-Source: https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
-Transformed with: xslts/import-schnitzler-briefe-cmif-to-normdata.xsl"
+          Source: https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
+          Transformed with: xslts/import-schnitzler-briefe-cmif-to-normdata.xsl"
           git push
 
       - name: Summary
