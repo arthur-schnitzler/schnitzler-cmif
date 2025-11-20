@@ -18,7 +18,7 @@ jobs:
         id: download
         run: |
           # Download main CMIF file
-          curl -o source-cmif.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
+          curl -o source-cmif.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe-cmif.xml
 
           # Download indices for faster XSLT processing
           mkdir -p indices
@@ -36,7 +36,7 @@ jobs:
         run: |
           # Download current version from repository
           if [ -f schnitzler-briefe-cmif.xml ]; then
-            curl -o downloaded-cmif.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
+            curl -o downloaded-cmif.xml https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe-cmif.xml
 
             # Compare files
             if cmp -s schnitzler-briefe-cmif.xml downloaded-cmif.xml; then
@@ -83,7 +83,7 @@ jobs:
           git add schnitzler-briefe-cmif.xml
           git commit -m "Update schnitzler-briefe-cmif.xml from upstream source
 
-          Source: https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe_cmif.xml
+          Source: https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/refs/heads/main/data/indices/schnitzler-briefe-cmif.xml
           Transformed with: xslts/import-schnitzler-briefe-cmif-to-normdata.xsl"
           git push
 
