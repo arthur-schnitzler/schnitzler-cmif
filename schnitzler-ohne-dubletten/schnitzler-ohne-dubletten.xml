@@ -45,17 +45,8 @@
                     Text &amp; Kontext. Jahrbuch für germanistische Literaturforschung in
                     Skandinavien, Jg. 36, 2014, 151–172.</bibl>
                <bibl type="print" xml:id="v149ca80-1848-4eff-991d-4c2560c2e17b">Freud, Sigmund: Briefe an Arthur Schnitzler. Hg. v. Heinrich Schnitzler. In: Neue deutsche Rundschau, Jg. 66/1(1955), S. 95–106. https://shared.acdh.oeaw.ac.at/schnitzler-briefe/1955_Freud-an-Schnitzler.pdf</bibl>
-               <bibl type="print" xml:id="j4f39377-ae1d-48c1-9afa-6e4618284c9a">Theodor Herzl:
-                    Briefe. Anfang Mai 1895 – Anfang Dezember 1898. Bearbeitet von Barbara Schäfer
-                    in Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin, Daisy Ticho.
-                    Berlin: Propyläen 1990. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein,
-                    Hermann Greive, Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Vierter
-                    Band)</bibl>
-               <bibl type="print" xml:id="i9ac725a-7aa1-4b66-9aaa-3fb96c91d495">Theodor Herzl:
-                    Briefe und autobiographische Notizen. 1866–1895. Bearbeitet von Johannes Wachten
-                    in Zusammenarbeit mit Chaya Harel, Daisy Tycho, Manfred Winkler. Berlin:
-                    Propyläen 1983. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein, Hermann
-                    Greive, Moshe Schaerf, Julius H. Schoeps. Erster Band)</bibl>
+               
+               
                <bibl type="print" xml:id="sb5b8e07-e0c8-47e6-8add-494150f56e37">Arthur Schnitzler:
                     Frau Bertha Garlan. Historisch-kritische Ausgabe. Herausgegeben von Gerhard
                     Hubmann und Isabella Schwentner und Mitarbeit von Anna Lindner und Martin Anton
@@ -71,11 +62,7 @@
                     Vengerova. Herausgegeben von Konstantin Asadowski und Martin
                     Anton Müller. In: Hofmannsthal-Jahrbuch zur europäischen Moderne, Bd. 30
                     (2022), S. 7–91. (Onlinezugriff: https://www.nomos-elibrary.de/10.5771/9783968219257-7/die-korrespondenz-von-arthur-schnitzler-mit-isabella-und-zinaida-vengerova)</bibl>
-               <bibl type="print" xml:id="b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b">Theodor Herzl:
-                    Briefe. Ende August 1900 – Ende Dezember 1902. Bearbeitet von Barbara Schäfer in
-                    Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin. Berlin: Propyläen
-                    1993. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein, Hermann Greive,
-                    Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Sechster Band)</bibl>
+               
                <bibl type="print" xml:id="q0f31f7c-c385-4bdd-b199-e671f4a30389">Therese Nickl: Arthur Schnitzler an Marie Reinhard (1896). In: Modern Austrian Literature, Jg. 10, 1977, H. 3/4,  S. 22–68 (verfügbar auf: https://www.jstor.org/stable/24645882)</bibl>
                <bibl type="hybrid" xml:id="hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777"> Hermann
                     Bahr, Arthur Schnitzler. Briefwechsel, Aufzeichnungen, Dokumente 1891–1931.
@@ -108,11 +95,7 @@
                <bibl type="print" xml:id="w300e3d7-7902-4a11-b0c7-2b0b441db98d">Gertrude
                     Cepl-Kaufmann et al. (Hgg.): Louise Dumont. Eine Kulturgeschichte in Briefen und
                     Dokumenten. Bd. 1: 1879-1904. Klartext Verlag, Essen 2013.</bibl>
-               <bibl type="print" xml:id="ob894f19-3b83-4a3a-9fbf-3658acd8e1af">Theodor Herzl:
-                    Briefe. Anfang Dezember 1898 – Mitte August 1900. Bearbeitet von Barbara Schäfer
-                    in Zusammenarbeit mit Sofia Gelmann, Chaya Harel, Ines Rubin. Berlin: Propyläen
-                    1991. (Theodor Herzl: Briefe und Tagebücher. Hg. Alex Bein, Hermann Greive,
-                    Moshe Schaerf, Julius H. Schoeps, Johannes Wachten. Fünfter Band)</bibl>
+               
                <bibl type="print" xml:id="d2b0f559-bde7-4114-82b9-741a8810c463">Arthur Schnitzler
                     und Waissnix, Olga: Liebe, die starb vor der Zeit. Ein Briefwechsel. Mit einem
                     Vorwort von Hans Weigel. Mit 16 Seiten Kunstdruckbildern. Hg. v. Therese Nickl
@@ -3790,580 +3773,58 @@
                <placeName ref="https://sws.geonames.org/2673730/" evidence="conjecture">Stockholm</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="624">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-05-05"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="625">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-05-14"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="628">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-05-19"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="641">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-06-23"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="645">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-07-20"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="651">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date cert="low" when="1895-08-01">Anfang August 1895</date>
-               <placeName ref="https://sws.geonames.org/2782070/">Aussee</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="660">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-08-25"/>
-               <placeName ref="https://sws.geonames.org/2782070/">Aussee</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="662">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date evidence="conjecture" when="1895-11-09"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j4f39377-ae1d-48c1-9afa-6e4618284c9a" key="772">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1896-04-08"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="98">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1885-05-29"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="127">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1885-08-14"/>
-               <placeName ref="https://sws.geonames.org/2774832/">Kammer am Attersee</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="187">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1886-10-02"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="541">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1892-07-29"/>
-               <placeName ref="https://sws.geonames.org/3013091/">Houlgate</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="542">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1892-10-10"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="543">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1892-11-16"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="548">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-01-02"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="553">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-05-04"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="554">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-05-13"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="555">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-05-19"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="556">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-06-15"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="558">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-06-29"/>
-               <placeName ref="https://sws.geonames.org/2659580/" evidence="conjecture">Morschach</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="563">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-08-06"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="564">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-09-12"/>
-               <placeName ref="https://sws.geonames.org/2782067/" evidence="conjecture">Baden bei
-                        Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="568">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1893-12-08"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="576">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-07-03"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="580">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-09-04"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="586">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-11-08"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="587">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-11-13"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="588">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-11-27"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="589">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-12-11"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="592">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-12-17"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="594">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-12-23"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="595">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-12-29"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="596">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1894-12-31"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="597">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-01-01"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="598">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-01-04"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="600">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-01-09"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="601">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date cert="low" when="1895-01-20">20.? Januar 1895</date>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="602">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date cert="low" when="1895-01-20">20.? Januar 1895</date>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="603">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-02-01"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="604">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-02-16"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="605">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-02-18"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="606">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date evidence="conjecture" when="1895-02-20"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="607">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-02-20"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="609">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-03-04"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="612">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date cert="low" evidence="conjecture" when="1895-03-19">ca. 19. März
-                        1895</date>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="613">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-03-21"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="614">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-03-30"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="615">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-04-03"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="616">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-04-08"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="617">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-04-16"/>
-               <placeName ref="https://sws.geonames.org/2988507/" evidence="conjecture">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#i9ac725a-7aa1-4b66-9aaa-3fb96c91d495" key="620">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1895-04-26"/>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
          <correspDesc source="#sb5b8e07-e0c8-47e6-8add-494150f56e37" key="1">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/1190590301">Lawner, Franziska</persName>
@@ -7428,138 +6889,18 @@
                <date notBefore="1914-09-01" notAfter="1914-09-04">[1. 9. 1914 – 4. 9. 1914?]</date>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3021">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1900-11-14"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3030">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1900-11-16"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3072">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1900-12-05"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3074">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1900-12-06"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3104">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1900-12-21"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1900-12-22"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1900-12-24"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3109">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1900-12-23"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3220">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1901-03-05"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3255">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1901-04-11"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3279">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1901-05-03"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#b5c73b7a-bcb8-436a-a3d6-f5de5dad3d5b" key="3629">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1901-11-25"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
          <correspDesc source="#q0f31f7c-c385-4bdd-b199-e671f4a30389" key="1">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -14692,61 +14033,11 @@
                <placeName ref="https://sws.geonames.org/2950159/" evidence="conjecture">Berlin</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#ob894f19-3b83-4a3a-9fbf-3658acd8e1af" key="1585">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1898-12-09"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#ob894f19-3b83-4a3a-9fbf-3658acd8e1af" key="2123">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1899-11-06"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#ob894f19-3b83-4a3a-9fbf-3658acd8e1af" key="2156">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1899-12-08"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#ob894f19-3b83-4a3a-9fbf-3658acd8e1af" key="2162">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1899-12-12"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#ob894f19-3b83-4a3a-9fbf-3658acd8e1af" key="2527">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-               <date when="1900-05-08"/>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
+         
+         
+         
+         
+         
          <correspDesc source="#d2b0f559-bde7-4114-82b9-741a8810c463">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118628526">Waissnix, Olga</persName>
@@ -21055,296 +20346,35 @@
                <persName>Heller, Wilhelm</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1892-07-25">25. 7. 1892</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1892-08-05">5. 8. 1892</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1892-11-12">12. 11.1892</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1892-12-30">30.12. 1892</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1893-06-13">13. 6. 1893</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1893-06-21">21. 6. 1893</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1893-10-02">2. 10. 1893</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1893-12-10">10. 12. 1893</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1894-07-05">5. 7. 1894</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1894-11-10">10. 11. 1894</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1894-11-17">17. 11.1894</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1894-11-30">30. 11. 1894</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1894-12-15">15. 12. 1894</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1894-12-19">19. 12. 1894</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1894-12-26">26. 12. 1894</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-01-07">7. 1. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-01-14">14. 1. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-01-30">30. 1. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-02-18">18. 2. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-03-09">9. 3. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-03-27">27. 3. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-04-06">6. 4. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-05-01">1. 5. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-05-16">16. 5. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-06-30">30. 6. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1900-11-15">15. 11. 1900</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1900-11-17">17. 11. 1900</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1900-12-22">22. 12. 1900</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1900-12-24">24. 12. 1900</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118550241">Herzl, Theodor</persName>
-            </correspAction>
-         </correspDesc>
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
