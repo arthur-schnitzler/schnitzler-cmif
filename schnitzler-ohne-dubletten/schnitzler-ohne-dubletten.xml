@@ -18,10 +18,6 @@
          </publicationStmt>
          <sourceDesc>
             <listBibl>
-               <bibl type="print" xml:id="d43bae78-6be4-4898-b4e5-86e3d9bc9f34">Stefan Zweig:
-                    Briefwechsel mit Hermann Bahr, Sigmund Freud, Rainer Maria Rilke und Arthur
-                    Schnitzler. Hgg. Jeffrey B. Berlin, Hans-Ulrich Lindken und Donald A. Prater.
-                    Berlin: S. Fischer 1987. (Nur Briefe an Bahr und Schnitzler erfasst)</bibl>
                <bibl type="hybrid" xml:id="z7240971-fbf6-453b-9f97-eb6aaa8f59ae">Peter Nansen -
                     Arthur Schnitzler: Ein Briefwechsel zweier Geistsverwandter. Hg. Karin Bang. In:
                     Småskrifter fra CØNK, Nr. 9, 2005, S. 1-60.<ref target="https://rucforsk.ruc.dk/ws/portalfiles/portal/40687325/coenksmaaskrifter9.pdf">https://rucforsk.ruc.dk/ws/portalfiles/portal/40687325/coenksmaaskrifter9.pdf</ref>
@@ -7915,19 +7911,7 @@
                <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041613"
-                      ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041613.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent" sameAs="schnitzler-briefe">
-               <persName>Zweig, Stefan</persName>
-               <placeName ref="https://sws.geonames.org/2766818/">[Salzburg]</placeName>
-               <date when="1913-05-31"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
-            </correspAction>
-         </correspDesc>
+         
          <correspDesc key="L041625"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041625.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
@@ -7980,32 +7964,8 @@
                <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041678"
-                      ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041678.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1897-04-22"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2988507/">Paris</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041679"
-                      ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041679.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1897-05-15"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName/>
-            </correspAction>
-         </correspDesc>
+         
+         
          <correspDesc key="L041651"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041651.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
@@ -8070,19 +8030,7 @@
                <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041681"
-                      ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041681.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1897-08-07"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName/>
-            </correspAction>
-         </correspDesc>
+         
          <correspDesc key="L041656"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041656.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
@@ -8108,19 +8056,7 @@
                <persName ref="https://d-nb.info/gnd/116848723">Schnitzler, Olga</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041680"
-                      ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041680.html"
-                      source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/1041571119">Plessner, Elsa</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1897-05-30"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName/>
-            </correspAction>
-         </correspDesc>
+         
          <correspDesc key="L041375"
                       ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041375.html"
                       source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
@@ -22329,86 +22265,14 @@
                <persName ref="https://d-nb.info/gnd/104417188X">Schwadron, Abraham</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-07-19">19. 7. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1895-07-28">28. 7. 1895</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1897-05-09">9. 5. 1897</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1897-05-23">23. 5. 1897</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-08-25">25. 8. 1899</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-09-09">9. 9. 1899</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-09-29">29. 9. 1899</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1900-07-09">9. 7. 1900</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
+         
+         
+         
+         
+         
+         
+         
+         
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -22560,16 +22424,7 @@
                <persName ref="https://d-nb.info/gnd/117225789">Stefan, Paul</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1911-12-27">27. 12. 1911</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118617958">Sternheim, Carl</persName>
-            </correspAction>
-         </correspDesc>
+         
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
@@ -27220,16 +27075,7 @@
                <persName>Schumann, Wolfgang</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1920-02-24">24. 2. 1920</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/1014997828">Schwarzkopf, Gustav</persName>
-            </correspAction>
-         </correspDesc>
+         
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
