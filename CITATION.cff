@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Wenn Sie diese Edition zitieren, verwenden Sie bitte die folgenden Metadaten."
+type: dataset
+title: "CMIF-Dateien für die Editionen der Korrespondenz Arthur Schnitzlers"
+abstract: "Correspondence Metadata Interchange Format (CMIF)-Dateien für gedruckte und digitale Editionen der Korrespondenz Arthur Schnitzlers. Werden in correspSearch (https://correspsearch.net) eingespielt."
+authors:
+  - family-names: "Müller"
+    given-names: "Martin Anton"
+    orcid: "https://orcid.org/0000-0002-0127-9109"
+    affiliation: "Austrian Centre for Digital Humanities and Cultural Heritage, Österreichische Akademie der Wissenschaften"
+repository-code: "https://github.com/arthur-schnitzler/schnitzler-cmif"
+license: MIT
+keywords:
+  - "Arthur Schnitzler"
+  - "Wiener Moderne"
+  - "Digital Scholarly Editing"
+  - "Digital Humanities"
+  - "CMIF"
+  - "correspSearch"
+  - "Korrespondenzmetadaten"
