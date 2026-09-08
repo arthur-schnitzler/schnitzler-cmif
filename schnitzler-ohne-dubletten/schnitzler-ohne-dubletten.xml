@@ -41,10 +41,6 @@
                   Arthur Schnitzler und die schwedische Kinderhilfsorganisation Rädda Barnen. In:
                   Text &amp; Kontext. Jahrbuch für germanistische Literaturforschung in
                   Skandinavien, Jg. 36, 2014, 151–172.</bibl>
-               <bibl type="print" xml:id="v149ca80-1848-4eff-991d-4c2560c2e17b">Freud, Sigmund:
-                  Briefe an Arthur Schnitzler. Hg. v. Heinrich Schnitzler. In: Neue deutsche
-                  Rundschau, Jg. 66/1(1955), S. 95–106.
-                  https://shared.acdh.oeaw.ac.at/schnitzler-briefe/1955_Freud-an-Schnitzler.pdf</bibl>
                <bibl type="print" xml:id="sb5b8e07-e0c8-47e6-8add-494150f56e37">Arthur Schnitzler:
                   Frau Bertha Garlan. Historisch-kritische Ausgabe. Herausgegeben von Gerhard
                   Hubmann und Isabella Schwentner und Mitarbeit von Anna Lindner und Martin Anton
@@ -13155,16 +13151,6 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118535560">Friedell, Egon</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#fdf53a30-aa17-4bd8-8f49-447d6f840c10">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1906-05-06"/>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118535315">Freud, Sigmund</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#v02efeb3-b382-4ed8-a71f-1366a4647e76" key="1">
