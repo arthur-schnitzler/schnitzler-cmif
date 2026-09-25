@@ -2240,15 +2240,6 @@
          </correspDesc>
          <correspDesc source="#g21edf0a-7af3-4163-813b-7d55aaaf2eba">
             <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <date when="1910-10-14"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#g21edf0a-7af3-4163-813b-7d55aaaf2eba">
-            <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118605429">Sandrock, Adele</persName>
                <date when="1910-10-15"/>
                <placeName ref="https://sws.geonames.org/2940187/">Charlottenburg</placeName>
@@ -3762,9 +3753,6 @@
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
             </correspAction>
          </correspDesc>
-         
-         
-         
          <correspDesc source="#g83efe7f-a9d8-49c4-ba69-8fdab0a99e4b">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/119343207">Sonnenthal, Adolf</persName>
@@ -7449,18 +7437,6 @@
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041216" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041216.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1897-07-22"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
-            </correspAction>
-         </correspDesc>
          <correspDesc key="L041672" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041672.html"
             source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
@@ -7832,18 +7808,6 @@
                <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041374" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041374.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1905-07-18"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
          <correspDesc key="L041389" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041389.html"
             source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
@@ -7904,43 +7868,6 @@
                <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041373" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041373.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="https://sws.geonames.org/2950159/">Berlin</placeName>
-               <date when="1906-03-28"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041372" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041372.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <persName>Salten, Ottilie</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1907-08-03"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/3173140/">Welsberg–Taisten</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041366" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041366.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1895-02-07"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
          <correspDesc key="L041399" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041399.html"
             source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
@@ -7951,77 +7878,6 @@
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/118691406">Fischer, Samuel</persName>
                <placeName ref="https://sws.geonames.org/2950159/">[Berlin]</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041358" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041358.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1900-06-20"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041370" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041370.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="https://sws.geonames.org/3220837/">München</placeName>
-               <date when="1895-02-18"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041364" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041364.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <date when="1894-09-11"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041365" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041365.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1894-09-15"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041371" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041371.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
-               <date when="1895-03-25"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041359" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041359.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1901-06-12"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041397" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041397.html"
@@ -8071,18 +7927,6 @@
                <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
             </correspAction>
          </correspDesc>
-         <correspDesc key="L041369" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041369.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="https://sws.geonames.org/9552461/">Unterach</placeName>
-               <date when="1892-08-08"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">[Wien]</placeName>
-            </correspAction>
-         </correspDesc>
          <correspDesc key="L041355" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041355.html"
             source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
             <correspAction type="sent">
@@ -8104,52 +7948,6 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/123368790">Reinhard, Marie</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041396" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041396.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/3173140/">Welsberg–Taisten</placeName>
-               <date when="1907-08-05"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041394" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041394.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1905-01-10"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041357" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041357.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1897-07-23"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2782052/">Bad Ischl</placeName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc key="L041395" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041395.html"
-            source="#hbas_0a380dfe-61d4-4b9e-8641-01eba8e50777">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
-               <date when="1907-01-18"/>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-               <placeName ref="http://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
          </correspDesc>
          <correspDesc key="L041352" ref="https://schnitzler-bahr.acdh.oeaw.ac.at/L041352.html"
@@ -21647,206 +21445,6 @@
          <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1892-03-21">21. 3. 1892</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1893-07-05">5. 7. 1893</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date evidence="conjecture" when="1893-08-14">14. 8. 1893</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1893-08-17">17. 8. 1893</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1897-04-26">26. 4. 1897</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1898-09-24">24. 9. 1898</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1899-09-04">4. 9. 1899</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1903-11-07">7. 11. 1903</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1903-11-10">10. 11. 1903</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1903-11-12">12. 11. 1903</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1904-04-13">13. 4. 1904</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1905-01-10">10. 1. 1905</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1905-04-11">11. 4. 1905</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1905-12-20">20. 12. 1905</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1906-04-27">27. 4. 1906</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1906-05-16">16. 5. 1906</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1907-01-18">18. 1. 1907</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1907-08-05">5. 8. 1907</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1908-05-30">30. 5. 1908</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1911-10-20">20. 10. 1911</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#j7685005-64da-4e31-99b6-b4641aa1628c">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
                <date when="1893-12-04">4. 12. 1893</date>
                <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
             </correspAction>
@@ -26104,66 +25702,6 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="https://d-nb.info/gnd/1061251942">Salfner, Heinz</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1923-07-22">22. 7. 1923</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1925-05-06">6. 5. 1925</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1927-02-10">10. 2. 1927</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1928-04-11">11. 4. 1928</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date evidence="conjecture" when="1929-09-06">6. 9. 1929</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
-            </correspAction>
-         </correspDesc>
-         <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <date when="1931-05-30">30. 5. 1931</date>
-               <placeName ref="https://sws.geonames.org/2761369/">Wien</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118840819">Salten, Felix</persName>
             </correspAction>
          </correspDesc>
          <correspDesc source="#jf7cbca5-b0b6-4bcf-adbf-38e94eed3cb3">
