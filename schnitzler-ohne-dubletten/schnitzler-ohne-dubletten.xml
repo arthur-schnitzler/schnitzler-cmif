@@ -35356,19 +35356,7 @@
                <persName>Clara Jonas</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#ya489e21-54d5-40de-a56d-f4548e894428" key="B303">
-            <correspAction type="sent">
-               <persName ref="https://d-nb.info/gnd/118514245">Brahm, Otto</persName>
-               <date cert="low" evidence="conjecture" when="1911-10-20"/>
-               <placeName cert="low" ref="https://sws.geonames.org/2950159/" evidence="conjecture"
-                  >Berlin</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
-               <placeName ref="https://sws.geonames.org/2761369/" evidence="conjecture"
-                  >Wien</placeName>
-            </correspAction>
-         </correspDesc>
+         
          <correspDesc source="#s68ac8da-2b04-4b21-afc4-b597655696e0" key="AS1">
             <correspAction type="sent">
                <persName ref="https://d-nb.info/gnd/118609807">Schnitzler, Arthur</persName>
